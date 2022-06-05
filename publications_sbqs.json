@@ -1,0 +1,5675 @@
+{
+  "publications": [
+    {
+      "@score": "3",
+      "@id": "374317",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "183/9137",
+              "text": "Luiz Paulo Carvalho"
+            },
+            {
+              "@pid": "303/9032",
+              "text": "Jos\u00e9 Antonio Suzano"
+            },
+            {
+              "@pid": "183/7120",
+              "text": "Monica Anastassiu"
+            },
+            {
+              "@pid": "33/6173",
+              "text": "Fl\u00e1via Maria Santoro"
+            },
+            {
+              "@pid": "o/JoniceOliveira",
+              "text": "Jonice Oliveira"
+            },
+            {
+              "@pid": "190/1318",
+              "text": "Jo\u00e3o Carlos Gon\u00e7alves"
+            }
+          ]
+        },
+        "title": "Ethics - What is the Research Scenario in the Brazilian Symposium SBQS?",
+        "venue": "SBQS",
+        "pages": "5:1-5:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CarvalhoSASOG21",
+        "doi": "10.1145/3493244.3493249",
+        "ee": "https://doi.org/10.1145/3493244.3493249",
+        "url": "https://dblp.org/rec/conf/sbqs/CarvalhoSASOG21"
+      },
+      "url": "URL#374317"
+    },
+    {
+      "@score": "3",
+      "@id": "1598668",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "117/6111",
+              "text": "Emmanuel S\u00e1vio Silva Freire"
+            },
+            {
+              "@pid": "233/2830",
+              "text": "Daniela Medeiros Cedro"
+            },
+            {
+              "@pid": "47/7361",
+              "text": "Antonio de Barros Serra"
+            }
+          ]
+        },
+        "title": "An Analysis of Brazilian Symposium on Software Quality (SBQS) - Retrospective, Relevance, and Trends in the Past 5 Years.",
+        "venue": "SBQS",
+        "pages": "31-40",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FreireCS18",
+        "doi": "10.1145/3275245.3275279",
+        "ee": "https://doi.org/10.1145/3275245.3275279",
+        "url": "https://dblp.org/rec/conf/sbqs/FreireCS18"
+      },
+      "url": "URL#1598668"
+    },
+    {
+      "@score": "3",
+      "@id": "1598680",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2870",
+              "text": "Thais S. Nepomuceno"
+            },
+            {
+              "@pid": "04/2051",
+              "text": "Edson OliveiraJr"
+            }
+          ]
+        },
+        "title": "Configuring Software Product Line Specific Products with SMarty and PLUS - An Experimental Study on Use Case Diagrams.",
+        "venue": "SBQS",
+        "pages": "81-90",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/NepomucenoO18",
+        "doi": "10.1145/3275245.3275254",
+        "ee": "https://doi.org/10.1145/3275245.3275254",
+        "url": "https://dblp.org/rec/conf/sbqs/NepomucenoO18"
+      },
+      "url": "URL#1598680"
+    },
+    {
+      "@score": "2",
+      "@id": "374313",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "50/915",
+              "text": "Aline Andrade"
+            },
+            {
+              "@pid": "190/1946",
+              "text": "Regina Albuquerque"
+            },
+            {
+              "@pid": "279/3132",
+              "text": "Tania Mara Dors"
+            },
+            {
+              "@pid": "173/1303",
+              "text": "Fabio Vinicius Binder"
+            },
+            {
+              "@pid": "82/191",
+              "text": "Andreia Malucelli"
+            },
+            {
+              "@pid": "05/2483",
+              "text": "Sheila S. Reinehr"
+            }
+          ]
+        },
+        "title": "Education, Innovation and Software Production - The use of Reflective Practice.",
+        "venue": "SBQS",
+        "pages": "26:1-26:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AndradeADBMR21",
+        "doi": "10.1145/3493244.3493265",
+        "ee": "https://doi.org/10.1145/3493244.3493265",
+        "url": "https://dblp.org/rec/conf/sbqs/AndradeADBMR21"
+      },
+      "url": "URL#374313"
+    },
+    {
+      "@score": "2",
+      "@id": "374314",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "300/5738",
+              "text": "Clara Berenguer"
+            },
+            {
+              "@pid": "300/5916",
+              "text": "Adriano Borges"
+            },
+            {
+              "@pid": "117/6111",
+              "text": "S\u00e1vio Freire"
+            },
+            {
+              "@pid": "163/7460",
+              "text": "Nicolli Rios"
+            },
+            {
+              "@pid": "130/7558",
+              "text": "Nebojsa Tausan"
+            },
+            {
+              "@pid": "276/3263",
+              "text": "Robert Ramac"
+            },
+            {
+              "@pid": "37/10925",
+              "text": "Boris P\u00e9rez"
+            },
+            {
+              "@pid": "118/6624",
+              "text": "Camilo Castellanos"
+            },
+            {
+              "@pid": "64/4496",
+              "text": "Dar\u00edo Correal"
+            },
+            {
+              "@pid": "189/6691",
+              "text": "Alexia Pacheco"
+            },
+            {
+              "@pid": "137/3344",
+              "text": "Gustavo L\u00f3pez 0001"
+            },
+            {
+              "@pid": "89/536",
+              "text": "Davide Falessi"
+            },
+            {
+              "@pid": "s/CarolynBSeaman",
+              "text": "Carolyn Seaman"
+            },
+            {
+              "@pid": "22/7085",
+              "text": "Vladimir Mandic"
+            },
+            {
+              "@pid": "26/3781",
+              "text": "Clemente Izurieta"
+            },
+            {
+              "@pid": "69/3094",
+              "text": "Rodrigo O. Sp\u00ednola"
+            }
+          ]
+        },
+        "title": "Technical Debt is not Only about Code and We Need to be Aware about It.",
+        "venue": "SBQS",
+        "pages": "14:1-14:12",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/BerenguerBFRTRP21",
+        "doi": "10.1145/3493244.3493285",
+        "ee": "https://doi.org/10.1145/3493244.3493285",
+        "url": "https://dblp.org/rec/conf/sbqs/BerenguerBFRTRP21"
+      },
+      "url": "URL#374314"
+    },
+    {
+      "@score": "2",
+      "@id": "374315",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6558",
+              "text": "Jhonatan Bernardes Boarim"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "CRM Systems Quality Evaluation.",
+        "venue": "SBQS",
+        "pages": "32:1-32:3",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/BoarimR21",
+        "doi": "10.1145/3493244.3493273",
+        "ee": "https://doi.org/10.1145/3493244.3493273",
+        "url": "https://dblp.org/rec/conf/sbqs/BoarimR21"
+      },
+      "url": "URL#374315"
+    },
+    {
+      "@score": "2",
+      "@id": "374316",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "249/9643",
+              "text": "G\u00eanesis Medeiros do Carmo"
+            },
+            {
+              "@pid": "11/6879",
+              "text": "D\u00e9bora Maria Barroso Paiva"
+            },
+            {
+              "@pid": "22/4238",
+              "text": "Maria Istela Cagnin"
+            }
+          ]
+        },
+        "title": "Incorporating accessibility in web interface development for deaf users.",
+        "venue": "SBQS",
+        "pages": "7:1-7:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CarmoPC21",
+        "doi": "10.1145/3493244.3493246",
+        "ee": "https://doi.org/10.1145/3493244.3493246",
+        "url": "https://dblp.org/rec/conf/sbqs/CarmoPC21"
+      },
+      "url": "URL#374316"
+    },
+    {
+      "@score": "2",
+      "@id": "374318",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "84/8008",
+              "text": "Rute Nogueira Silveira de Castro"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana Maria de Castro Andrade"
+            },
+            {
+              "@pid": "202/0821",
+              "text": "Ticianne de Gois Ribeiro Darin"
+            },
+            {
+              "@pid": "308/7681",
+              "text": "Leandro A. Carvalho"
+            },
+            {
+              "@pid": "170/1720",
+              "text": "Nayana Carneiro"
+            },
+            {
+              "@pid": "128/2919",
+              "text": "Maria da C. C. Ara\u00fajo"
+            }
+          ]
+        },
+        "title": "Accessibility Strategies in a Mobile Card Game.",
+        "venue": "SBQS",
+        "pages": "19:1-19:8",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CastroADCCA21",
+        "doi": "10.1145/3493244.3493270",
+        "ee": "https://doi.org/10.1145/3493244.3493270",
+        "url": "https://dblp.org/rec/conf/sbqs/CastroADCCA21"
+      },
+      "url": "URL#374318"
+    },
+    {
+      "@score": "2",
+      "@id": "374319",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7827",
+              "text": "Rubens Copche"
+            },
+            {
+              "@pid": "37/457",
+              "text": "Mariana Souza"
+            },
+            {
+              "@pid": "167/0747",
+              "text": "Isabel Karina Villanes"
+            },
+            {
+              "@pid": "128/3287",
+              "text": "Vinicius H. S. Durelli"
+            },
+            {
+              "@pid": "89/6957",
+              "text": "Marcelo Eler"
+            },
+            {
+              "@pid": "27/11253",
+              "text": "Arilo Claudio Dias-Neto"
+            },
+            {
+              "@pid": "55/7526",
+              "text": "Andr\u00e9 Takeshi Endo"
+            }
+          ]
+        },
+        "title": "Exploratory testing of apps with opportunity maps.",
+        "venue": "SBQS",
+        "pages": "6:1-6:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CopcheSVDEDE21",
+        "doi": "10.1145/3493244.3493248",
+        "ee": "https://doi.org/10.1145/3493244.3493248",
+        "url": "https://dblp.org/rec/conf/sbqs/CopcheSVDEDE21"
+      },
+      "url": "URL#374319"
+    },
+    {
+      "@score": "2",
+      "@id": "374320",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "277/1063",
+              "text": "Eberth Felipe Castro da Cruz"
+            },
+            {
+              "@pid": "248/4903",
+              "text": "Francisco Erivaldo Fernandes Junior"
+            },
+            {
+              "@pid": "308/8106",
+              "text": "Eduardo Drummond Sardinha"
+            }
+          ]
+        },
+        "title": "An experience in the use of SCRUM and KANBAN for project development in a Waterfall environment.",
+        "venue": "SBQS",
+        "pages": "20:1-20:7",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CruzJS21",
+        "doi": "10.1145/3493244.3493267",
+        "ee": "https://doi.org/10.1145/3493244.3493267",
+        "url": "https://dblp.org/rec/conf/sbqs/CruzJS21"
+      },
+      "url": "URL#374320"
+    },
+    {
+      "@score": "2",
+      "@id": "374321",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "303/3985",
+              "text": "Atac\u00edlio Costa Cunha"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            },
+            {
+              "@pid": "77/7361",
+              "text": "Bruno Gadelha"
+            }
+          ]
+        },
+        "title": "What really matters in Code Review? A study about challenges and opportunities related to code review in industry.",
+        "venue": "SBQS",
+        "pages": "18:1-18:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CunhaCG21",
+        "doi": "10.1145/3493244.3493255",
+        "ee": "https://doi.org/10.1145/3493244.3493255",
+        "url": "https://dblp.org/rec/conf/sbqs/CunhaCG21"
+      },
+      "url": "URL#374321"
+    },
+    {
+      "@score": "2",
+      "@id": "374322",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "166/2222",
+              "text": "Adriana Lopes Damian"
+            },
+            {
+              "@pid": "09/2802",
+              "text": "Clarisse Sieckenius de Souza"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            }
+          ]
+        },
+        "title": "Directives of Communicability for Software Artifacts.",
+        "venue": "SBQS",
+        "pages": "30:1-30:9",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/DamianSC21",
+        "doi": "10.1145/3493244.3493276",
+        "ee": "https://doi.org/10.1145/3493244.3493276",
+        "url": "https://dblp.org/rec/conf/sbqs/DamianSC21"
+      },
+      "url": "URL#374322"
+    },
+    {
+      "@score": "2",
+      "@id": "374323",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7487",
+              "text": "Thober Detofeno"
+            },
+            {
+              "@pid": "05/2483",
+              "text": "Sheila S. Reinehr"
+            },
+            {
+              "@pid": "82/191",
+              "text": "Andreia Malucelli"
+            }
+          ]
+        },
+        "title": "Technical Debt Guild - When experience and engagement improve Technical Debt Management.",
+        "venue": "SBQS",
+        "pages": "25:1-25:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/DetofenoRA21",
+        "doi": "10.1145/3493244.3493271",
+        "ee": "https://doi.org/10.1145/3493244.3493271",
+        "url": "https://dblp.org/rec/conf/sbqs/DetofenoRA21"
+      },
+      "url": "URL#374323"
+    },
+    {
+      "@score": "2",
+      "@id": "374324",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "224/8482",
+              "text": "Juliana Fernandes"
+            },
+            {
+              "@pid": "151/3182",
+              "text": "Valdemar Vicente Graciano Neto"
+            },
+            {
+              "@pid": "57/7989",
+              "text": "Rodrigo Pereira dos Santos"
+            }
+          ]
+        },
+        "title": "An Approach Based on Conceptual Modeling to Understand Factors that Influence Interoperability in Systems-of-Information Systems.",
+        "venue": "SBQS",
+        "pages": "34:1-34:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FernandesNS21",
+        "doi": "10.1145/3493244.3493275",
+        "ee": "https://doi.org/10.1145/3493244.3493275",
+        "url": "https://dblp.org/rec/conf/sbqs/FernandesNS21"
+      },
+      "url": "URL#374324"
+    },
+    {
+      "@score": "2",
+      "@id": "374325",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6414",
+              "text": "Matheus Silva Ferreira"
+            },
+            {
+              "@pid": "308/7821",
+              "text": "Paulo Pereira J\u00fanior"
+            },
+            {
+              "@pid": "42/7676",
+              "text": "Heitor Augustus Xavier Costa"
+            }
+          ]
+        },
+        "title": "Understanding Developers&apos; Work - A Visual Approach for Project Managers.",
+        "venue": "SBQS",
+        "pages": "16:1-16:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FerreiraJC21",
+        "doi": "10.1145/3493244.3493256",
+        "ee": "https://doi.org/10.1145/3493244.3493256",
+        "url": "https://dblp.org/rec/conf/sbqs/FerreiraJC21"
+      },
+      "url": "URL#374325"
+    },
+    {
+      "@score": "2",
+      "@id": "374326",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "135/0908",
+              "text": "Bruna Ferreira"
+            },
+            {
+              "@pid": "38/3792",
+              "text": "Marcos Kalinowski"
+            },
+            {
+              "@pid": "308/7553",
+              "text": "Marcos Vinicius de Carvalho Gomes"
+            },
+            {
+              "@pid": "308/7708",
+              "text": "Marcelo Cardoso Marques"
+            },
+            {
+              "@pid": "25/6137",
+              "text": "H\u00e9lio Lopes"
+            },
+            {
+              "@pid": "b/SDJBarbosa",
+              "text": "Simone D. J. Barbosa"
+            }
+          ]
+        },
+        "title": "Investigating Problem Definition and End-User Involvement in Agile Projects that Use Lean Inceptions.",
+        "venue": "SBQS",
+        "pages": "23:1-23:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FerreiraKGMLB21",
+        "doi": "10.1145/3493244.3493268",
+        "ee": "https://doi.org/10.1145/3493244.3493268",
+        "url": "https://dblp.org/rec/conf/sbqs/FerreiraKGMLB21"
+      },
+      "url": "URL#374326"
+    },
+    {
+      "@score": "2",
+      "@id": "374327",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "209/6341",
+              "text": "Renata Faria Gomes"
+            },
+            {
+              "@pid": "09/7656",
+              "text": "Val\u00e9ria Lelli"
+            }
+          ]
+        },
+        "title": "GAMUT - GAMe-based learning approach for teaching Unit Testing.",
+        "venue": "SBQS",
+        "pages": "27:1-27:11",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/GomesL21",
+        "doi": "10.1145/3493244.3493263",
+        "ee": "https://doi.org/10.1145/3493244.3493263",
+        "url": "https://dblp.org/rec/conf/sbqs/GomesL21"
+      },
+      "url": "URL#374327"
+    },
+    {
+      "@score": "2",
+      "@id": "374328",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "289/5330",
+              "text": "Remo de Oliveira Gresta"
+            },
+            {
+              "@pid": "128/3287",
+              "text": "Vinicius H. S. Durelli"
+            },
+            {
+              "@pid": "49/1805",
+              "text": "Elder Cirilo"
+            }
+          ]
+        },
+        "title": "Naming Practices in Java Projects - An Empirical Study.",
+        "venue": "SBQS",
+        "pages": "10:1-10:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/GrestaDC21",
+        "doi": "10.1145/3493244.3493258",
+        "ee": "https://doi.org/10.1145/3493244.3493258",
+        "url": "https://dblp.org/rec/conf/sbqs/GrestaDC21"
+      },
+      "url": "URL#374328"
+    },
+    {
+      "@score": "2",
+      "@id": "374329",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7430",
+              "text": "Rayfran Rocha Lima"
+            },
+            {
+              "@pid": "308/7591",
+              "text": "Oswald Ekwoge"
+            },
+            {
+              "@pid": "117/5517",
+              "text": "Bruno Bonif\u00e1cio"
+            },
+            {
+              "@pid": "277/1012",
+              "text": "Raquel F. V. Cunha"
+            },
+            {
+              "@pid": "277/1026",
+              "text": "Hualter O. Barbosa"
+            },
+            {
+              "@pid": "308/7903",
+              "text": "Ana Carolina Oran Rocha"
+            }
+          ]
+        },
+        "title": "Overcoming Knowledge-Sharing Barriers that Affect Software Quality - An Experience Report.",
+        "venue": "SBQS",
+        "pages": "24:1-24:9",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/LimaEBCBR21",
+        "doi": "10.1145/3493244.3493266",
+        "ee": "https://doi.org/10.1145/3493244.3493266",
+        "url": "https://dblp.org/rec/conf/sbqs/LimaEBCBR21"
+      },
+      "url": "URL#374329"
+    },
+    {
+      "@score": "2",
+      "@id": "374330",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "201/2424",
+              "text": "Walter Takashi Nakamura"
+            },
+            {
+              "@pid": "201/9881",
+              "text": "Jos\u00e9 Cezar de Souza Filho"
+            },
+            {
+              "@pid": "293/6800",
+              "text": "L\u00edgia M\u00e1rcia Teixeira"
+            },
+            {
+              "@pid": "308/7565",
+              "text": "Afonso Silva"
+            },
+            {
+              "@pid": "293/7265",
+              "text": "R\u00f3genis Pereira da Silva"
+            },
+            {
+              "@pid": "77/7361",
+              "text": "Bruno Gadelha"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            }
+          ]
+        },
+        "title": "Requirements Behind Reviews - How do Software Practitioners See App User Reviews to Think of Requirements?",
+        "venue": "SBQS",
+        "pages": "12:1-12:9",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/NakamuraFTSSGC21",
+        "doi": "10.1145/3493244.3493245",
+        "ee": "https://doi.org/10.1145/3493244.3493245",
+        "url": "https://dblp.org/rec/conf/sbqs/NakamuraFTSSGC21"
+      },
+      "url": "URL#374330"
+    },
+    {
+      "@score": "2",
+      "@id": "374331",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "303/9226",
+              "text": "Let\u00edcia Carvalho Passos"
+            },
+            {
+              "@pid": "286/2700",
+              "text": "Lucas Viana"
+            },
+            {
+              "@pid": "166/0998",
+              "text": "Edson Oliveira 0001"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            }
+          ]
+        },
+        "title": "LabelUX! Guidelines to support software engineers to design data labeling systems.",
+        "venue": "SBQS",
+        "pages": "9:1-9:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PassosV0C21",
+        "doi": "10.1145/3493244.3493252",
+        "ee": "https://doi.org/10.1145/3493244.3493252",
+        "url": "https://dblp.org/rec/conf/sbqs/PassosV0C21"
+      },
+      "url": "URL#374331"
+    },
+    {
+      "@score": "2",
+      "@id": "374332",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "193/9966",
+              "text": "Igor Muzetti Pereira"
+            },
+            {
+              "@pid": "07/4662",
+              "text": "Tiago Garcia de Senna Carneiro"
+            },
+            {
+              "@pid": "03/335",
+              "text": "Eduardo Figueiredo 0001"
+            }
+          ]
+        },
+        "title": "Investigating Continuous Delivery on IoT Systems.",
+        "venue": "SBQS",
+        "pages": "8:1-8:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PereiraC021",
+        "doi": "10.1145/3493244.3493261",
+        "ee": "https://doi.org/10.1145/3493244.3493261",
+        "url": "https://dblp.org/rec/conf/sbqs/PereiraC021"
+      },
+      "url": "URL#374332"
+    },
+    {
+      "@score": "2",
+      "@id": "374333",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7788",
+              "text": "Adriano Pizzini"
+            },
+            {
+              "@pid": "308/7452",
+              "text": "Ricardo Bortolo Vieira"
+            },
+            {
+              "@pid": "308/7790",
+              "text": "Rhodrigo Deda Gomes"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            },
+            {
+              "@pid": "82/191",
+              "text": "Andreia Malucelli"
+            },
+            {
+              "@pid": "05/2483",
+              "text": "Sheila S. Reinehr"
+            }
+          ]
+        },
+        "title": "Software Quality Practices in Growing Startups - A Qualitative Study.",
+        "venue": "SBQS",
+        "pages": "13:1-13:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PizziniVGSMR21",
+        "doi": "10.1145/3493244.3493254",
+        "ee": "https://doi.org/10.1145/3493244.3493254",
+        "url": "https://dblp.org/rec/conf/sbqs/PizziniVGSMR21"
+      },
+      "url": "URL#374333"
+    },
+    {
+      "@score": "2",
+      "@id": "374334",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7623",
+              "text": "Ana Beatriz Cavalcanti Ribeiro"
+            },
+            {
+              "@pid": "93/9961",
+              "text": "Carina Frota Alves"
+            }
+          ]
+        },
+        "title": "A Survey Research on Feedback Practices in Agile Software Development Teams.",
+        "venue": "SBQS",
+        "pages": "3:1-3:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RibeiroA21",
+        "doi": "10.1145/3493244.3493284",
+        "ee": "https://doi.org/10.1145/3493244.3493284",
+        "url": "https://dblp.org/rec/conf/sbqs/RibeiroA21"
+      },
+      "url": "URL#374334"
+    },
+    {
+      "@score": "2",
+      "@id": "374335",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "163/7460",
+              "text": "Nicolli Rios"
+            },
+            {
+              "@pid": "69/3094",
+              "text": "Rodrigo O. Sp\u00ednola"
+            },
+            {
+              "@pid": "m/ManoelGMendonca",
+              "text": "Manoel G. Mendon\u00e7a"
+            }
+          ]
+        },
+        "title": "Organizing a Set of Empirical Findings on the Causes and Effects of Technical Debt through a Globally Distributed Family of Surveys - Extended Abstract.",
+        "venue": "SBQS",
+        "pages": "31:1-31:3",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RiosSM21",
+        "doi": "10.1145/3493244.3493279",
+        "ee": "https://doi.org/10.1145/3493244.3493279",
+        "url": "https://dblp.org/rec/conf/sbqs/RiosSM21"
+      },
+      "url": "URL#374335"
+    },
+    {
+      "@score": "2",
+      "@id": "374336",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/8100",
+              "text": "Rafaela Sampaio"
+            },
+            {
+              "@pid": "77/2181",
+              "text": "Cristina Teles Cerdeiral"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            }
+          ]
+        },
+        "title": "A Method to Support Continuous Planning at the Team Level.",
+        "venue": "SBQS",
+        "pages": "2:1-2:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SampaioCS21",
+        "doi": "10.1145/3493244.3493257",
+        "ee": "https://doi.org/10.1145/3493244.3493257",
+        "url": "https://dblp.org/rec/conf/sbqs/SampaioCS21"
+      },
+      "url": "URL#374336"
+    },
+    {
+      "@score": "2",
+      "@id": "374337",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7499",
+              "text": "Fl\u00e1vio Shinzato"
+            },
+            {
+              "@pid": "11/6879",
+              "text": "D\u00e9bora Maria Barroso Paiva"
+            },
+            {
+              "@pid": "308/8055",
+              "text": "Maria Istela Cagin"
+            },
+            {
+              "@pid": "46/10082",
+              "text": "Bruno B. P. Cafeo"
+            },
+            {
+              "@pid": "168/6211",
+              "text": "Awdren L. Font\u00e3o"
+            }
+          ]
+        },
+        "title": "So you&apos;ve graduated college and need to test apps - What barriers might you face?",
+        "venue": "SBQS",
+        "pages": "28:1-28:9",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/ShinzatoPCCF21",
+        "doi": "10.1145/3493244.3493264",
+        "ee": "https://doi.org/10.1145/3493244.3493264",
+        "url": "https://dblp.org/rec/conf/sbqs/ShinzatoPCCF21"
+      },
+      "url": "URL#374337"
+    },
+    {
+      "@score": "2",
+      "@id": "374338",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7410",
+              "text": "Maike Bezerra da Silva"
+            },
+            {
+              "@pid": "09/5610",
+              "text": "Carla I. M. Bezerra"
+            },
+            {
+              "@pid": "93/10788",
+              "text": "Emanuel F. Coutinho"
+            },
+            {
+              "@pid": "308/7795",
+              "text": "Paulo Henrique Maia"
+            }
+          ]
+        },
+        "title": "A Catalog of Performance Measures for Self-Adaptive Systems.",
+        "venue": "SBQS",
+        "pages": "1:1-1:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaBCM21",
+        "doi": "10.1145/3493244.3493259",
+        "ee": "https://doi.org/10.1145/3493244.3493259",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaBCM21"
+      },
+      "url": "URL#374338"
+    },
+    {
+      "@score": "2",
+      "@id": "374339",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "23/3006",
+              "text": "Jefferson de Carvalho Silva"
+            },
+            {
+              "@pid": "165/3769",
+              "text": "Paulo A. de S. Duarte"
+            },
+            {
+              "@pid": "233/1862",
+              "text": "Amanda Oliveira de Sousa"
+            },
+            {
+              "@pid": "308/7450",
+              "text": "Bruno A. Sab\u00f3ia Arag\u00e3o"
+            },
+            {
+              "@pid": "308/7915",
+              "text": "Mariana Salamoni Francisco"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana Maria de Castro Andrade"
+            }
+          ]
+        },
+        "title": "&quot;Everything&apos;s online, now what?!&quot; - Knowledge Management in a Remote Working Environment.",
+        "venue": "SBQS",
+        "pages": "22:1-22:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaDSAFA21",
+        "doi": "10.1145/3493244.3493272",
+        "ee": "https://doi.org/10.1145/3493244.3493272",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaDSAFA21"
+      },
+      "url": "URL#374339"
+    },
+    {
+      "@score": "2",
+      "@id": "374340",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7523",
+              "text": "Jonathan Messias e Silva"
+            },
+            {
+              "@pid": "165/3788",
+              "text": "Manoel Limeira de Lima J\u00fanior"
+            }
+          ]
+        },
+        "title": "Prediction of Pull Requests Review Time in Open Source Projects.",
+        "venue": "SBQS",
+        "pages": "11:1-11:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaJ21",
+        "doi": "10.1145/3493244.3493262",
+        "ee": "https://doi.org/10.1145/3493244.3493262",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaJ21"
+      },
+      "url": "URL#374340"
+    },
+    {
+      "@score": "2",
+      "@id": "374341",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "266/5959",
+              "text": "Leandro F. Silva"
+            },
+            {
+              "@pid": "04/2051",
+              "text": "Edson OliveiraJr"
+            }
+          ]
+        },
+        "title": "SMartyModeling - an instance of VMTools-RA for Engineering UML-based Software Product Lines.",
+        "venue": "SBQS",
+        "pages": "33:1-33:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaO21",
+        "doi": "10.1145/3493244.3493274",
+        "ee": "https://doi.org/10.1145/3493244.3493274",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaO21"
+      },
+      "url": "URL#374341"
+    },
+    {
+      "@score": "2",
+      "@id": "374342",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7984",
+              "text": "Jaciana B. Da Silva"
+            },
+            {
+              "@pid": "238/7439",
+              "text": "Johnattan D. F. Viana"
+            },
+            {
+              "@pid": "254/6500",
+              "text": "Joseane de O. V. Paiva"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. C. Andrade"
+            },
+            {
+              "@pid": "36/10735",
+              "text": "Reinaldo Bezerra Braga"
+            },
+            {
+              "@pid": "143/1079",
+              "text": "Carina Teixeira de Oliveira"
+            }
+          ]
+        },
+        "title": "Development Report of an Oncology Application Following a User-centered Design Methodology.",
+        "venue": "SBQS",
+        "pages": "21:1-21:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaVPABO21",
+        "doi": "10.1145/3493244.3493269",
+        "ee": "https://doi.org/10.1145/3493244.3493269",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaVPABO21"
+      },
+      "url": "URL#374342"
+    },
+    {
+      "@score": "2",
+      "@id": "374343",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7613",
+              "text": "Bruno Luan de Sousa"
+            },
+            {
+              "@pid": "91/739",
+              "text": "Mariza Andrade da Silva Bigonha"
+            },
+            {
+              "@pid": "121/2557",
+              "text": "Kecia Aline Marques Ferreira"
+            },
+            {
+              "@pid": "21/903",
+              "text": "Glaura da Concei\u00e7\u00e3o Franco"
+            }
+          ]
+        },
+        "title": "Characterizing the Evolution of Size and Inheritance in Object-Oriented Software.",
+        "venue": "SBQS",
+        "pages": "4:1-4:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SousaBFF21",
+        "doi": "10.1145/3493244.3493247",
+        "ee": "https://doi.org/10.1145/3493244.3493247",
+        "url": "https://dblp.org/rec/conf/sbqs/SousaBFF21"
+      },
+      "url": "URL#374343"
+    },
+    {
+      "@score": "2",
+      "@id": "374344",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "246/3488",
+              "text": "Ulisses Telemaco"
+            },
+            {
+              "@pid": "o/ToacyCavalcantedeOliveira",
+              "text": "Toacy Cavalcante de Oliveira"
+            }
+          ]
+        },
+        "title": "AgileQube - An approach for specification and detection of agile smells.",
+        "venue": "SBQS",
+        "pages": "29:1-29:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/TelemacoO21",
+        "doi": "10.1145/3493244.3493282",
+        "ee": "https://doi.org/10.1145/3493244.3493282",
+        "url": "https://dblp.org/rec/conf/sbqs/TelemacoO21"
+      },
+      "url": "URL#374344"
+    },
+    {
+      "@score": "2",
+      "@id": "374345",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "308/7647",
+              "text": "Sara Vendramini"
+            },
+            {
+              "@pid": "308/8087",
+              "text": "Luana Belusso"
+            },
+            {
+              "@pid": "308/7738",
+              "text": "Francisco Carlos Souza"
+            },
+            {
+              "@pid": "308/7598",
+              "text": "Alinne Souza"
+            }
+          ]
+        },
+        "title": "Towards comprise the Design System Applicability - A Multivocal Literature Mapping.",
+        "venue": "SBQS",
+        "pages": "15:1-15:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/VendraminiBSS21",
+        "doi": "10.1145/3493244.3493260",
+        "ee": "https://doi.org/10.1145/3493244.3493260",
+        "url": "https://dblp.org/rec/conf/sbqs/VendraminiBSS21"
+      },
+      "url": "URL#374345"
+    },
+    {
+      "@score": "2",
+      "@id": "374346",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "276/8441",
+              "text": "Daniele Wolfart"
+            },
+            {
+              "@pid": "90/9459",
+              "text": "Wesley Klewerton Guez Assun\u00e7\u00e3o"
+            },
+            {
+              "@pid": "86/3767",
+              "text": "Jabier Martinez"
+            }
+          ]
+        },
+        "title": "Variability Debt - Characterization, Causes and Consequences.",
+        "venue": "SBQS",
+        "pages": "17:1-17:10",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/WolfartAM21",
+        "doi": "10.1145/3493244.3493250",
+        "ee": "https://doi.org/10.1145/3493244.3493250",
+        "url": "https://dblp.org/rec/conf/sbqs/WolfartAM21"
+      },
+      "url": "URL#374346"
+    },
+    {
+      "@score": "2",
+      "@id": "798526",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "64/6515",
+              "text": "Adriano Bessa Albuquerque"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "Characterization of Brazilian Software Startups Focusing on Processes, Product Quality and IT Governance.",
+        "venue": "SBQS",
+        "pages": "38:1-38:6",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AlbuquerqueR20",
+        "doi": "10.1145/3439961.3439999",
+        "ee": "https://doi.org/10.1145/3439961.3439999",
+        "url": "https://dblp.org/rec/conf/sbqs/AlbuquerqueR20"
+      },
+      "url": "URL#798526"
+    },
+    {
+      "@score": "2",
+      "@id": "798527",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "190/1946",
+              "text": "Regina Albuquerque"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            },
+            {
+              "@pid": "82/191",
+              "text": "Andreia Malucelli"
+            },
+            {
+              "@pid": "05/2483",
+              "text": "Sheila S. Reinehr"
+            }
+          ]
+        },
+        "title": "Abandonment of a Software Process Improvement Program - Insights from Case Studies.",
+        "venue": "SBQS",
+        "pages": "5:1-5:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AlbuquerqueSMR20",
+        "doi": "10.1145/3439961.3439966",
+        "ee": "https://doi.org/10.1145/3439961.3439966",
+        "url": "https://dblp.org/rec/conf/sbqs/AlbuquerqueSMR20"
+      },
+      "url": "URL#798527"
+    },
+    {
+      "@score": "2",
+      "@id": "798528",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "183/7120",
+              "text": "Monica Anastassiu"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            }
+          ]
+        },
+        "title": "Resistance to Change in Software Process Improvement - An Investigation of Causes, Effects and Conducts.",
+        "venue": "SBQS",
+        "pages": "21:1-21:11",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AnastassiuS20",
+        "doi": "10.1145/3439961.3439982",
+        "ee": "https://doi.org/10.1145/3439961.3439982",
+        "url": "https://dblp.org/rec/conf/sbqs/AnastassiuS20"
+      },
+      "url": "URL#798528"
+    },
+    {
+      "@score": "2",
+      "@id": "798529",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0098",
+              "text": "Filipe Santos Araujo"
+            },
+            {
+              "@pid": "05/4141",
+              "text": "Auri Marcelo Rizzo Vincenzi"
+            }
+          ]
+        },
+        "title": "How far are we from testing a program in a completely automated way, considering the mutation testing criterion at unit level?",
+        "venue": "SBQS",
+        "pages": "16:1-16:9",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AraujoV20",
+        "doi": "10.1145/3439961.3439977",
+        "ee": "https://doi.org/10.1145/3439961.3439977",
+        "url": "https://dblp.org/rec/conf/sbqs/AraujoV20"
+      },
+      "url": "URL#798529"
+    },
+    {
+      "@score": "2",
+      "@id": "798530",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0274",
+              "text": "Carolina Arenas"
+            },
+            {
+              "@pid": "165/9276",
+              "text": "Lina Garc\u00e9s"
+            },
+            {
+              "@pid": "287/0455",
+              "text": "Mar\u00eda J. C. Carmona"
+            },
+            {
+              "@pid": "287/0046",
+              "text": "Claudia Marquez Sim\u00f5es"
+            }
+          ]
+        },
+        "title": "Requirements specification of a software-intensive system in the health domain - An experience report.",
+        "venue": "SBQS",
+        "pages": "35:1-35:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/ArenasGCS20",
+        "doi": "10.1145/3439961.3439996",
+        "ee": "https://doi.org/10.1145/3439961.3439996",
+        "url": "https://dblp.org/rec/conf/sbqs/ArenasGCS20"
+      },
+      "url": "URL#798530"
+    },
+    {
+      "@score": "2",
+      "@id": "798531",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/4466",
+              "text": "Aline F. Barbosa"
+            },
+            {
+              "@pid": "246/8055",
+              "text": "Geraldo Torres G. Neto"
+            },
+            {
+              "@pid": "33/6624",
+              "text": "Maria Lencastre"
+            },
+            {
+              "@pid": "09/3303",
+              "text": "Roberta A. de A. Fagundes"
+            },
+            {
+              "@pid": "119/7532",
+              "text": "Wylliams Barbosa Santos"
+            }
+          ]
+        },
+        "title": "Fostering Industry-Academia Collaboration in Software Engineering using Action Research - A Case Study.",
+        "venue": "SBQS",
+        "pages": "44:1-44:9",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/BarbosaNLFS20",
+        "doi": "10.1145/3439961.3440005",
+        "ee": "https://doi.org/10.1145/3439961.3440005",
+        "url": "https://dblp.org/rec/conf/sbqs/BarbosaNLFS20"
+      },
+      "url": "URL#798531"
+    },
+    {
+      "@score": "2",
+      "@id": "798532",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6558",
+              "text": "Jhonatan Boarim"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "Quality Characteristics of CRM Systems.",
+        "venue": "SBQS",
+        "pages": "19:1-19:13",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/BoarimR20",
+        "doi": "10.1145/3439961.3439980",
+        "ee": "https://doi.org/10.1145/3439961.3439980",
+        "url": "https://dblp.org/rec/conf/sbqs/BoarimR20"
+      },
+      "url": "URL#798532"
+    },
+    {
+      "@score": "2",
+      "@id": "798533",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "229/5356",
+              "text": "Ursula Campos"
+            },
+            {
+              "@pid": "166/2222",
+              "text": "Adriana Lopes"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            }
+          ]
+        },
+        "title": "Evolution of BPMN Models through e-VOL BPMN.",
+        "venue": "SBQS",
+        "pages": "22:1-22:11",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CamposLC20",
+        "doi": "10.1145/3439961.3439983",
+        "ee": "https://doi.org/10.1145/3439961.3439983",
+        "url": "https://dblp.org/rec/conf/sbqs/CamposLC20"
+      },
+      "url": "URL#798533"
+    },
+    {
+      "@score": "2",
+      "@id": "798534",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "170/1720",
+              "text": "Nayana Carneiro"
+            },
+            {
+              "@pid": "249/9660",
+              "text": "Bianca Melo"
+            },
+            {
+              "@pid": "287/0249",
+              "text": "Let\u00edcia Cavalcante"
+            },
+            {
+              "@pid": "84/8008",
+              "text": "Rute Castro"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. C. Andrade"
+            },
+            {
+              "@pid": "202/0821",
+              "text": "Ticianne Darin"
+            }
+          ]
+        },
+        "title": "Mobili - Development and Use of a Usability Checklist for Mobile Games and Applications.",
+        "venue": "SBQS",
+        "pages": "33:1-33:9",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CarneiroMCCAD20",
+        "doi": "10.1145/3439961.3439994",
+        "ee": "https://doi.org/10.1145/3439961.3439994",
+        "url": "https://dblp.org/rec/conf/sbqs/CarneiroMCCAD20"
+      },
+      "url": "URL#798534"
+    },
+    {
+      "@score": "2",
+      "@id": "798535",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0401",
+              "text": "Elielton da Costa Carvalho"
+            },
+            {
+              "@pid": "282/5538",
+              "text": "Paulo R. Campelo Malcher"
+            },
+            {
+              "@pid": "57/7989",
+              "text": "Rodrigo Pereira dos Santos"
+            }
+          ]
+        },
+        "title": "A Survey Research on the Use of Mobile Applications in Software Project Management.",
+        "venue": "SBQS",
+        "pages": "2:1-2:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CarvalhoMS20",
+        "doi": "10.1145/3439961.3439963",
+        "ee": "https://doi.org/10.1145/3439961.3439963",
+        "url": "https://dblp.org/rec/conf/sbqs/CarvalhoMS20"
+      },
+      "url": "URL#798535"
+    },
+    {
+      "@score": "2",
+      "@id": "798536",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "221/1636",
+              "text": "Jo\u00e3o Lucas Correia"
+            },
+            {
+              "@pid": "139/6642",
+              "text": "Juliana Alves Pereira"
+            },
+            {
+              "@pid": "121/2507",
+              "text": "Rafael Maiani de Mello"
+            },
+            {
+              "@pid": "g/AlessandroFGarcia",
+              "text": "Alessandro Garcia 0001"
+            },
+            {
+              "@pid": "22/7095",
+              "text": "Baldoino Fonseca"
+            },
+            {
+              "@pid": "r/MarcioRibeiro",
+              "text": "M\u00e1rcio Ribeiro 0001"
+            },
+            {
+              "@pid": "10/3240",
+              "text": "Rohit Gheyi"
+            },
+            {
+              "@pid": "38/3792",
+              "text": "Marcos Kalinowski"
+            },
+            {
+              "@pid": "165/3587",
+              "text": "Renato Cerqueira"
+            },
+            {
+              "@pid": "122/2366",
+              "text": "Willy Tiengo"
+            }
+          ]
+        },
+        "title": "Brazilian Data Scientists - Revealing their Challenges and Practices on Machine Learning Model Development.",
+        "venue": "SBQS",
+        "pages": "10:1-10:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CorreiaPMGFRGKC20",
+        "doi": "10.1145/3439961.3439971",
+        "ee": "https://doi.org/10.1145/3439961.3439971",
+        "url": "https://dblp.org/rec/conf/sbqs/CorreiaPMGFRGKC20"
+      },
+      "url": "URL#798536"
+    },
+    {
+      "@score": "2",
+      "@id": "798537",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "223/4659",
+              "text": "Diogo Matheus Costa"
+            },
+            {
+              "@pid": "76/8543",
+              "text": "Eld\u00e2nae Nogueira Teixeira"
+            },
+            {
+              "@pid": "w/CMLWerner",
+              "text": "Cl\u00e1udia Maria Lima Werner"
+            }
+          ]
+        },
+        "title": "A Repository to Support Software Process Reuse Based on Process Lines.",
+        "venue": "SBQS",
+        "pages": "1:1-1:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CostaTW20",
+        "doi": "10.1145/3439961.3439962",
+        "ee": "https://doi.org/10.1145/3439961.3439962",
+        "url": "https://dblp.org/rec/conf/sbqs/CostaTW20"
+      },
+      "url": "URL#798537"
+    },
+    {
+      "@score": "2",
+      "@id": "798538",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "223/4659",
+              "text": "Diogo Matheus Costa"
+            },
+            {
+              "@pid": "76/8543",
+              "text": "Eld\u00e2nae Nogueira Teixeira"
+            },
+            {
+              "@pid": "w/CMLWerner",
+              "text": "Cl\u00e1udia Maria Lima Werner"
+            }
+          ]
+        },
+        "title": "Towards a Biology-Based Approach to Support Software Process Line Evolution.",
+        "venue": "SBQS",
+        "pages": "40:1-40:6",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CostaTW20a",
+        "doi": "10.1145/3439961.3440001",
+        "ee": "https://doi.org/10.1145/3439961.3440001",
+        "url": "https://dblp.org/rec/conf/sbqs/CostaTW20a"
+      },
+      "url": "URL#798538"
+    },
+    {
+      "@score": "2",
+      "@id": "798539",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "202/0821",
+              "text": "Ticianne G. R. Darin"
+            },
+            {
+              "@pid": "170/1720",
+              "text": "Nayana Carneiro"
+            },
+            {
+              "@pid": "254/6500",
+              "text": "Joseane de O. V. Paiva"
+            },
+            {
+              "@pid": "98/10587",
+              "text": "Ismayle S. Santos"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. C. Andrade"
+            }
+          ]
+        },
+        "title": "Contextual Requirements Elicitation through the Combination of Interviews, Scenarios and Visual Artifacts.",
+        "venue": "SBQS",
+        "pages": "29:1-29:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/DarinCPSA20",
+        "doi": "10.1145/3439961.3439990",
+        "ee": "https://doi.org/10.1145/3439961.3439990",
+        "url": "https://dblp.org/rec/conf/sbqs/DarinCPSA20"
+      },
+      "url": "URL#798539"
+    },
+    {
+      "@score": "2",
+      "@id": "798540",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "172/0076",
+              "text": "Eliezer Dutra"
+            },
+            {
+              "@pid": "287/0372",
+              "text": "Patricia Lima"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            }
+          ]
+        },
+        "title": "An Instrument to Assess the Organizational Climate of Agile Teams - A Preliminary Study.",
+        "venue": "SBQS",
+        "pages": "7:1-7:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/DutraLS20",
+        "doi": "10.1145/3439961.3439968",
+        "ee": "https://doi.org/10.1145/3439961.3439968",
+        "url": "https://dblp.org/rec/conf/sbqs/DutraLS20"
+      },
+      "url": "URL#798540"
+    },
+    {
+      "@score": "2",
+      "@id": "798541",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0071",
+              "text": "Daniel David Fernandes"
+            },
+            {
+              "@pid": "11/2049",
+              "text": "Rita Suzana Pitangueira Maciel"
+            }
+          ]
+        },
+        "title": "Towards a Test Case Generation Tool Based on Functional Requirements.",
+        "venue": "SBQS",
+        "pages": "41:1-41:6",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FernandesM20",
+        "doi": "10.1145/3439961.3440002",
+        "ee": "https://doi.org/10.1145/3439961.3440002",
+        "url": "https://dblp.org/rec/conf/sbqs/FernandesM20"
+      },
+      "url": "URL#798541"
+    },
+    {
+      "@score": "2",
+      "@id": "798542",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "282/4728",
+              "text": "Francisco Gutenberg S. Filho"
+            },
+            {
+              "@pid": "09/7656",
+              "text": "Val\u00e9ria Lelli"
+            },
+            {
+              "@pid": "98/10587",
+              "text": "Ismayle de Sousa Santos"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. C. Andrade"
+            }
+          ]
+        },
+        "title": "Correlations among Software Testability Metrics.",
+        "venue": "SBQS",
+        "pages": "11:1-11:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FilhoLSA20",
+        "doi": "10.1145/3439961.3439972",
+        "ee": "https://doi.org/10.1145/3439961.3439972",
+        "url": "https://dblp.org/rec/conf/sbqs/FilhoLSA20"
+      },
+      "url": "URL#798542"
+    },
+    {
+      "@score": "2",
+      "@id": "798543",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6318",
+              "text": "Luiz Cavamura J\u00fanior"
+            },
+            {
+              "@pid": "71/6937",
+              "text": "Anderson Belgamo"
+            },
+            {
+              "@pid": "234/0796",
+              "text": "Vin\u00edcius Rafael Lobo de Mendon\u00e7a"
+            },
+            {
+              "@pid": "05/4141",
+              "text": "Auri Marcelo Rizzo Vincenzi"
+            }
+          ]
+        },
+        "title": "WarningsFIX - a Recommendation System for Prioritizing Warnings Generated by Automated Static Analyzers.",
+        "venue": "SBQS",
+        "pages": "26:1-26:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/JuniorBMV20",
+        "doi": "10.1145/3439961.3439987",
+        "ee": "https://doi.org/10.1145/3439961.3439987",
+        "url": "https://dblp.org/rec/conf/sbqs/JuniorBMV20"
+      },
+      "url": "URL#798543"
+    },
+    {
+      "@score": "2",
+      "@id": "798544",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0181",
+              "text": "Pedro Henrique Kuroishi"
+            },
+            {
+              "@pid": "84/3153",
+              "text": "M\u00e1rcio Eduardo Delamaro"
+            },
+            {
+              "@pid": "28/2292",
+              "text": "Jos\u00e9 Carlos Maldonado"
+            },
+            {
+              "@pid": "05/4141",
+              "text": "Auri Marcelo Rizzo Vincenzi"
+            }
+          ]
+        },
+        "title": "Reducing the Cost of Mutation Testing with the Use of Primitive Arcs Concept.",
+        "venue": "SBQS",
+        "pages": "20:1-20:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/KuroishiDMV20",
+        "doi": "10.1145/3439961.3439981",
+        "ee": "https://doi.org/10.1145/3439961.3439981",
+        "url": "https://dblp.org/rec/conf/sbqs/KuroishiDMV20"
+      },
+      "url": "URL#798544"
+    },
+    {
+      "@score": "2",
+      "@id": "798545",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "265/9653",
+              "text": "Bruno Gabriel Ara\u00fajo Lebtag"
+            },
+            {
+              "@pid": "246/1098",
+              "text": "Paulo Gabriel Teixeira"
+            },
+            {
+              "@pid": "57/7989",
+              "text": "Rodrigo Pereira dos Santos"
+            },
+            {
+              "@pid": "117/5583",
+              "text": "Davi Viana"
+            },
+            {
+              "@pid": "151/3182",
+              "text": "Valdemar Vicente Graciano Neto"
+            }
+          ]
+        },
+        "title": "Evaluating the Understandability and Expressiveness of Simulation Executable Models with Professionals - Obtaining perceptions from researchers and practitioners for improving quality of models.",
+        "venue": "SBQS",
+        "pages": "12:1-12:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/LebtagTSVN20",
+        "doi": "10.1145/3439961.3439973",
+        "ee": "https://doi.org/10.1145/3439961.3439973",
+        "url": "https://dblp.org/rec/conf/sbqs/LebtagTSVN20"
+      },
+      "url": "URL#798545"
+    },
+    {
+      "@score": "2",
+      "@id": "798546",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "166/2222",
+              "text": "Adriana Lopes"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            },
+            {
+              "@pid": "09/2802",
+              "text": "Clarisse Sieckenius de Souza"
+            }
+          ]
+        },
+        "title": "Exploring the Directives of Communicability for Improving the Quality of Software Artifacts.",
+        "venue": "SBQS",
+        "pages": "13:1-13:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/LopesCS20",
+        "doi": "10.1145/3439961.3439974",
+        "ee": "https://doi.org/10.1145/3439961.3439974",
+        "url": "https://dblp.org/rec/conf/sbqs/LopesCS20"
+      },
+      "url": "URL#798546"
+    },
+    {
+      "@score": "2",
+      "@id": "798547",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "27/5349",
+              "text": "Michele Machado"
+            },
+            {
+              "@pid": "251/4375",
+              "text": "Larissa Salerno"
+            },
+            {
+              "@pid": "05/6533",
+              "text": "Sabrina Marczak"
+            },
+            {
+              "@pid": "b/RicardoMeloBastos",
+              "text": "Ricardo Bastos 0001"
+            }
+          ]
+        },
+        "title": "Assessment Models for Evaluating the Combined use of Agile, User-Centered Design and Lean Startup in the Context of Software Development - A Grey Literature Review.",
+        "venue": "SBQS",
+        "pages": "9:1-9:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MachadoSMB20",
+        "doi": "10.1145/3439961.3439970",
+        "ee": "https://doi.org/10.1145/3439961.3439970",
+        "url": "https://dblp.org/rec/conf/sbqs/MachadoSMB20"
+      },
+      "url": "URL#798547"
+    },
+    {
+      "@score": "2",
+      "@id": "798548",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "229/5358",
+              "text": "Leonardo C. Marques"
+            },
+            {
+              "@pid": "249/1704",
+              "text": "Patr\u00edcia Matsubara"
+            },
+            {
+              "@pid": "201/9881",
+              "text": "Jos\u00e9 Cezar de Souza Filho"
+            },
+            {
+              "@pid": "283/4200",
+              "text": "Genildo Gomes"
+            },
+            {
+              "@pid": "77/7361",
+              "text": "Bruno Gadelha"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            }
+          ]
+        },
+        "title": "Challenges and Learning from Remote Teaching of Usability and UX - An Experience Report.",
+        "venue": "SBQS",
+        "pages": "42:1-42:9",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MarquesMFGGC20",
+        "doi": "10.1145/3439961.3440003",
+        "ee": "https://doi.org/10.1145/3439961.3440003",
+        "url": "https://dblp.org/rec/conf/sbqs/MarquesMFGGC20"
+      },
+      "url": "URL#798548"
+    },
+    {
+      "@score": "2",
+      "@id": "798549",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "85/7786",
+              "text": "Aline Vieira de Mello"
+            },
+            {
+              "@pid": "135/0747",
+              "text": "Andr\u00e9a Sabedra Bordin"
+            },
+            {
+              "@pid": "132/7231",
+              "text": "Alice Fonseca Finger"
+            }
+          ]
+        },
+        "title": "Graduates&apos; Perceptions of a Software Engineering Undergraduate Program - a view from postgraduation and industry.",
+        "venue": "SBQS",
+        "pages": "45:1-45:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MelloBF20",
+        "doi": "10.1145/3439961.3440006",
+        "ee": "https://doi.org/10.1145/3439961.3440006",
+        "url": "https://dblp.org/rec/conf/sbqs/MelloBF20"
+      },
+      "url": "URL#798549"
+    },
+    {
+      "@score": "2",
+      "@id": "798550",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "241/9299",
+              "text": "Diogo Silveira Mendon\u00e7a"
+            },
+            {
+              "@pid": "38/3792",
+              "text": "Marcos Kalinowski"
+            }
+          ]
+        },
+        "title": "Towards Practical Reuse of Custom Static Analysis Rules for Defect Localization.",
+        "venue": "SBQS",
+        "pages": "24:1-24:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MendoncaK20",
+        "doi": "10.1145/3439961.3439985",
+        "ee": "https://doi.org/10.1145/3439961.3439985",
+        "url": "https://dblp.org/rec/conf/sbqs/MendoncaK20"
+      },
+      "url": "URL#798550"
+    },
+    {
+      "@score": "2",
+      "@id": "798551",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "246/8038",
+              "text": "Erasmo Leite Monteiro"
+            },
+            {
+              "@pid": "11/2049",
+              "text": "Rita Suzana Pitangueira Maciel"
+            },
+            {
+              "@pid": "66/7295",
+              "text": "Ana Patr\u00edcia Magalh\u00e3es"
+            }
+          ]
+        },
+        "title": "Towards a methodology for maturity models development - an exploratory study in software systems interoperability domain.",
+        "venue": "SBQS",
+        "pages": "23:1-23:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MonteiroMM20",
+        "doi": "10.1145/3439961.3439984",
+        "ee": "https://doi.org/10.1145/3439961.3439984",
+        "url": "https://dblp.org/rec/conf/sbqs/MonteiroMM20"
+      },
+      "url": "URL#798551"
+    },
+    {
+      "@score": "2",
+      "@id": "798552",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "262/0601",
+              "text": "Jaziel S. Moreira"
+            },
+            {
+              "@pid": "34/7512",
+              "text": "Everton L. G. Alves"
+            },
+            {
+              "@pid": "64/298",
+              "text": "Wilkerson de L. Andrade"
+            }
+          ]
+        },
+        "title": "A Systematic Mapping on Energy Efficiency Testing in Android Applications.",
+        "venue": "SBQS",
+        "pages": "3:1-3:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MoreiraAA20",
+        "doi": "10.1145/3439961.3439964",
+        "ee": "https://doi.org/10.1145/3439961.3439964",
+        "url": "https://dblp.org/rec/conf/sbqs/MoreiraAA20"
+      },
+      "url": "URL#798552"
+    },
+    {
+      "@score": "2",
+      "@id": "798553",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0818",
+              "text": "Gabriel Yago de Oliveira Moreira"
+            },
+            {
+              "@pid": "165/3611",
+              "text": "Jos\u00e9 Am\u00e2ncio Macedo Santos"
+            }
+          ]
+        },
+        "title": "Applying coupling and cohesion concepts in object-oriented software - a controlled experiment.",
+        "venue": "SBQS",
+        "pages": "8:1-8:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MoreiraS20",
+        "doi": "10.1145/3439961.3439969",
+        "ee": "https://doi.org/10.1145/3439961.3439969",
+        "url": "https://dblp.org/rec/conf/sbqs/MoreiraS20"
+      },
+      "url": "URL#798553"
+    },
+    {
+      "@score": "2",
+      "@id": "798554",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "206/3993",
+              "text": "Roberto \u00c1vila Pald\u00eas"
+            },
+            {
+              "@pid": "118/8796",
+              "text": "Edna Dias Canedo"
+            },
+            {
+              "@pid": "237/7123",
+              "text": "Fernando de Albuquerque Guimar\u00e3es"
+            },
+            {
+              "@pid": "206/3903",
+              "text": "Ang\u00e9lica Toffano Seidel Calazans"
+            }
+          ]
+        },
+        "title": "Functional Requirements Elicitation in IoT Systems - a follow-up study.",
+        "venue": "SBQS",
+        "pages": "14:1-14:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PaldesCGC20",
+        "doi": "10.1145/3439961.3439975",
+        "ee": "https://doi.org/10.1145/3439961.3439975",
+        "url": "https://dblp.org/rec/conf/sbqs/PaldesCGC20"
+      },
+      "url": "URL#798554"
+    },
+    {
+      "@score": "2",
+      "@id": "798555",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "237/7202",
+              "text": "Rafael Parizi 0001"
+            },
+            {
+              "@pid": "283/0812",
+              "text": "Marina Moreira da Silva"
+            },
+            {
+              "@pid": "25/4546",
+              "text": "Igor Couto"
+            },
+            {
+              "@pid": "05/6533",
+              "text": "Sabrina Marczak"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            }
+          ]
+        },
+        "title": "A Design Thinking Techniques Recommendation Tool - An Initial and On-going Proposal.",
+        "venue": "SBQS",
+        "pages": "36:1-36:6",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PariziSCMC20",
+        "doi": "10.1145/3439961.3439997",
+        "ee": "https://doi.org/10.1145/3439961.3439997",
+        "url": "https://dblp.org/rec/conf/sbqs/PariziSCMC20"
+      },
+      "url": "URL#798555"
+    },
+    {
+      "@score": "2",
+      "@id": "798556",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "215/7111",
+              "text": "Mateus Pinheiro"
+            },
+            {
+              "@pid": "287/0632",
+              "text": "Carmen Juy"
+            },
+            {
+              "@pid": "54/4813",
+              "text": "Windson Viana"
+            },
+            {
+              "@pid": "202/0821",
+              "text": "Ticianne Darin"
+            }
+          ]
+        },
+        "title": "Considering human factors in the evaluation and redesign of an application for harm reduction to drug users.",
+        "venue": "SBQS",
+        "pages": "28:1-28:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PinheiroJVD20",
+        "doi": "10.1145/3439961.3439989",
+        "ee": "https://doi.org/10.1145/3439961.3439989",
+        "url": "https://dblp.org/rec/conf/sbqs/PinheiroJVD20"
+      },
+      "url": "URL#798556"
+    },
+    {
+      "@score": "2",
+      "@id": "798557",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "249/9610",
+              "text": "Val\u00e9ria Maria da S. Pinheiro"
+            },
+            {
+              "@pid": "223/5917",
+              "text": "Anna Beatriz dos Santos Marques"
+            }
+          ]
+        },
+        "title": "Accessibility-oriented design with a focus on autism aspects - designing a mobile application for autistic children&apos;s daily routine.",
+        "venue": "SBQS",
+        "pages": "27:1-27:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PinheiroM20",
+        "doi": "10.1145/3439961.3439988",
+        "ee": "https://doi.org/10.1145/3439961.3439988",
+        "url": "https://dblp.org/rec/conf/sbqs/PinheiroM20"
+      },
+      "url": "URL#798557"
+    },
+    {
+      "@score": "2",
+      "@id": "798558",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "117/5548",
+              "text": "Luis Rivero"
+            },
+            {
+              "@pid": "214/9011",
+              "text": "Jo\u00e3o Ot\u00e1vio Bandeira Diniz"
+            },
+            {
+              "@pid": "204/8021",
+              "text": "Giovanni Lucca Fran\u00e7a da Silva"
+            },
+            {
+              "@pid": "287/0351",
+              "text": "Gabriel Borralho"
+            },
+            {
+              "@pid": "63/3021",
+              "text": "Geraldo Braz Junior"
+            },
+            {
+              "@pid": "p/AnselmoCardosodePaiva",
+              "text": "Anselmo Cardoso de Paiva"
+            },
+            {
+              "@pid": "254/5225",
+              "text": "Erika W. B. A. L. Alves"
+            },
+            {
+              "@pid": "254/5209",
+              "text": "Milton S. L. de Oliveira"
+            }
+          ]
+        },
+        "title": "Deployment of a Machine Learning System for Predicting Lawsuits Against Power Companies - Lessons Learned from an Agile Testing Experience for Improving Software Quality.",
+        "venue": "SBQS",
+        "pages": "30:1-30:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RiveroDSBJPAO20",
+        "doi": "10.1145/3439961.3439991",
+        "ee": "https://doi.org/10.1145/3439961.3439991",
+        "url": "https://dblp.org/rec/conf/sbqs/RiveroDSBJPAO20"
+      },
+      "url": "URL#798558"
+    },
+    {
+      "@score": "2",
+      "@id": "798559",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Rocha"
+            },
+            {
+              "@pid": "47/4435",
+              "text": "Sandro Ronaldo Bezerra Oliveira"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison dos Santos Souza"
+            },
+            {
+              "@pid": "287/0246",
+              "text": "Allyson Andrade Brito"
+            },
+            {
+              "@pid": "287/0060",
+              "text": "Fl\u00e1via Castelo Santos"
+            },
+            {
+              "@pid": "287/0235",
+              "text": "Elaine Duarte Nunes"
+            }
+          ]
+        },
+        "title": "MPS Appraisal online - An Experience on COVID-19 Times.",
+        "venue": "SBQS",
+        "pages": "34:1-34:12",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RochaOSBSN20",
+        "doi": "10.1145/3439961.3439995",
+        "ee": "https://doi.org/10.1145/3439961.3439995",
+        "url": "https://dblp.org/rec/conf/sbqs/RochaOSBSN20"
+      },
+      "url": "URL#798559"
+    },
+    {
+      "@score": "2",
+      "@id": "798560",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "283/4202",
+              "text": "Jo\u00e3o Ricardo dos S. Rosa"
+            },
+            {
+              "@pid": "135/0795",
+              "text": "Natasha Malveira C. Valentim"
+            }
+          ]
+        },
+        "title": "An Exploratory Study about Accessibility, Usability and User Experience with the Visually Impaired using Mobile Applications.",
+        "venue": "SBQS",
+        "pages": "37:1-37:6",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RosaV20",
+        "doi": "10.1145/3439961.3439998",
+        "ee": "https://doi.org/10.1145/3439961.3439998",
+        "url": "https://dblp.org/rec/conf/sbqs/RosaV20"
+      },
+      "url": "URL#798560"
+    },
+    {
+      "@score": "2",
+      "@id": "798561",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "141/9466",
+              "text": "Geanderson E. dos Santos"
+            },
+            {
+              "@pid": "03/335",
+              "text": "Eduardo Figueiredo 0001"
+            },
+            {
+              "@pid": "12/919",
+              "text": "Adriano Veloso"
+            },
+            {
+              "@pid": "223/6503",
+              "text": "Markos Viggiato"
+            },
+            {
+              "@pid": "z/NZiviani",
+              "text": "Nivio Ziviani"
+            }
+          ]
+        },
+        "title": "Predicting Software Defects with Explainable Machine Learning.",
+        "venue": "SBQS",
+        "pages": "18:1-18:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SantosFVVZ20",
+        "doi": "10.1145/3439961.3439979",
+        "ee": "https://doi.org/10.1145/3439961.3439979",
+        "url": "https://dblp.org/rec/conf/sbqs/SantosFVVZ20"
+      },
+      "url": "URL#798561"
+    },
+    {
+      "@score": "2",
+      "@id": "798562",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6405",
+              "text": "Danyllo Valente da Silva"
+            },
+            {
+              "@pid": "167/2090",
+              "text": "Taisa Guidini Gon\u00e7alves"
+            },
+            {
+              "@pid": "t/GuilhermeTravassos",
+              "text": "Guilherme Horta Travassos"
+            }
+          ]
+        },
+        "title": "A Technology to Support the Building of Requirements Documents for IoT Software Systems.",
+        "venue": "SBQS",
+        "pages": "4:1-4:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaGT20",
+        "doi": "10.1145/3439961.3439965",
+        "ee": "https://doi.org/10.1145/3439961.3439965",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaGT20"
+      },
+      "url": "URL#798562"
+    },
+    {
+      "@score": "2",
+      "@id": "798563",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "246/8007",
+              "text": "Thiciane Suely Couto Silva"
+            },
+            {
+              "@pid": "05/6533",
+              "text": "Sabrina Marczak"
+            },
+            {
+              "@pid": "246/8332",
+              "text": "F\u00e1bio Gomes Rocha"
+            }
+          ]
+        },
+        "title": "On the Understanding of How to Measure the Benefits of Behavior-Driven Development Adoption - Preliminary Literature Results from a Grey Literature Study.",
+        "venue": "SBQS",
+        "pages": "39:1-39:7",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaMR20",
+        "doi": "10.1145/3439961.3440000",
+        "ee": "https://doi.org/10.1145/3439961.3440000",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaMR20"
+      },
+      "url": "URL#798563"
+    },
+    {
+      "@score": "2",
+      "@id": "798564",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0907",
+              "text": "Anderson Mateus da Silva"
+            },
+            {
+              "@pid": "01/6403",
+              "text": "Suzana C\u00e2ndido de Barros Sampaio"
+            },
+            {
+              "@pid": "27/8732",
+              "text": "Marcelo Luiz Monteiro Marinho"
+            }
+          ]
+        },
+        "title": "Using Software Engineering and Agile Methods to Improve Inclusion and Team Diversity.",
+        "venue": "SBQS",
+        "pages": "25:1-25:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaSM20",
+        "doi": "10.1145/3439961.3439986",
+        "ee": "https://doi.org/10.1145/3439961.3439986",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaSM20"
+      },
+      "url": "URL#798564"
+    },
+    {
+      "@score": "2",
+      "@id": "798565",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "229/1502",
+              "text": "Carlos Sim\u00f5es"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            }
+          ]
+        },
+        "title": "IT Workforce Outsourcing Benefits, Challenges and Success Factors in the Customer and Supplier Perspectives.",
+        "venue": "SBQS",
+        "pages": "17:1-17:9",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SimoesS20",
+        "doi": "10.1145/3439961.3439978",
+        "ee": "https://doi.org/10.1145/3439961.3439978",
+        "url": "https://dblp.org/rec/conf/sbqs/SimoesS20"
+      },
+      "url": "URL#798565"
+    },
+    {
+      "@score": "2",
+      "@id": "798566",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "92/7665",
+              "text": "\u00c9rica Ferreira de Souza"
+            },
+            {
+              "@pid": "229/4259",
+              "text": "Ricardo de Almeida Falbo"
+            },
+            {
+              "@pid": "287/0589",
+              "text": "Marcos S. Specimille"
+            },
+            {
+              "@pid": "287/0177",
+              "text": "Alexandre G. N. Coelho"
+            },
+            {
+              "@pid": "39/841",
+              "text": "Nandamudi L. Vijaykumar"
+            },
+            {
+              "@pid": "53/8384",
+              "text": "Katia Romero Felizardo"
+            },
+            {
+              "@pid": "233/2183",
+              "text": "Giovani Volnei Meinerz"
+            }
+          ]
+        },
+        "title": "Experience Report on Developing an Ontology-based Approach for Knowledge Management in Software Testing.",
+        "venue": "SBQS",
+        "pages": "32:1-32:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SouzaFSCVFM20",
+        "doi": "10.1145/3439961.3439993",
+        "ee": "https://doi.org/10.1145/3439961.3439993",
+        "url": "https://dblp.org/rec/conf/sbqs/SouzaFSCVFM20"
+      },
+      "url": "URL#798566"
+    },
+    {
+      "@score": "2",
+      "@id": "798567",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "122/2366",
+              "text": "Willy Tiengo"
+            },
+            {
+              "@pid": "22/7095",
+              "text": "Baldoino Fonseca"
+            },
+            {
+              "@pid": "287/0792",
+              "text": "Elysanne Paes"
+            },
+            {
+              "@pid": "31/3085",
+              "text": "Rodrigo B. de Paes"
+            },
+            {
+              "@pid": "195/3091",
+              "text": "Tiago Vieira"
+            },
+            {
+              "@pid": "r/MarcioRibeiro",
+              "text": "M\u00e1rcio Ribeiro 0001"
+            },
+            {
+              "@pid": "287/0753",
+              "text": "Rodrigo Peixoto"
+            },
+            {
+              "@pid": "287/0122",
+              "text": "Davi Bibiano"
+            }
+          ]
+        },
+        "title": "Establishing a relationship between industry and academia - challenges, lessons learned and benefits.",
+        "venue": "SBQS",
+        "pages": "31:1-31:11",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/TiengoFPPVRPB20",
+        "doi": "10.1145/3439961.3439992",
+        "ee": "https://doi.org/10.1145/3439961.3439992",
+        "url": "https://dblp.org/rec/conf/sbqs/TiengoFPPVRPB20"
+      },
+      "url": "URL#798567"
+    },
+    {
+      "@score": "2",
+      "@id": "798568",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "169/4861",
+              "text": "Pedro Henrique Dias Valle"
+            },
+            {
+              "@pid": "287/0252",
+              "text": "Ricardo Ferreira Vilela"
+            },
+            {
+              "@pid": "71/8920",
+              "text": "Elis Cristina Montoro Hernandes"
+            }
+          ]
+        },
+        "title": "Does Gamification Improve the Training of Software Testers? A Preliminary Study from the Industry Perspective\u2731.",
+        "venue": "SBQS",
+        "pages": "43:1-43:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/ValleVH20",
+        "doi": "10.1145/3439961.3440004",
+        "ee": "https://doi.org/10.1145/3439961.3440004",
+        "url": "https://dblp.org/rec/conf/sbqs/ValleVH20"
+      },
+      "url": "URL#798568"
+    },
+    {
+      "@score": "2",
+      "@id": "798569",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0777",
+              "text": "Marcel Vieira"
+            },
+            {
+              "@pid": "77/5650",
+              "text": "Jean C. R. Hauck"
+            },
+            {
+              "@pid": "96/1477",
+              "text": "Santiago Matalonga"
+            }
+          ]
+        },
+        "title": "How Explicit Risk Management is Being Integrated Into Agile Methods - Results From a Systematic Literature Mapping.",
+        "venue": "SBQS",
+        "pages": "15:1-15:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/VieiraHM20",
+        "doi": "10.1145/3439961.3439976",
+        "ee": "https://doi.org/10.1145/3439961.3439976",
+        "url": "https://dblp.org/rec/conf/sbqs/VieiraHM20"
+      },
+      "url": "URL#798569"
+    },
+    {
+      "@score": "2",
+      "@id": "798570",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "260/8389",
+              "text": "Maximilian Zorzetti"
+            },
+            {
+              "@pid": "251/4340",
+              "text": "Ingrid Signoretti"
+            },
+            {
+              "@pid": "47/6112",
+              "text": "Eliana Pereira 0001"
+            },
+            {
+              "@pid": "251/4375",
+              "text": "Larissa Salerno"
+            },
+            {
+              "@pid": "249/1697",
+              "text": "Cassiano Moralles"
+            },
+            {
+              "@pid": "27/5349",
+              "text": "Michele Machado"
+            },
+            {
+              "@pid": "b/RicardoMeloBastos",
+              "text": "Ricardo Bastos 0001"
+            },
+            {
+              "@pid": "05/6533",
+              "text": "Sabrina Marczak"
+            }
+          ]
+        },
+        "title": "An Empirical-informed Work Process Model for a Combined Approach of Agile, User-Centered Design, and Lean Startup.",
+        "venue": "SBQS",
+        "pages": "6:1-6:10",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/ZorzettiSPSMMBM20",
+        "doi": "10.1145/3439961.3439967",
+        "ee": "https://doi.org/10.1145/3439961.3439967",
+        "url": "https://dblp.org/rec/conf/sbqs/ZorzettiSPSMMBM20"
+      },
+      "url": "URL#798570"
+    },
+    {
+      "@score": "2",
+      "@id": "1219556",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "135/0909",
+              "text": "Rodrigo L. A. Almeida"
+            },
+            {
+              "@pid": "254/6500",
+              "text": "Joseane de O. V. Paiva"
+            },
+            {
+              "@pid": "254/6408",
+              "text": "Thais N. Gouveia"
+            },
+            {
+              "@pid": "254/6456",
+              "text": "Hugo L. C. T. Barroso"
+            },
+            {
+              "@pid": "254/6333",
+              "text": "Jo\u00e3o B. F. Neto"
+            },
+            {
+              "@pid": "98/10587",
+              "text": "Ismayle de Sousa Santos"
+            },
+            {
+              "@pid": "254/6533",
+              "text": "Aline L. de P. Evangelista"
+            },
+            {
+              "@pid": "152/5048",
+              "text": "Luiz Odorico M. Andrade"
+            },
+            {
+              "@pid": "254/6351",
+              "text": "Ivana C. de H. C. Barreto"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. C. Andrade"
+            }
+          ]
+        },
+        "title": "Fictitious Personas for Interdisciplinary Team Alignment in the Requirements Elicitation Activities.",
+        "venue": "SBQS",
+        "pages": "276-285",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AlmeidaPGBNSEAB19",
+        "doi": "10.1145/3364641.3364674",
+        "ee": "https://doi.org/10.1145/3364641.3364674",
+        "url": "https://dblp.org/rec/conf/sbqs/AlmeidaPGBNSEAB19"
+      },
+      "url": "URL#1219556"
+    },
+    {
+      "@score": "2",
+      "@id": "1219557",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6378",
+              "text": "Weldson Amaral"
+            },
+            {
+              "@pid": "117/5548",
+              "text": "Luis Rivero"
+            },
+            {
+              "@pid": "63/3021",
+              "text": "Geraldo Braz Junior"
+            },
+            {
+              "@pid": "117/5583",
+              "text": "Davi Viana"
+            }
+          ]
+        },
+        "title": "Using Machine Learning Technique for Effort Estimation in Software Development.",
+        "venue": "SBQS",
+        "pages": "240-245",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AmaralRJV19",
+        "doi": "10.1145/3364641.3364670",
+        "ee": "https://doi.org/10.1145/3364641.3364670",
+        "url": "https://dblp.org/rec/conf/sbqs/AmaralRJV19"
+      },
+      "url": "URL#1219557"
+    },
+    {
+      "@score": "2",
+      "@id": "1219558",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "205/9279",
+              "text": "Bruno Sab\u00f3ia Arag\u00e3o"
+            },
+            {
+              "@pid": "84/8008",
+              "text": "Rute Nogueira Silveira de Castro"
+            },
+            {
+              "@pid": "98/10587",
+              "text": "Ismayle de Sousa Santos"
+            },
+            {
+              "@pid": "09/7656",
+              "text": "Val\u00e9ria Lelli"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. C. Andrade"
+            }
+          ]
+        },
+        "title": "Test debts identification in a test factory.",
+        "venue": "SBQS",
+        "pages": "296-305",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AragaoCSLA19",
+        "doi": "10.1145/3364641.3364676",
+        "ee": "https://doi.org/10.1145/3364641.3364676",
+        "url": "https://dblp.org/rec/conf/sbqs/AragaoCSLA19"
+      },
+      "url": "URL#1219558"
+    },
+    {
+      "@score": "2",
+      "@id": "1219559",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "71/6937",
+              "text": "Anderson Belgamo"
+            },
+            {
+              "@pid": "05/4141",
+              "text": "Auri Marcelo Rizzo Vincenzi"
+            },
+            {
+              "@pid": "48/5007",
+              "text": "Fabiano Cutigi Ferrari"
+            },
+            {
+              "@pid": "75/5829",
+              "text": "Sandra Fabbri"
+            }
+          ]
+        },
+        "title": "Using auxiliary artifacts during code inspection activity - findings from an exploratory study.",
+        "venue": "SBQS",
+        "pages": "149-157",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/BelgamoVFF19",
+        "doi": "10.1145/3364641.3364658",
+        "ee": "https://doi.org/10.1145/3364641.3364658",
+        "url": "https://dblp.org/rec/conf/sbqs/BelgamoVFF19"
+      },
+      "url": "URL#1219559"
+    },
+    {
+      "@score": "2",
+      "@id": "1219560",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6558",
+              "text": "Jhonatan Boarim"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "Quality of CRM Systems - a systematic mapping study.",
+        "venue": "SBQS",
+        "pages": "119-128",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/BoarimR19",
+        "doi": "10.1145/3364641.3364655",
+        "ee": "https://doi.org/10.1145/3364641.3364655",
+        "url": "https://dblp.org/rec/conf/sbqs/BoarimR19"
+      },
+      "url": "URL#1219560"
+    },
+    {
+      "@score": "2",
+      "@id": "1219561",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6325",
+              "text": "J\u00fanea Eliza Brand\u00e3o Caldeira"
+            },
+            {
+              "@pid": "254/6198",
+              "text": "S\u00e9rgio Roberto Imaeda Yoshioka"
+            },
+            {
+              "@pid": "236/9224",
+              "text": "Bruno Rafael de Oliveira Rodrigues"
+            },
+            {
+              "@pid": "01/3446",
+              "text": "Fernando Silva Parreiras"
+            }
+          ]
+        },
+        "title": "Multiobjective Optimization Using Evolutionary Algorithms in Agile Teams Allocation.",
+        "venue": "SBQS",
+        "pages": "89-98",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CaldeiraYRP19",
+        "doi": "10.1145/3364641.3364652",
+        "ee": "https://doi.org/10.1145/3364641.3364652",
+        "url": "https://dblp.org/rec/conf/sbqs/CaldeiraYRP19"
+      },
+      "url": "URL#1219561"
+    },
+    {
+      "@score": "2",
+      "@id": "1219562",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "212/6883",
+              "text": "Christian Marlon Souza Couto"
+            },
+            {
+              "@pid": "23/5199",
+              "text": "Ricardo Terra"
+            }
+          ]
+        },
+        "title": "A Quality-oriented Approach to Recommend Move Method Refactorings.",
+        "venue": "SBQS",
+        "pages": "315",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CoutoT19",
+        "doi": "10.1145/3364641.3364680",
+        "ee": "https://doi.org/10.1145/3364641.3364680",
+        "url": "https://dblp.org/rec/conf/sbqs/CoutoT19"
+      },
+      "url": "URL#1219562"
+    },
+    {
+      "@score": "2",
+      "@id": "1219563",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6440",
+              "text": "Ronivon Silva Dias"
+            },
+            {
+              "@pid": "23/3085",
+              "text": "Pedro de Alc\u00e2ntara dos Santos Neto"
+            },
+            {
+              "@pid": "233/2326",
+              "text": "Irvayne Matheus de Sousa Ibiapina"
+            },
+            {
+              "@pid": "254/6362",
+              "text": "Guilherme Amaral Avelino"
+            },
+            {
+              "@pid": "237/6336",
+              "text": "Ot\u00e1vio Cury da Costa Castro"
+            }
+          ]
+        },
+        "title": "Effects of Visualizing Technical Debts on a Software Maintenance Project.",
+        "venue": "SBQS",
+        "pages": "39-48",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/DiasNIAC19",
+        "doi": "10.1145/3364641.3364647",
+        "ee": "https://doi.org/10.1145/3364641.3364647",
+        "url": "https://dblp.org/rec/conf/sbqs/DiasNIAC19"
+      },
+      "url": "URL#1219563"
+    },
+    {
+      "@score": "2",
+      "@id": "1219564",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6223",
+              "text": "Danilo Favato"
+            },
+            {
+              "@pid": "254/6292",
+              "text": "Daniel Ishitani"
+            },
+            {
+              "@pid": "180/3789",
+              "text": "Johnatan Oliveira"
+            },
+            {
+              "@pid": "03/335",
+              "text": "Eduardo Figueiredo 0001"
+            }
+          ]
+        },
+        "title": "Linus&apos;s Law - More Eyes Fewer Flaws in Open Source Projects.",
+        "venue": "SBQS",
+        "pages": "69-78",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FavatoIOF19",
+        "doi": "10.1145/3364641.3364650",
+        "ee": "https://doi.org/10.1145/3364641.3364650",
+        "url": "https://dblp.org/rec/conf/sbqs/FavatoIOF19"
+      },
+      "url": "URL#1219564"
+    },
+    {
+      "@score": "2",
+      "@id": "1219565",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6414",
+              "text": "Matheus Silva Ferreira"
+            },
+            {
+              "@pid": "232/9212",
+              "text": "Luana Almeida Martins"
+            },
+            {
+              "@pid": "23/7677",
+              "text": "Paulo Afonso J\u00fanior"
+            },
+            {
+              "@pid": "42/7676",
+              "text": "Heitor A. X. Costa"
+            }
+          ]
+        },
+        "title": "Measuring Developer Work to Support the Software Project Manager - An Exploratory Study.",
+        "venue": "SBQS",
+        "pages": "79-88",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FerreiraMJC19",
+        "doi": "10.1145/3364641.3364651",
+        "ee": "https://doi.org/10.1145/3364641.3364651",
+        "url": "https://dblp.org/rec/conf/sbqs/FerreiraMJC19"
+      },
+      "url": "URL#1219565"
+    },
+    {
+      "@score": "2",
+      "@id": "1219566",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "249/9625",
+              "text": "Eliakim Gama"
+            },
+            {
+              "@pid": "133/2120",
+              "text": "Matheus Paix\u00e3o"
+            },
+            {
+              "@pid": "117/6111",
+              "text": "Emmanuel S\u00e1vio Silva Freire"
+            },
+            {
+              "@pid": "88/8007",
+              "text": "Mariela In\u00e9s Cort\u00e9s"
+            }
+          ]
+        },
+        "title": "Technical Debt&apos;s State of Practice on Stack Overflow - a Preliminary Study.",
+        "venue": "SBQS",
+        "pages": "228-233",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/GamaPFC19",
+        "doi": "10.1145/3364641.3364668",
+        "ee": "https://doi.org/10.1145/3364641.3364668",
+        "url": "https://dblp.org/rec/conf/sbqs/GamaPFC19"
+      },
+      "url": "URL#1219566"
+    },
+    {
+      "@score": "2",
+      "@id": "1219567",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "222/6453",
+              "text": "Tatiany Xavier de Godoi"
+            },
+            {
+              "@pid": "135/0795",
+              "text": "Natasha Malveira Costa Valentim"
+            }
+          ]
+        },
+        "title": "Towards an Integrated Evaluation of Usability, User Experience and Accessibility in Assistive Technologies.",
+        "venue": "SBQS",
+        "pages": "234-239",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/GodoiV19",
+        "doi": "10.1145/3364641.3364669",
+        "ee": "https://doi.org/10.1145/3364641.3364669",
+        "url": "https://dblp.org/rec/conf/sbqs/GodoiV19"
+      },
+      "url": "URL#1219567"
+    },
+    {
+      "@score": "2",
+      "@id": "1219568",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "167/2090",
+              "text": "Taisa Guidini Gon\u00e7alves"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "Development process for intelligent user interfaces - an initial approach.",
+        "venue": "SBQS",
+        "pages": "210-215",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/GoncalvesR19",
+        "doi": "10.1145/3364641.3364665",
+        "ee": "https://doi.org/10.1145/3364641.3364665",
+        "url": "https://dblp.org/rec/conf/sbqs/GoncalvesR19"
+      },
+      "url": "URL#1219568"
+    },
+    {
+      "@score": "2",
+      "@id": "1219569",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/8502",
+              "text": "Gabriela Martins de Jesus"
+            },
+            {
+              "@pid": "192/1103",
+              "text": "Leo Natan Paschoal"
+            },
+            {
+              "@pid": "48/5007",
+              "text": "Fabiano Cutigi Ferrari"
+            },
+            {
+              "@pid": "35/1622",
+              "text": "Simone R. S. Souza"
+            }
+          ]
+        },
+        "title": "Is It Worth Using Gamification on Software Testing Education? - An Experience Report.",
+        "venue": "SBQS",
+        "pages": "178-187",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/JesusPFS19",
+        "doi": "10.1145/3364641.3364661",
+        "ee": "https://doi.org/10.1145/3364641.3364661",
+        "url": "https://dblp.org/rec/conf/sbqs/JesusPFS19"
+      },
+      "url": "URL#1219569"
+    },
+    {
+      "@score": "2",
+      "@id": "1219570",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6318",
+              "text": "Luiz Cavamura J\u00fanior"
+            },
+            {
+              "@pid": "254/6226",
+              "text": "Ricardo Morimoto"
+            },
+            {
+              "@pid": "75/5829",
+              "text": "Sandra Fabbri"
+            },
+            {
+              "@pid": "05/4141",
+              "text": "Auri Marcelo Rizzo Vincenzi"
+            }
+          ]
+        },
+        "title": "Software Operational Profile vs. Test Profile.",
+        "venue": "SBQS",
+        "pages": "139-148",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/JuniorMFV19",
+        "doi": "10.1145/3364641.3364657",
+        "ee": "https://doi.org/10.1145/3364641.3364657",
+        "url": "https://dblp.org/rec/conf/sbqs/JuniorMFV19"
+      },
+      "url": "URL#1219570"
+    },
+    {
+      "@score": "2",
+      "@id": "1219571",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6531",
+              "text": "Diego Kovags"
+            },
+            {
+              "@pid": "254/6183",
+              "text": "F\u00e1bio Lu\u00edz Falchi"
+            },
+            {
+              "@pid": "254/6575",
+              "text": "Andr\u00e9 Ronaldo Rivas"
+            }
+          ]
+        },
+        "title": "Analysis of the Utilization of Scrum Framework Effort Estimation Metrics in Federal Public Administration.",
+        "venue": "SBQS",
+        "pages": "30-38",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/KovagsFR19",
+        "doi": "10.1145/3364641.3364645",
+        "ee": "https://doi.org/10.1145/3364641.3364645",
+        "url": "https://dblp.org/rec/conf/sbqs/KovagsFR19"
+      },
+      "url": "URL#1219571"
+    },
+    {
+      "@score": "2",
+      "@id": "1219572",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "86/7359",
+              "text": "Giovana Brand\u00e3o Ribeiro Linhares"
+            },
+            {
+              "@pid": "l/JCSdoPradoLeite",
+              "text": "Julio Cesar Sampaio do Prado Leite"
+            }
+          ]
+        },
+        "title": "Negotiation-Collaboration for Quality of Quality Requirements.",
+        "venue": "SBQS",
+        "pages": "216-221",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/LinharesL19",
+        "doi": "10.1145/3364641.3364666",
+        "ee": "https://doi.org/10.1145/3364641.3364666",
+        "url": "https://dblp.org/rec/conf/sbqs/LinharesL19"
+      },
+      "url": "URL#1219572"
+    },
+    {
+      "@score": "2",
+      "@id": "1219573",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6214",
+              "text": "Vitor Maia"
+            },
+            {
+              "@pid": "167/2090",
+              "text": "Taisa Guidini Gon\u00e7alves"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "Quality Characteristics of Mobile Applications - A Survey in Brazilian Context.",
+        "venue": "SBQS",
+        "pages": "109-118",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MaiaGR19",
+        "doi": "10.1145/3364641.3364654",
+        "ee": "https://doi.org/10.1145/3364641.3364654",
+        "url": "https://dblp.org/rec/conf/sbqs/MaiaGR19"
+      },
+      "url": "URL#1219573"
+    },
+    {
+      "@score": "2",
+      "@id": "1219574",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6302",
+              "text": "Mamoru Massago"
+            },
+            {
+              "@pid": "84/1707",
+              "text": "Thelma Elita Colanzi"
+            }
+          ]
+        },
+        "title": "An assessment of tools for UML class diagram modeling - support to adaptation and integration with other tools.",
+        "venue": "SBQS",
+        "pages": "10-19",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MassagoC19",
+        "doi": "10.1145/3364641.3364643",
+        "ee": "https://doi.org/10.1145/3364641.3364643",
+        "url": "https://dblp.org/rec/conf/sbqs/MassagoC19"
+      },
+      "url": "URL#1219574"
+    },
+    {
+      "@score": "2",
+      "@id": "1219575",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "282/2647",
+              "text": "Petr\u00f4nio A. de Medeiros"
+            },
+            {
+              "@pid": "03/6598",
+              "text": "Hermano P. de Moura"
+            },
+            {
+              "@pid": "47/4435",
+              "text": "Sandro R. B. Oliveira"
+            }
+          ]
+        },
+        "title": "An Implementation of a Strategy for IT Projects Portfolio Management in the Public Sector in accordance with the MPS Reference Model for Software using Action Research.",
+        "venue": "SBQS",
+        "pages": "256-265",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MedeirosMO19",
+        "doi": "10.1145/3364641.3364672",
+        "ee": "https://doi.org/10.1145/3364641.3364672",
+        "url": "https://dblp.org/rec/conf/sbqs/MedeirosMO19"
+      },
+      "url": "URL#1219575"
+    },
+    {
+      "@score": "2",
+      "@id": "1219576",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "206/3856",
+              "text": "Ana Maria da Mota Moura"
+            },
+            {
+              "@pid": "180/8285",
+              "text": "Romeu Ferreira de Oliveira"
+            },
+            {
+              "@pid": "120/0272",
+              "text": "Eduardo Fernandes"
+            },
+            {
+              "@pid": "254/6213",
+              "text": "Lauro de Lacerda Caetano"
+            },
+            {
+              "@pid": "254/6411",
+              "text": "Luciene Manoel"
+            },
+            {
+              "@pid": "l/JCSdoPradoLeite",
+              "text": "Julio Cesar Sampaio do Prado Leite"
+            }
+          ]
+        },
+        "title": "Improving Urban Mobility for the Visually Impaired using the Awareness Quality.",
+        "venue": "SBQS",
+        "pages": "59-68",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MouraOFCML19",
+        "doi": "10.1145/3364641.3364649",
+        "ee": "https://doi.org/10.1145/3364641.3364649",
+        "url": "https://dblp.org/rec/conf/sbqs/MouraOFCML19"
+      },
+      "url": "URL#1219576"
+    },
+    {
+      "@score": "2",
+      "@id": "1219577",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6481",
+              "text": "Marcus Norberto"
+            },
+            {
+              "@pid": "254/6417",
+              "text": "Lukas Gaedicke"
+            },
+            {
+              "@pid": "20/10588",
+              "text": "Maicon Bernardino"
+            },
+            {
+              "@pid": "254/6449",
+              "text": "Guilherme Legramante"
+            },
+            {
+              "@pid": "58/4232",
+              "text": "F\u00e1bio Paulo Basso"
+            },
+            {
+              "@pid": "42/8765",
+              "text": "Elder Macedo Rodrigues"
+            }
+          ]
+        },
+        "title": "Performance Testing in Mobile Application - a Systematic Literature Map.",
+        "venue": "SBQS",
+        "pages": "99-108",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/NorbertoGBLBR19",
+        "doi": "10.1145/3364641.3364653",
+        "ee": "https://doi.org/10.1145/3364641.3364653",
+        "url": "https://dblp.org/rec/conf/sbqs/NorbertoGBLBR19"
+      },
+      "url": "URL#1219577"
+    },
+    {
+      "@score": "2",
+      "@id": "1219578",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "180/3789",
+              "text": "Johnatan Oliveira"
+            },
+            {
+              "@pid": "223/6503",
+              "text": "Markos Viggiato"
+            },
+            {
+              "@pid": "03/335",
+              "text": "Eduardo Figueiredo 0001"
+            }
+          ]
+        },
+        "title": "How Well Do You Know This Library? - Mining Experts from Source Code Analysis.",
+        "venue": "SBQS",
+        "pages": "49-58",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/OliveiraVF19",
+        "doi": "10.1145/3364641.3364648",
+        "ee": "https://doi.org/10.1145/3364641.3364648",
+        "url": "https://dblp.org/rec/conf/sbqs/OliveiraVF19"
+      },
+      "url": "URL#1219578"
+    },
+    {
+      "@score": "2",
+      "@id": "1219579",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "192/1103",
+              "text": "Leo Natan Paschoal"
+            },
+            {
+              "@pid": "166/4440",
+              "text": "Brauner R. N. Oliveira"
+            },
+            {
+              "@pid": "67/5214",
+              "text": "Elisa Yumi Nakagawa"
+            },
+            {
+              "@pid": "35/1622",
+              "text": "Simone R. S. Souza"
+            }
+          ]
+        },
+        "title": "Can we use the Flipped Classroom Model to teach Black-box Testing to Computer Students?",
+        "venue": "SBQS",
+        "pages": "158-167",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PaschoalONS19",
+        "doi": "10.1145/3364641.3364659",
+        "ee": "https://doi.org/10.1145/3364641.3364659",
+        "url": "https://dblp.org/rec/conf/sbqs/PaschoalONS19"
+      },
+      "url": "URL#1219579"
+    },
+    {
+      "@score": "2",
+      "@id": "1219580",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "44/7096",
+              "text": "Daniel de Paula Porto"
+            },
+            {
+              "@pid": "48/5007",
+              "text": "Fabiano Cutigi Ferrari"
+            },
+            {
+              "@pid": "75/5829",
+              "text": "Sandra Camargo Pinto Ferraz Fabbri"
+            }
+          ]
+        },
+        "title": "Improving Project Manager Decision with Gamification - An Experience Report.",
+        "venue": "SBQS",
+        "pages": "286-295",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PortoFF19",
+        "doi": "10.1145/3364641.3364675",
+        "ee": "https://doi.org/10.1145/3364641.3364675",
+        "url": "https://dblp.org/rec/conf/sbqs/PortoFF19"
+      },
+      "url": "URL#1219580"
+    },
+    {
+      "@score": "2",
+      "@id": "1219581",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "232/9168",
+              "text": "Erick Barros dos Santos"
+            },
+            {
+              "@pid": "254/6260",
+              "text": "Lucas Sim\u00e3o da Costa"
+            },
+            {
+              "@pid": "205/9279",
+              "text": "Bruno Sab\u00f3ia Arag\u00e3o"
+            },
+            {
+              "@pid": "98/10587",
+              "text": "Ismayle de Sousa Santos"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana Maria de Castro Andrade"
+            }
+          ]
+        },
+        "title": "Extraction of test cases procedures from textual use cases to reduce test effort - Test Factory Experience Report.",
+        "venue": "SBQS",
+        "pages": "266-275",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SantosCASA19",
+        "doi": "10.1145/3364641.3364673",
+        "ee": "https://doi.org/10.1145/3364641.3364673",
+        "url": "https://dblp.org/rec/conf/sbqs/SantosCASA19"
+      },
+      "url": "URL#1219581"
+    },
+    {
+      "@score": "2",
+      "@id": "1219582",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6557",
+              "text": "Sebasti\u00e3o Santos"
+            },
+            {
+              "@pid": "254/6424",
+              "text": "Fl\u00e1via Carvalho"
+            },
+            {
+              "@pid": "254/6347",
+              "text": "Yandson Costa"
+            },
+            {
+              "@pid": "117/5583",
+              "text": "Davi Viana"
+            },
+            {
+              "@pid": "117/5548",
+              "text": "Luis Rivero"
+            }
+          ]
+        },
+        "title": "Risking - A Game for Teaching Risk Management in Software Projects.",
+        "venue": "SBQS",
+        "pages": "188-197",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SantosCCVR19",
+        "doi": "10.1145/3364641.3364662",
+        "ee": "https://doi.org/10.1145/3364641.3364662",
+        "url": "https://dblp.org/rec/conf/sbqs/SantosCCVR19"
+      },
+      "url": "URL#1219582"
+    },
+    {
+      "@score": "2",
+      "@id": "1219583",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "118/4038",
+              "text": "Jadson Santos"
+            },
+            {
+              "@pid": "254/6579",
+              "text": "Marcos Medeiros"
+            },
+            {
+              "@pid": "78/6010",
+              "text": "Uir\u00e1 Kulesza"
+            },
+            {
+              "@pid": "38/1381",
+              "text": "Felipe Pinto"
+            },
+            {
+              "@pid": "132/6566",
+              "text": "Roniceli Moura"
+            },
+            {
+              "@pid": "254/6257",
+              "text": "Jos\u00e9 Gameleira Neto"
+            },
+            {
+              "@pid": "136/2362",
+              "text": "Guilherme Freitas"
+            },
+            {
+              "@pid": "143/5641",
+              "text": "Leo Silva"
+            }
+          ]
+        },
+        "title": "Applying and Adapting a Performance Deviation Analysis Tool in Web Information Systems.",
+        "venue": "SBQS",
+        "pages": "246-255",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SantosMKPMNFS19",
+        "doi": "10.1145/3364641.3364671",
+        "ee": "https://doi.org/10.1145/3364641.3364671",
+        "url": "https://dblp.org/rec/conf/sbqs/SantosMKPMNFS19"
+      },
+      "url": "URL#1219583"
+    },
+    {
+      "@score": "2",
+      "@id": "1219584",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6525",
+              "text": "Nathalia Rezende Silva"
+            },
+            {
+              "@pid": "42/7676",
+              "text": "Heitor Augustus Xavier Costa"
+            },
+            {
+              "@pid": "23/7677",
+              "text": "Paulo Afonso Parreira J\u00fanior"
+            }
+          ]
+        },
+        "title": "A Systematic Mapping of the Literature about Tools for Data Validation in Business Rules Tests.",
+        "venue": "SBQS",
+        "pages": "1-9",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaCJ19",
+        "doi": "10.1145/3364641.3364642",
+        "ee": "https://doi.org/10.1145/3364641.3364642",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaCJ19"
+      },
+      "url": "URL#1219584"
+    },
+    {
+      "@score": "2",
+      "@id": "1219585",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6405",
+              "text": "Danyllo Silva"
+            },
+            {
+              "@pid": "167/2090",
+              "text": "Taisa Guidini Gon\u00e7alves"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "A Requirements Engineering Process for IoT Systems.",
+        "venue": "SBQS",
+        "pages": "204-209",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaGR19",
+        "doi": "10.1145/3364641.3364664",
+        "ee": "https://doi.org/10.1145/3364641.3364664",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaGR19"
+      },
+      "url": "URL#1219585"
+    },
+    {
+      "@score": "2",
+      "@id": "1219586",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6394",
+              "text": "Diogo Soares da Cruz Silva"
+            },
+            {
+              "@pid": "08/9051",
+              "text": "Marcelo Schots"
+            },
+            {
+              "@pid": "30/1435",
+              "text": "Leticia Duboc"
+            }
+          ]
+        },
+        "title": "Fostering Design Patterns Education - An Exemplar Inspired in the Angry Birds Game Franchise.",
+        "venue": "SBQS",
+        "pages": "168-177",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaSD19",
+        "doi": "10.1145/3364641.3364660",
+        "ee": "https://doi.org/10.1145/3364641.3364660",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaSD19"
+      },
+      "url": "URL#1219586"
+    },
+    {
+      "@score": "2",
+      "@id": "1219587",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "22/325-2",
+              "text": "Victor Silva 0002"
+            },
+            {
+              "@pid": "t/GuilhermeTravassos",
+              "text": "Guilherme Horta Travassos"
+            }
+          ]
+        },
+        "title": "Technologies to Support the Technical Debt Management in Software Projects - A Qualitative Research.",
+        "venue": "SBQS",
+        "pages": "314",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaT19",
+        "doi": "10.1145/3364641.3364679",
+        "ee": "https://doi.org/10.1145/3364641.3364679",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaT19"
+      },
+      "url": "URL#1219587"
+    },
+    {
+      "@score": "2",
+      "@id": "1219588",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/1862",
+              "text": "Amanda Oliveira de Sousa"
+            },
+            {
+              "@pid": "199/5439",
+              "text": "Anderson G. Uch\u00f4a"
+            },
+            {
+              "@pid": "120/0272",
+              "text": "Eduardo Fernandes"
+            },
+            {
+              "@pid": "09/5610",
+              "text": "Carla I. M. Bezerra"
+            },
+            {
+              "@pid": "92/1818",
+              "text": "Jos\u00e9 Maria Monteiro"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. C. Andrade"
+            }
+          ]
+        },
+        "title": "REM4DSPL - A Requirements Engineering Method for Dynamic Software Product Lines.",
+        "venue": "SBQS",
+        "pages": "129-138",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SousaUFBMA19",
+        "doi": "10.1145/3364641.3364656",
+        "ee": "https://doi.org/10.1145/3364641.3364656",
+        "url": "https://dblp.org/rec/conf/sbqs/SousaUFBMA19"
+      },
+      "url": "URL#1219588"
+    },
+    {
+      "@score": "2",
+      "@id": "1219589",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6144",
+              "text": "Aline de Oliveira Sousa"
+            },
+            {
+              "@pid": "135/0795",
+              "text": "Natasha Malveira Costa Valentim"
+            }
+          ]
+        },
+        "title": "Prototyping Usability and User Experience - A Simple Technique to Agile Teams.",
+        "venue": "SBQS",
+        "pages": "222-227",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SousaV19",
+        "doi": "10.1145/3364641.3364667",
+        "ee": "https://doi.org/10.1145/3364641.3364667",
+        "url": "https://dblp.org/rec/conf/sbqs/SousaV19"
+      },
+      "url": "URL#1219589"
+    },
+    {
+      "@score": "2",
+      "@id": "1219590",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "235/9479",
+              "text": "Bruno Pedra\u00e7a de Souza"
+            },
+            {
+              "@pid": "185/1402",
+              "text": "Rebeca Campos Motta"
+            },
+            {
+              "@pid": "254/6404",
+              "text": "Daniella de O. Costa"
+            },
+            {
+              "@pid": "t/GuilhermeTravassos",
+              "text": "Guilherme H. Travassos"
+            }
+          ]
+        },
+        "title": "An IoT-based Scenario Description Inspection Technique.",
+        "venue": "SBQS",
+        "pages": "20-29",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SouzaMCT19",
+        "doi": "10.1145/3364641.3364644",
+        "ee": "https://doi.org/10.1145/3364641.3364644",
+        "url": "https://dblp.org/rec/conf/sbqs/SouzaMCT19"
+      },
+      "url": "URL#1219590"
+    },
+    {
+      "@score": "2",
+      "@id": "1219591",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "205/3999-1",
+              "text": "Renata Souza 0001"
+            },
+            {
+              "@pid": "205/4012",
+              "text": "Karla Malta"
+            },
+            {
+              "@pid": "254/6145",
+              "text": "Roselane Silva"
+            },
+            {
+              "@pid": "79/216",
+              "text": "Paulo C\u00e9sar Masiero"
+            },
+            {
+              "@pid": "a/EduardoSantanadeAlmeida",
+              "text": "Eduardo Santana de Almeida"
+            },
+            {
+              "@pid": "33/9369",
+              "text": "Ivan Machado"
+            }
+          ]
+        },
+        "title": "A Case Study about Startups&apos; Software Development Practices - A Preliminary Result.",
+        "venue": "SBQS",
+        "pages": "198-203",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SouzaMSMAM19",
+        "doi": "10.1145/3364641.3364663",
+        "ee": "https://doi.org/10.1145/3364641.3364663",
+        "url": "https://dblp.org/rec/conf/sbqs/SouzaMSMAM19"
+      },
+      "url": "URL#1219591"
+    },
+    {
+      "@score": "2",
+      "@id": "1219592",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "254/6548",
+              "text": "Guilherme M. Tatibana"
+            },
+            {
+              "@pid": "58/10759",
+              "text": "Fabiane Barreto Vavassori Benitti"
+            }
+          ]
+        },
+        "title": "Use case or activity diagram, that is the question!",
+        "venue": "SBQS",
+        "pages": "306-312",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/TatibanaB19",
+        "doi": "10.1145/3364641.3364677",
+        "ee": "https://doi.org/10.1145/3364641.3364677",
+        "url": "https://dblp.org/rec/conf/sbqs/TatibanaB19"
+      },
+      "url": "URL#1219592"
+    },
+    {
+      "@score": "2",
+      "@id": "1219593",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "132/6555",
+              "text": "J\u00e9ssyka Vilela"
+            },
+            {
+              "@pid": "c/JBdCastro",
+              "text": "Jaelson Castro"
+            },
+            {
+              "@pid": "51/2498",
+              "text": "Luiz Eduardo Galv\u00e3o Martins"
+            }
+          ]
+        },
+        "title": "Uni-REPM SCS - A Safety Maturity Model for Requirements Engineering Process.",
+        "venue": "SBQS",
+        "pages": "313",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/VilelaCM19",
+        "doi": "10.1145/3364641.3364678",
+        "ee": "https://doi.org/10.1145/3364641.3364678",
+        "url": "https://dblp.org/rec/conf/sbqs/VilelaCM19"
+      },
+      "url": "URL#1219593"
+    },
+    {
+      "@score": "2",
+      "@id": "1598659",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2983",
+              "text": "Francisco Vanderson de Moura Alves"
+            },
+            {
+              "@pid": "23/3085",
+              "text": "Pedro de Alc\u00e2ntara dos Santos Neto"
+            },
+            {
+              "@pid": "117/4636",
+              "text": "Werney Ayala Luz Lira"
+            },
+            {
+              "@pid": "233/2326",
+              "text": "Irvayne Matheus de Sousa Ibiapina"
+            }
+          ]
+        },
+        "title": "Analysis of Code Familiarity in Module and Functionality Perspectives.",
+        "venue": "SBQS",
+        "pages": "41-50",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/AlvesNLI18",
+        "doi": "10.1145/3275245.3275250",
+        "ee": "https://doi.org/10.1145/3275245.3275250",
+        "url": "https://dblp.org/rec/conf/sbqs/AlvesNLI18"
+      },
+      "url": "URL#1598659"
+    },
+    {
+      "@score": "2",
+      "@id": "1598660",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2977",
+              "text": "Giovanna C. S. Bettin"
+            },
+            {
+              "@pid": "166/2193",
+              "text": "Ricardo Theis Geraldi"
+            },
+            {
+              "@pid": "04/2051",
+              "text": "Edson OliveiraJr"
+            }
+          ]
+        },
+        "title": "Experimental Evaluation of the SMartyCheck Techinique for Inspecting Defects in UML Component Diagrams.",
+        "venue": "SBQS",
+        "pages": "101-110",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/BettinGO18",
+        "doi": "10.1145/3275245.3275256",
+        "ee": "https://doi.org/10.1145/3275245.3275256",
+        "url": "https://dblp.org/rec/conf/sbqs/BettinGO18"
+      },
+      "url": "URL#1598660"
+    },
+    {
+      "@score": "2",
+      "@id": "1598661",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2582",
+              "text": "Denivan Campos"
+            },
+            {
+              "@pid": "65/10587",
+              "text": "Crescencio Lima"
+            },
+            {
+              "@pid": "33/9369",
+              "text": "Ivan do Carmo Machado"
+            }
+          ]
+        },
+        "title": "MERCI - A Method to Evaluate Combinatorial Interaction Testing Tools for Software Product Lines.",
+        "venue": "SBQS",
+        "pages": "151-159",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CamposLM18",
+        "doi": "10.1145/3275245.3275261",
+        "ee": "https://doi.org/10.1145/3275245.3275261",
+        "url": "https://dblp.org/rec/conf/sbqs/CamposLM18"
+      },
+      "url": "URL#1598661"
+    },
+    {
+      "@score": "2",
+      "@id": "1598662",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "223/4659",
+              "text": "Diogo M. Costa"
+            },
+            {
+              "@pid": "76/8543",
+              "text": "Eld\u00e2nae Nogueira Teixeira"
+            },
+            {
+              "@pid": "w/CMLWerner",
+              "text": "Cl\u00e1udia Maria Lima Werner"
+            }
+          ]
+        },
+        "title": "Odyssey-ProcessCase - A Case-Based Software Process Line Approach.",
+        "venue": "SBQS",
+        "pages": "170-179",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CostaTW18",
+        "doi": "10.1145/3275245.3275263",
+        "ee": "https://doi.org/10.1145/3275245.3275263",
+        "url": "https://dblp.org/rec/conf/sbqs/CostaTW18"
+      },
+      "url": "URL#1598662"
+    },
+    {
+      "@score": "2",
+      "@id": "1598663",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "212/6883",
+              "text": "Christian Marlon Souza Couto"
+            },
+            {
+              "@pid": "18/10723",
+              "text": "Henrique Rocha"
+            },
+            {
+              "@pid": "23/5199",
+              "text": "Ricardo Terra"
+            }
+          ]
+        },
+        "title": "A Quality-oriented Approach to Recommend Move Method Refactorings.",
+        "venue": "SBQS",
+        "pages": "11-20",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/CoutoRT18",
+        "doi": "10.1145/3275245.3275247",
+        "ee": "https://doi.org/10.1145/3275245.3275247",
+        "url": "https://dblp.org/rec/conf/sbqs/CoutoRT18"
+      },
+      "url": "URL#1598663"
+    },
+    {
+      "@score": "2",
+      "@id": "1598664",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "224/8482",
+              "text": "Juliana Costa Fernandes"
+            },
+            {
+              "@pid": "151/3182",
+              "text": "Valdemar Vicente Graciano Neto"
+            },
+            {
+              "@pid": "57/7989",
+              "text": "Rodrigo Pereira dos Santos"
+            }
+          ]
+        },
+        "title": "Interoperability in Systems-of-Information Systems - A Systematic Mapping Study.",
+        "venue": "SBQS",
+        "pages": "131-140",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FernandesNS18",
+        "doi": "10.1145/3275245.3275259",
+        "ee": "https://doi.org/10.1145/3275245.3275259",
+        "url": "https://dblp.org/rec/conf/sbqs/FernandesNS18"
+      },
+      "url": "URL#1598664"
+    },
+    {
+      "@score": "2",
+      "@id": "1598665",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "77/9013",
+              "text": "Eduardo Ferreira"
+            },
+            {
+              "@pid": "166/2138",
+              "text": "Bianca Trinkenreich"
+            },
+            {
+              "@pid": "97/7540",
+              "text": "Monalessa Perini Barcellos"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            }
+          ]
+        },
+        "title": "Using SINIS and GQM+Strategies to Align Organizational Goals and Service Level Agreement Indicators.",
+        "venue": "SBQS",
+        "pages": "324-333",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FerreiraTBS18",
+        "doi": "10.1145/3275245.3275274",
+        "ee": "https://doi.org/10.1145/3275245.3275274",
+        "url": "https://dblp.org/rec/conf/sbqs/FerreiraTBS18"
+      },
+      "url": "URL#1598665"
+    },
+    {
+      "@score": "2",
+      "@id": "1598666",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "168/6211",
+              "text": "Awdren de Lima Font\u00e3o"
+            },
+            {
+              "@pid": "117/5517",
+              "text": "Bruno Bonif\u00e1cio"
+            },
+            {
+              "@pid": "57/7989",
+              "text": "Rodrigo Pereira dos Santos"
+            },
+            {
+              "@pid": "27/11253",
+              "text": "Arilo Claudio Dias-Neto"
+            }
+          ]
+        },
+        "title": "Mobile Application Development Training in Mobile Software Ecosystem - Investigating the Developer eXperience.",
+        "venue": "SBQS",
+        "pages": "160-169",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FontaoBSD18",
+        "doi": "10.1145/3275245.3275262",
+        "ee": "https://doi.org/10.1145/3275245.3275262",
+        "url": "https://dblp.org/rec/conf/sbqs/FontaoBSD18"
+      },
+      "url": "URL#1598666"
+    },
+    {
+      "@score": "2",
+      "@id": "1598667",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/1942",
+              "text": "Victor J. A. T. de Melo Fran\u00e7a"
+            },
+            {
+              "@pid": "121/2397",
+              "text": "Renato Balancieri"
+            },
+            {
+              "@pid": "59/394",
+              "text": "Gislaine Camila Lapasini Leal"
+            },
+            {
+              "@pid": "96/1465",
+              "text": "Ana Cristina Rouiller"
+            }
+          ]
+        },
+        "title": "Mixed Integer Programming helping Requirements Allocation for the NRP in SCRUM Teams.",
+        "venue": "SBQS",
+        "pages": "279-286",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FrancaBLR18",
+        "doi": "10.1145/3275245.3275272",
+        "ee": "https://doi.org/10.1145/3275245.3275272",
+        "url": "https://dblp.org/rec/conf/sbqs/FrancaBLR18"
+      },
+      "url": "URL#1598667"
+    },
+    {
+      "@score": "2",
+      "@id": "1598669",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "117/6111",
+              "text": "Emmanuel S\u00e1vio Silva Freire"
+            },
+            {
+              "@pid": "233/1572",
+              "text": "Gabriel Cavalcante Oliveira"
+            },
+            {
+              "@pid": "233/2002",
+              "text": "Maria Eurizene de Sousa Gomes"
+            }
+          ]
+        },
+        "title": "Analysis of Open-Source CASE Tools for Supporting Software Modeling Process with UML.",
+        "venue": "SBQS",
+        "pages": "51-60",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/FreireOG18",
+        "doi": "10.1145/3275245.3275251",
+        "ee": "https://doi.org/10.1145/3275245.3275251",
+        "url": "https://dblp.org/rec/conf/sbqs/FreireOG18"
+      },
+      "url": "URL#1598669"
+    },
+    {
+      "@score": "2",
+      "@id": "1598670",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2309",
+              "text": "Wolleson Kevin Kelm"
+            },
+            {
+              "@pid": "85/7786",
+              "text": "Aline Vieira de Mello"
+            },
+            {
+              "@pid": "20/10588",
+              "text": "Maicon Bernardino"
+            }
+          ]
+        },
+        "title": "The State of Practice in Requirements Engineering in the Development of Mobile Applications.",
+        "venue": "SBQS",
+        "pages": "210-219",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/KelmMB18",
+        "doi": "10.1145/3275245.3275268",
+        "ee": "https://doi.org/10.1145/3275245.3275268",
+        "url": "https://dblp.org/rec/conf/sbqs/KelmMB18"
+      },
+      "url": "URL#1598670"
+    },
+    {
+      "@score": "2",
+      "@id": "1598671",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "226/9661",
+              "text": "Heloise Acco Tives Le\u00e3o"
+            },
+            {
+              "@pid": "118/8796",
+              "text": "Edna Dias Canedo"
+            }
+          ]
+        },
+        "title": "Digitization of Public Services - A Systematic Literature Review.",
+        "venue": "SBQS",
+        "pages": "91-100",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/LeaoC18",
+        "doi": "10.1145/3275245.3275255",
+        "ee": "https://doi.org/10.1145/3275245.3275255",
+        "url": "https://dblp.org/rec/conf/sbqs/LeaoC18"
+      },
+      "url": "URL#1598671"
+    },
+    {
+      "@score": "2",
+      "@id": "1598672",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "168/7467",
+              "text": "Juliana Lima"
+            },
+            {
+              "@pid": "79/9526",
+              "text": "Adriano Sim\u00f5es"
+            },
+            {
+              "@pid": "166/4353",
+              "text": "Andr\u00e9ia Vieira"
+            },
+            {
+              "@pid": "11/8920",
+              "text": "Lu\u00eds Braga"
+            },
+            {
+              "@pid": "135/0908",
+              "text": "Bruna Ferreira"
+            }
+          ]
+        },
+        "title": "Using Design Thinking to Design an Application for Recognizing the Work of IT Professionals.",
+        "venue": "SBQS",
+        "pages": "315-323",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/LimaSVBF18",
+        "doi": "10.1145/3275245.3275284",
+        "ee": "https://doi.org/10.1145/3275245.3275284",
+        "url": "https://dblp.org/rec/conf/sbqs/LimaSVBF18"
+      },
+      "url": "URL#1598672"
+    },
+    {
+      "@score": "2",
+      "@id": "1598673",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2376",
+              "text": "Claudia P. C. Maciel"
+            },
+            {
+              "@pid": "92/7665",
+              "text": "\u00c9rica Ferreira de Souza"
+            },
+            {
+              "@pid": "229/4259",
+              "text": "Ricardo de Almeida Falbo"
+            },
+            {
+              "@pid": "53/8384",
+              "text": "Katia Romero Felizardo"
+            },
+            {
+              "@pid": "39/841",
+              "text": "Nandamudi L. Vijaykumar"
+            }
+          ]
+        },
+        "title": "Knowledge Management Diagnostics in Software Development Organizations - a Systematic Literature Review.",
+        "venue": "SBQS",
+        "pages": "141-150",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MacielSFFV18",
+        "doi": "10.1145/3275245.3275260",
+        "ee": "https://doi.org/10.1145/3275245.3275260",
+        "url": "https://dblp.org/rec/conf/sbqs/MacielSFFV18"
+      },
+      "url": "URL#1598673"
+    },
+    {
+      "@score": "2",
+      "@id": "1598674",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2265",
+              "text": "Patr\u00edcia Mello"
+            },
+            {
+              "@pid": "59/1153",
+              "text": "Pablo Ximenes"
+            },
+            {
+              "@pid": "233/2322",
+              "text": "Rousiany Lemos"
+            },
+            {
+              "@pid": "233/2402",
+              "text": "Ana Lu\u00edza Bessa"
+            },
+            {
+              "@pid": "88/8007",
+              "text": "Mariela I. Cort\u00e9s"
+            },
+            {
+              "@pid": "233/2060",
+              "text": "Cleilton Lima Rocha"
+            }
+          ]
+        },
+        "title": "On the applicability of BDD in a Business Intelligence project - experience report.",
+        "venue": "SBQS",
+        "pages": "296-304",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MelloXLBCR18",
+        "doi": "10.1145/3275245.3275276",
+        "ee": "https://doi.org/10.1145/3275245.3275276",
+        "url": "https://dblp.org/rec/conf/sbqs/MelloXLBCR18"
+      },
+      "url": "URL#1598674"
+    },
+    {
+      "@score": "2",
+      "@id": "1598675",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2355",
+              "text": "Vitor Mendes"
+            },
+            {
+              "@pid": "233/1912",
+              "text": "Elio Ribeiro Faria Junior"
+            },
+            {
+              "@pid": "132/7078",
+              "text": "Cleiton Garcia"
+            },
+            {
+              "@pid": "82/191",
+              "text": "Andreia Malucelli"
+            }
+          ]
+        },
+        "title": "Kanban and process mining in the task management.",
+        "venue": "SBQS",
+        "pages": "269-278",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MendesJGM18",
+        "doi": "10.1145/3275245.3275286",
+        "ee": "https://doi.org/10.1145/3275245.3275286",
+        "url": "https://dblp.org/rec/conf/sbqs/MendesJGM18"
+      },
+      "url": "URL#1598675"
+    },
+    {
+      "@score": "2",
+      "@id": "1598676",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "208/0347",
+              "text": "Gabriel M. Miranda"
+            },
+            {
+              "@pid": "233/2315",
+              "text": "C\u00e9sar H. Bernab\u00e9"
+            },
+            {
+              "@pid": "198/7447",
+              "text": "Lucas A. Santos"
+            },
+            {
+              "@pid": "97/7540",
+              "text": "Monalessa Perini Barcellos"
+            }
+          ]
+        },
+        "title": "Where Enterprise Architecture and Early Software Engineering Meet - An approach to use cases definition.",
+        "venue": "SBQS",
+        "pages": "240-249",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MirandaBSB18",
+        "doi": "10.1145/3275245.3275271",
+        "ee": "https://doi.org/10.1145/3275245.3275271",
+        "url": "https://dblp.org/rec/conf/sbqs/MirandaBSB18"
+      },
+      "url": "URL#1598676"
+    },
+    {
+      "@score": "2",
+      "@id": "1598677",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2890",
+              "text": "Gabriel Gon\u00e7alves Moreira"
+            },
+            {
+              "@pid": "223/5917",
+              "text": "Anna Beatriz dos Santos Marques"
+            }
+          ]
+        },
+        "title": "Evaluating the students&apos; experience with the Scrum Card Game - an experience report in a Software Engineering course.",
+        "venue": "SBQS",
+        "pages": "344-353",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MoreiraM18",
+        "doi": "10.1145/3275245.3275288",
+        "ee": "https://doi.org/10.1145/3275245.3275288",
+        "url": "https://dblp.org/rec/conf/sbqs/MoreiraM18"
+      },
+      "url": "URL#1598677"
+    },
+    {
+      "@score": "2",
+      "@id": "1598678",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2118",
+              "text": "Victor Moura"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            }
+          ]
+        },
+        "title": "ProcSoft - A Board Game to Teach Software Processes Based on ISO/IEC 29110 Standard.",
+        "venue": "SBQS",
+        "pages": "363-372",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MouraS18",
+        "doi": "10.1145/3275245.3276319",
+        "ee": "https://doi.org/10.1145/3275245.3276319",
+        "url": "https://dblp.org/rec/conf/sbqs/MouraS18"
+      },
+      "url": "URL#1598678"
+    },
+    {
+      "@score": "2",
+      "@id": "1598679",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/1662",
+              "text": "Brunna Caroline Mour\u00e3o"
+            },
+            {
+              "@pid": "233/2084",
+              "text": "Leila Karita"
+            },
+            {
+              "@pid": "33/9369",
+              "text": "Ivan do Carmo Machado"
+            }
+          ]
+        },
+        "title": "Green and Sustainable Software Engineering - a Systematic Mapping Study.",
+        "venue": "SBQS",
+        "pages": "121-130",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/MouraoKM18",
+        "doi": "10.1145/3275245.3275258",
+        "ee": "https://doi.org/10.1145/3275245.3275258",
+        "url": "https://dblp.org/rec/conf/sbqs/MouraoKM18"
+      },
+      "url": "URL#1598679"
+    },
+    {
+      "@score": "2",
+      "@id": "1598681",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2760",
+              "text": "Yure Ouriques Oliveira"
+            },
+            {
+              "@pid": "77/2181",
+              "text": "Cristina Cerdeiral"
+            },
+            {
+              "@pid": "78/2800",
+              "text": "Gleison Santos"
+            }
+          ]
+        },
+        "title": "Causal Analysis and Resolution with Theory of Constraints - The CARTOC Method.",
+        "venue": "SBQS",
+        "pages": "61-70",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/OliveiraCS18",
+        "doi": "10.1145/3275245.3275252",
+        "ee": "https://doi.org/10.1145/3275245.3275252",
+        "url": "https://dblp.org/rec/conf/sbqs/OliveiraCS18"
+      },
+      "url": "URL#1598681"
+    },
+    {
+      "@score": "2",
+      "@id": "1598682",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "180/8285",
+              "text": "Romeu F. de Oliveira"
+            },
+            {
+              "@pid": "206/3856",
+              "text": "Ana Maria da Mota Moura"
+            },
+            {
+              "@pid": "l/JCSdoPradoLeite",
+              "text": "Julio Cesar Sampaio P. Leite"
+            }
+          ]
+        },
+        "title": "Reengineering for Accessibility - A Strategy Based on Software Awareness.",
+        "venue": "SBQS",
+        "pages": "180-189",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/OliveiraML18",
+        "doi": "10.1145/3275245.3275265",
+        "ee": "https://doi.org/10.1145/3275245.3275265",
+        "url": "https://dblp.org/rec/conf/sbqs/OliveiraML18"
+      },
+      "url": "URL#1598682"
+    },
+    {
+      "@score": "2",
+      "@id": "1598683",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "192/1103",
+              "text": "Leo Natan Paschoal"
+            },
+            {
+              "@pid": "35/1622",
+              "text": "Simone do Rocio Senger de Souza"
+            }
+          ]
+        },
+        "title": "A Survey on Software Testing Education in Brazil.",
+        "venue": "SBQS",
+        "pages": "334-343",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PaschoalS18",
+        "doi": "10.1145/3275245.3275289",
+        "ee": "https://doi.org/10.1145/3275245.3275289",
+        "url": "https://dblp.org/rec/conf/sbqs/PaschoalS18"
+      },
+      "url": "URL#1598683"
+    },
+    {
+      "@score": "2",
+      "@id": "1598684",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "229/5375",
+              "text": "Amanda F. de O. Passos"
+            },
+            {
+              "@pid": "159/8231",
+              "text": "M\u00e1rio Andr\u00e9 de Freitas Farias"
+            },
+            {
+              "@pid": "m/ManoelGMendonca",
+              "text": "Manoel Gomes de Mendon\u00e7a Neto"
+            },
+            {
+              "@pid": "69/3094",
+              "text": "Rodrigo Oliveira Sp\u00ednola"
+            }
+          ]
+        },
+        "title": "A Study on Identification of Documentation and Requirement Technical Debt through Code Comment Analysis.",
+        "venue": "SBQS",
+        "pages": "21-30",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PassosFNS18",
+        "doi": "10.1145/3275245.3275248",
+        "ee": "https://doi.org/10.1145/3275245.3275248",
+        "url": "https://dblp.org/rec/conf/sbqs/PassosFNS18"
+      },
+      "url": "URL#1598684"
+    },
+    {
+      "@score": "2",
+      "@id": "1598685",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "130/7509",
+              "text": "Maicon G. Pazin"
+            },
+            {
+              "@pid": "166/2193",
+              "text": "Ricardo Theis Geraldi"
+            },
+            {
+              "@pid": "04/2051",
+              "text": "Edson OliveiraJr"
+            }
+          ]
+        },
+        "title": "Comparing SMartySPEM and vSPEM for Modeling Variability in Software Processes - A Qualitative Study.",
+        "venue": "SBQS",
+        "pages": "71-80",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PazinGO18",
+        "doi": "10.1145/3275245.3275253",
+        "ee": "https://doi.org/10.1145/3275245.3275253",
+        "url": "https://dblp.org/rec/conf/sbqs/PazinGO18"
+      },
+      "url": "URL#1598685"
+    },
+    {
+      "@score": "2",
+      "@id": "1598686",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2507",
+              "text": "Erick Sharlls Ramos de Pontes"
+            },
+            {
+              "@pid": "78/6010",
+              "text": "Uir\u00e1 Kulesza"
+            },
+            {
+              "@pid": "78/7056",
+              "text": "Carlos Eduardo da Silva"
+            },
+            {
+              "@pid": "47/10086",
+              "text": "Eiji Adachi Barbosa"
+            },
+            {
+              "@pid": "49/1805",
+              "text": "Elder Cirilo"
+            }
+          ]
+        },
+        "title": "Extracting and Evolving a Software Product Line from Existing Web-based Systems - An Experience Report.",
+        "venue": "SBQS",
+        "pages": "259-268",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/PontesKSBC18",
+        "doi": "10.1145/3275245.3276245",
+        "ee": "https://doi.org/10.1145/3275245.3276245",
+        "url": "https://dblp.org/rec/conf/sbqs/PontesKSBC18"
+      },
+      "url": "URL#1598686"
+    },
+    {
+      "@score": "2",
+      "@id": "1598687",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "208/0342",
+              "text": "Laylla D. C. Renault"
+            },
+            {
+              "@pid": "97/7540",
+              "text": "Monalessa Perini Barcellos"
+            },
+            {
+              "@pid": "229/4259",
+              "text": "Ricardo de Almeida Falbo"
+            }
+          ]
+        },
+        "title": "Using an Ontology-based Approach for Integrating Applications to support Software Processes.",
+        "venue": "SBQS",
+        "pages": "220-229",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RenaultBF18",
+        "doi": "10.1145/3275245.3275269",
+        "ee": "https://doi.org/10.1145/3275245.3275269",
+        "url": "https://dblp.org/rec/conf/sbqs/RenaultBF18"
+      },
+      "url": "URL#1598687"
+    },
+    {
+      "@score": "2",
+      "@id": "1598688",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Rocha"
+            },
+            {
+              "@pid": "233/1922",
+              "text": "Ana Cecilia Zabeu"
+            },
+            {
+              "@pid": "205/5350",
+              "text": "Cristina Filipak Machado"
+            }
+          ]
+        },
+        "title": "MR-MPS-SW - 2016 and CMMI-DEV v2.0 - An Initial Experience of Harmonization.",
+        "venue": "SBQS",
+        "pages": "287-295",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RochaZM18",
+        "doi": "10.1145/3275245.3275285",
+        "ee": "https://doi.org/10.1145/3275245.3275285",
+        "url": "https://dblp.org/rec/conf/sbqs/RochaZM18"
+      },
+      "url": "URL#1598688"
+    },
+    {
+      "@score": "2",
+      "@id": "1598689",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/1916",
+              "text": "Glauco Antonio Ruiz"
+            },
+            {
+              "@pid": "204/7723",
+              "text": "Bianca Minetto Napole\u00e3o"
+            },
+            {
+              "@pid": "92/7665",
+              "text": "\u00c9rica Ferreira de Souza"
+            },
+            {
+              "@pid": "53/8384",
+              "text": "Katia Romero Felizardo"
+            },
+            {
+              "@pid": "233/2183",
+              "text": "Giovani Volnei Meinerz"
+            },
+            {
+              "@pid": "233/2406",
+              "text": "Patrick Rodrigo da Silva"
+            },
+            {
+              "@pid": "39/841",
+              "text": "Nandamudi L. Vijaykumar"
+            }
+          ]
+        },
+        "title": "Using meta-ethnography to synthesize research on knowledge management and agile software development methodology.",
+        "venue": "SBQS",
+        "pages": "230-239",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/RuizNSFMSV18",
+        "doi": "10.1145/3275245.3275270",
+        "ee": "https://doi.org/10.1145/3275245.3275270",
+        "url": "https://dblp.org/rec/conf/sbqs/RuizNSFMSV18"
+      },
+      "url": "URL#1598689"
+    },
+    {
+      "@score": "2",
+      "@id": "1598690",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/1690",
+              "text": "Edison J. Santos"
+            },
+            {
+              "@pid": "11/2049",
+              "text": "Rita Suzana Pitangueira Maciel"
+            },
+            {
+              "@pid": "64/4218",
+              "text": "Cl\u00e1udio Sant&apos;Anna"
+            }
+          ]
+        },
+        "title": "A Catalogue of Bad Smells for Software Process.",
+        "venue": "SBQS",
+        "pages": "1-10",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SantosMS18",
+        "doi": "10.1145/3275245.3275264",
+        "ee": "https://doi.org/10.1145/3275245.3275264",
+        "url": "https://dblp.org/rec/conf/sbqs/SantosMS18"
+      },
+      "url": "URL#1598690"
+    },
+    {
+      "@score": "2",
+      "@id": "1598691",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2973",
+              "text": "Est\u00eav\u00e3o Damasceno Santos"
+            },
+            {
+              "@pid": "47/4435",
+              "text": "Sandro R. B. Oliveira"
+            }
+          ]
+        },
+        "title": "Gamification and Evaluation the Use of the Function Points Analysis Technique in Software Quality Subjects - The Experimental Studies.",
+        "venue": "SBQS",
+        "pages": "354-362",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SantosO18",
+        "doi": "10.1145/3275245.3275290",
+        "ee": "https://doi.org/10.1145/3275245.3275290",
+        "url": "https://dblp.org/rec/conf/sbqs/SantosO18"
+      },
+      "url": "URL#1598691"
+    },
+    {
+      "@score": "2",
+      "@id": "1598692",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "22/325-2",
+              "text": "Victor Silva 0002"
+            },
+            {
+              "@pid": "185/0412",
+              "text": "Helvio Jeronimo Jr."
+            },
+            {
+              "@pid": "t/GuilhermeTravassos",
+              "text": "Guilherme Horta Travassos"
+            }
+          ]
+        },
+        "title": "Technical Debt Management in Brazilian Software Organizations - A Need, an Expectation, or a Fact?",
+        "venue": "SBQS",
+        "pages": "200-209",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilvaJT18",
+        "doi": "10.1145/3275245.3275267",
+        "ee": "https://doi.org/10.1145/3275245.3275267",
+        "url": "https://dblp.org/rec/conf/sbqs/SilvaJT18"
+      },
+      "url": "URL#1598692"
+    },
+    {
+      "@score": "2",
+      "@id": "1598693",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/2617",
+              "text": "Barbara Cristina A. Silveira"
+            },
+            {
+              "@pid": "117/5550",
+              "text": "Thiago Silva-de-Souza"
+            },
+            {
+              "@pid": "r/AnaReginaRocha",
+              "text": "Ana Regina Cavalcanti da Rocha"
+            }
+          ]
+        },
+        "title": "Software Accessibility for Visually Impaired People - a systematic mapping study.",
+        "venue": "SBQS",
+        "pages": "190-199",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SilveiraSR18",
+        "doi": "10.1145/3275245.3275266",
+        "ee": "https://doi.org/10.1145/3275245.3275266",
+        "url": "https://dblp.org/rec/conf/sbqs/SilveiraSR18"
+      },
+      "url": "URL#1598693"
+    },
+    {
+      "@score": "2",
+      "@id": "1598694",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "192/8887",
+              "text": "Bento R. Siqueira"
+            },
+            {
+              "@pid": "233/2517",
+              "text": "Misael Costa J\u00fanior"
+            },
+            {
+              "@pid": "48/5007",
+              "text": "Fabiano Cutigi Ferrari"
+            },
+            {
+              "@pid": "129/2226",
+              "text": "Daniel S. M. Santib\u00e1\u00f1ez"
+            },
+            {
+              "@pid": "94/2478",
+              "text": "Ricardo Menotti"
+            },
+            {
+              "@pid": "37/1266",
+              "text": "Valter Vieira de Camargo"
+            }
+          ]
+        },
+        "title": "Experimenting with a Multi-Approach Testing Strategy for Adaptive Systems.",
+        "venue": "SBQS",
+        "pages": "111-120",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SiqueiraJFSMC18",
+        "doi": "10.1145/3275245.3275257",
+        "ee": "https://doi.org/10.1145/3275245.3275257",
+        "url": "https://dblp.org/rec/conf/sbqs/SiqueiraJFSMC18"
+      },
+      "url": "URL#1598694"
+    },
+    {
+      "@score": "2",
+      "@id": "1598695",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "233/1862",
+              "text": "Amanda Oliveira de Sousa"
+            },
+            {
+              "@pid": "98/10587",
+              "text": "Ismayle de Sousa Santos"
+            },
+            {
+              "@pid": "205/9279",
+              "text": "Bruno Sab\u00f3ia Arag\u00e3o"
+            },
+            {
+              "@pid": "61/6138",
+              "text": "Rossana M. de Castro Andrade"
+            }
+          ]
+        },
+        "title": "Towards an automatic approach to estimating test effort - An Experience Report.",
+        "venue": "SBQS",
+        "pages": "305-314",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/SousaSAA18",
+        "doi": "10.1145/3275245.3275273",
+        "ee": "https://doi.org/10.1145/3275245.3275273",
+        "url": "https://dblp.org/rec/conf/sbqs/SousaSAA18"
+      },
+      "url": "URL#1598695"
+    },
+    {
+      "@score": "2",
+      "@id": "1598696",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "135/0795",
+              "text": "Natasha Malveira Costa Valentim"
+            },
+            {
+              "@pid": "185/0255",
+              "text": "Elizamary Nascimento"
+            },
+            {
+              "@pid": "48/5",
+              "text": "Tayana Conte"
+            }
+          ]
+        },
+        "title": "Evaluating Usability during the Web Application Development Process.",
+        "venue": "SBQS",
+        "pages": "250-258",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbqs/ValentimNC18",
+        "doi": "10.1145/3275245.3275275",
+        "ee": "https://doi.org/10.1145/3275245.3275275",
+        "url": "https://dblp.org/rec/conf/sbqs/ValentimNC18"
+      },
+      "url": "URL#1598696"
+    }
+  ]
+}

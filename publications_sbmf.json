@@ -1,0 +1,5706 @@
+{
+  "publications": [
+    {
+      "@score": "3",
+      "@id": "374278",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "307/8783",
+              "text": "Bruno Menezes"
+            },
+            {
+              "@pid": "59/1719",
+              "text": "Ana Teresa C. Martins"
+            },
+            {
+              "@pid": "227/2227",
+              "text": "Thiago Alves Rocha"
+            }
+          ]
+        },
+        "title": "A Two-Level Approach Based on Model Checking to Support Architecture Conformance Checking.",
+        "venue": "SBMF",
+        "pages": "1-16",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MenezesMR21",
+        "doi": "10.1007/978-3-030-92137-8_1",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_1",
+        "url": "https://dblp.org/rec/conf/sbmf/MenezesMR21"
+      },
+      "url": "URL#374278"
+    },
+    {
+      "@score": "3",
+      "@id": "798492",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "62/8372",
+              "text": "Leopoldo Teixeira"
+            },
+            {
+              "@pid": "10/3240",
+              "text": "Rohit Gheyi"
+            },
+            {
+              "@pid": "b/PauloBorba",
+              "text": "Paulo Borba"
+            }
+          ]
+        },
+        "title": "Safe Evolution of Product Lines Using Configuration Knowledge Laws.",
+        "venue": "SBMF",
+        "pages": "210-227",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/TeixeiraGB20",
+        "doi": "10.1007/978-3-030-63882-5_13",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_13",
+        "url": "https://dblp.org/rec/conf/sbmf/TeixeiraGB20"
+      },
+      "url": "URL#798492"
+    },
+    {
+      "@score": "2",
+      "@id": "374273",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "272/8955",
+              "text": "Abdulrazaq Abba"
+            },
+            {
+              "@pid": "c/AnaCavalcanti",
+              "text": "Ana Cavalcanti 0001"
+            },
+            {
+              "@pid": "j/JeremyLJacob",
+              "text": "Jeremy Jacob"
+            }
+          ]
+        },
+        "title": "Temporal Reasoning Through Automatic Translation of tock-CSP into Timed Automata.",
+        "venue": "SBMF",
+        "pages": "70-86",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AbbaCJ21",
+        "doi": "10.1007/978-3-030-92137-8_5",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_5",
+        "url": "https://dblp.org/rec/conf/sbmf/AbbaCJ21"
+      },
+      "url": "URL#374273"
+    },
+    {
+      "@score": "2",
+      "@id": "374274",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "287/0893",
+              "text": "Muhammad Rizwan Ali"
+            },
+            {
+              "@pid": "72/11238",
+              "text": "Violet Ka I Pun"
+            }
+          ]
+        },
+        "title": "Cost Analysis for an Actor-Based Workflow Modelling Language.",
+        "venue": "SBMF",
+        "pages": "104-121",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AliP21",
+        "doi": "10.1007/978-3-030-92137-8_7",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_7",
+        "url": "https://dblp.org/rec/conf/sbmf/AliP21"
+      },
+      "url": "URL#374274"
+    },
+    {
+      "@score": "2",
+      "@id": "374275",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "241/0610",
+              "text": "Thamilselvam B"
+            },
+            {
+              "@pid": "12/7758",
+              "text": "Subrahmanyam Kalyanasundaram"
+            },
+            {
+              "@pid": "307/8677",
+              "text": "Shubham Parmar"
+            },
+            {
+              "@pid": "92/4566",
+              "text": "M. V. Panduranga Rao"
+            }
+          ]
+        },
+        "title": "Statistical Model Checking for Traffic Models.",
+        "venue": "SBMF",
+        "pages": "17-33",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BKPR21",
+        "doi": "10.1007/978-3-030-92137-8_2",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_2",
+        "url": "https://dblp.org/rec/conf/sbmf/BKPR21"
+      },
+      "url": "URL#374275"
+    },
+    {
+      "@score": "2",
+      "@id": "374276",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "307/8706",
+              "text": "Diogo Raphael Cravo"
+            },
+            {
+              "@pid": "r/LeilaRibeiro",
+              "text": "Leila Ribeiro 0001"
+            }
+          ]
+        },
+        "title": "Module Integration Using Graph Grammars (MIGRATE).",
+        "venue": "SBMF",
+        "pages": "87-103",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CravoR21",
+        "doi": "10.1007/978-3-030-92137-8_6",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_6",
+        "url": "https://dblp.org/rec/conf/sbmf/CravoR21"
+      },
+      "url": "URL#374276"
+    },
+    {
+      "@score": "2",
+      "@id": "374277",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "307/8973",
+              "text": "Waldeck Lindoso"
+            },
+            {
+              "@pid": "51/1542",
+              "text": "Sidney C. Nogueira"
+            },
+            {
+              "@pid": "307/8547",
+              "text": "Renato Domingues"
+            },
+            {
+              "@pid": "35/7686-1",
+              "text": "Lucas Lima 0001"
+            }
+          ]
+        },
+        "title": "Visual Specification of Properties for Robotic Designs.",
+        "venue": "SBMF",
+        "pages": "34-52",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LindosoNDL21",
+        "doi": "10.1007/978-3-030-92137-8_3",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_3",
+        "url": "https://dblp.org/rec/conf/sbmf/LindosoNDL21"
+      },
+      "url": "URL#374277"
+    },
+    {
+      "@score": "2",
+      "@id": "374279",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "52/8066",
+              "text": "Neda Saeedloei"
+            },
+            {
+              "@pid": "27/360",
+              "text": "Feliks Kluzniak"
+            }
+          ]
+        },
+        "title": "Minimization of the Number of Clocks for Timed Scenarios.",
+        "venue": "SBMF",
+        "pages": "122-139",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SaeedloeiK21",
+        "doi": "10.1007/978-3-030-92137-8_8",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_8",
+        "url": "https://dblp.org/rec/conf/sbmf/SaeedloeiK21"
+      },
+      "url": "URL#374279"
+    },
+    {
+      "@score": "2",
+      "@id": "374280",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "27/4071",
+              "text": "Nils Timm"
+            },
+            {
+              "@pid": "279/2095",
+              "text": "Josua Botha"
+            }
+          ]
+        },
+        "title": "Model Checking and Strategy Synthesis for Multi-agent Systems for Resource Allocation.",
+        "venue": "SBMF",
+        "pages": "53-69",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/TimmB21",
+        "doi": "10.1007/978-3-030-92137-8_4",
+        "ee": "https://doi.org/10.1007/978-3-030-92137-8_4",
+        "url": "https://dblp.org/rec/conf/sbmf/TimmB21"
+      },
+      "url": "URL#374280"
+    },
+    {
+      "@score": "2",
+      "@id": "798480",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "236/0363",
+              "text": "Thayonara Alves"
+            },
+            {
+              "@pid": "62/8372",
+              "text": "Leopoldo Teixeira"
+            },
+            {
+              "@pid": "15/5448",
+              "text": "Vander Alves"
+            },
+            {
+              "@pid": "166/4464",
+              "text": "Thiago M. Castro"
+            }
+          ]
+        },
+        "title": "Porting the Software Product Line Refinement Theory to the Coq Proof Assistant.",
+        "venue": "SBMF",
+        "pages": "192-209",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AlvesTAC20",
+        "doi": "10.1007/978-3-030-63882-5_12",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_12",
+        "url": "https://dblp.org/rec/conf/sbmf/AlvesTAC20"
+      },
+      "url": "URL#798480"
+    },
+    {
+      "@score": "2",
+      "@id": "798481",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "51/912",
+              "text": "Nikolaj Bj\u00f8rner"
+            },
+            {
+              "@pid": "81/2797",
+              "text": "Lev Nachmanson"
+            }
+          ]
+        },
+        "title": "Navigating the Universe of Z3 Theory Solvers.",
+        "venue": "SBMF",
+        "pages": "8-24",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BjornerN20",
+        "doi": "10.1007/978-3-030-63882-5_2",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_2",
+        "url": "https://dblp.org/rec/conf/sbmf/BjornerN20"
+      },
+      "url": "URL#798481"
+    },
+    {
+      "@score": "2",
+      "@id": "798482",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "273/7934",
+              "text": "Suene Campos"
+            },
+            {
+              "@pid": "36/2941",
+              "text": "Regivan H. N. Santiago"
+            },
+            {
+              "@pid": "12/6107",
+              "text": "Manuel A. Martins 0001"
+            },
+            {
+              "@pid": "181/3516",
+              "text": "Daniel Figueiredo"
+            }
+          ]
+        },
+        "title": "Reversal Fuzzy Switch Graphs.",
+        "venue": "SBMF",
+        "pages": "137-154",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CamposSMF20",
+        "doi": "10.1007/978-3-030-63882-5_9",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_9",
+        "url": "https://dblp.org/rec/conf/sbmf/CamposSMF20"
+      },
+      "url": "URL#798482"
+    },
+    {
+      "@score": "2",
+      "@id": "798483",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "279/1282",
+              "text": "Herbert Rausch Fernandes"
+            },
+            {
+              "@pid": "279/1732",
+              "text": "Giovanni Freitas Gomes"
+            },
+            {
+              "@pid": "279/1796",
+              "text": "Antonio Carlos Pinheiro de Oliveira"
+            },
+            {
+              "@pid": "01/2746",
+              "text": "S\u00e9rgio Vale Aguiar Campos"
+            }
+          ]
+        },
+        "title": "Statistical Model Checking in Drug Repurposing for Alzheimer&apos;s Disease.",
+        "venue": "SBMF",
+        "pages": "64-80",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FernandesGOC20",
+        "doi": "10.1007/978-3-030-63882-5_5",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_5",
+        "url": "https://dblp.org/rec/conf/sbmf/FernandesGOC20"
+      },
+      "url": "URL#798483"
+    },
+    {
+      "@score": "2",
+      "@id": "798484",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "l/MartinLeucker",
+            "text": "Martin Leucker"
+          }
+        },
+        "title": "Formal Verification of Neural Networks?",
+        "venue": "SBMF",
+        "pages": "3-7",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Leucker20",
+        "doi": "10.1007/978-3-030-63882-5_1",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_1",
+        "url": "https://dblp.org/rec/conf/sbmf/Leucker20"
+      },
+      "url": "URL#798484"
+    },
+    {
+      "@score": "2",
+      "@id": "798485",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "47/2929",
+              "text": "Chong Liu"
+            },
+            {
+              "@pid": "118/5967",
+              "text": "Nuno Macedo"
+            },
+            {
+              "@pid": "65/603",
+              "text": "Alcino Cunha"
+            }
+          ]
+        },
+        "title": "Merging Cloned Alloy Models with Colorful Refactorings.",
+        "venue": "SBMF",
+        "pages": "173-191",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LiuMC20",
+        "doi": "10.1007/978-3-030-63882-5_11",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_11",
+        "url": "https://dblp.org/rec/conf/sbmf/LiuMC20"
+      },
+      "url": "URL#798485"
+    },
+    {
+      "@score": "2",
+      "@id": "798486",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/7993",
+              "text": "Mihir Parang Mehta"
+            },
+            {
+              "@pid": "c/WilliamRCook",
+              "text": "William R. Cook"
+            }
+          ]
+        },
+        "title": "Separation Logic-Based Verification Atop a Binary-Compatible Filesystem Model.",
+        "venue": "SBMF",
+        "pages": "155-170",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MehtaC20",
+        "doi": "10.1007/978-3-030-63882-5_10",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_10",
+        "url": "https://dblp.org/rec/conf/sbmf/MehtaC20"
+      },
+      "url": "URL#798486"
+    },
+    {
+      "@score": "2",
+      "@id": "798487",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "245/4443",
+              "text": "Yvonne Murray"
+            },
+            {
+              "@pid": "31/7140",
+              "text": "David A. Anisi"
+            },
+            {
+              "@pid": "279/0929",
+              "text": "Martin Sirev\u00e5g"
+            },
+            {
+              "@pid": "184/3701",
+              "text": "Pedro Ribeiro 0002"
+            },
+            {
+              "@pid": "279/1240",
+              "text": "Rabah Saleh Hagag"
+            }
+          ]
+        },
+        "title": "Safety Assurance of a High Voltage Controller for an Industrial Robotic System.",
+        "venue": "SBMF",
+        "pages": "45-63",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "open",
+        "key": "conf/sbmf/MurrayASRH20",
+        "doi": "10.1007/978-3-030-63882-5_4",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_4",
+        "url": "https://dblp.org/rec/conf/sbmf/MurrayASRH20"
+      },
+      "url": "URL#798487"
+    },
+    {
+      "@score": "2",
+      "@id": "798488",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "266/3024",
+              "text": "Jo\u00e3o Batista de Souza Neto"
+            },
+            {
+              "@pid": "17/3197",
+              "text": "Anamaria Martins Moreira"
+            },
+            {
+              "@pid": "v/GVargas-Solar",
+              "text": "Genoveva Vargas-Solar"
+            },
+            {
+              "@pid": "72/5025",
+              "text": "Martin A. Musicante"
+            }
+          ]
+        },
+        "title": "Modeling Big Data Processing Programs.",
+        "venue": "SBMF",
+        "pages": "101-118",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/NetoMVM20",
+        "doi": "10.1007/978-3-030-63882-5_7",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_7",
+        "url": "https://dblp.org/rec/conf/sbmf/NetoMVM20"
+      },
+      "url": "URL#798488"
+    },
+    {
+      "@score": "2",
+      "@id": "798489",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "279/1968",
+              "text": "Jonhnanthan Oliveira"
+            },
+            {
+              "@pid": "10/3240",
+              "text": "Rohit Gheyi"
+            },
+            {
+              "@pid": "38/9681",
+              "text": "Felipe Pontes"
+            },
+            {
+              "@pid": "55/10322",
+              "text": "Melina Mongiovi"
+            },
+            {
+              "@pid": "r/MarcioRibeiro",
+              "text": "M\u00e1rcio Ribeiro 0001"
+            },
+            {
+              "@pid": "g/AlessandroFGarcia",
+              "text": "Alessandro F. Garcia 0001"
+            }
+          ]
+        },
+        "title": "Revisiting Refactoring Mechanics from Tool Developers&apos; Perspective.",
+        "venue": "SBMF",
+        "pages": "25-42",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/OliveiraGPMRG20",
+        "doi": "10.1007/978-3-030-63882-5_3",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_3",
+        "url": "https://dblp.org/rec/conf/sbmf/OliveiraGPMRG20"
+      },
+      "url": "URL#798489"
+    },
+    {
+      "@score": "2",
+      "@id": "798490",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "60/10141",
+              "text": "Jo\u00e3o Paix\u00e3o"
+            },
+            {
+              "@pid": "46/609",
+              "text": "Pawel Sobocinski 0001"
+            }
+          ]
+        },
+        "title": "Calculational Proofs in Relational Graphical Linear Algebra.",
+        "venue": "SBMF",
+        "pages": "83-100",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/PaixaoS20",
+        "doi": "10.1007/978-3-030-63882-5_6",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_6",
+        "url": "https://dblp.org/rec/conf/sbmf/PaixaoS20"
+      },
+      "url": "URL#798490"
+    },
+    {
+      "@score": "2",
+      "@id": "798491",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "52/8066",
+              "text": "Neda Saeedloei"
+            },
+            {
+              "@pid": "27/360",
+              "text": "Feliks Kluzniak"
+            }
+          ]
+        },
+        "title": "Optimization of Timed Scenarios.",
+        "venue": "SBMF",
+        "pages": "119-136",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SaeedloeiK20",
+        "doi": "10.1007/978-3-030-63882-5_8",
+        "ee": "https://doi.org/10.1007/978-3-030-63882-5_8",
+        "url": "https://dblp.org/rec/conf/sbmf/SaeedloeiK20"
+      },
+      "url": "URL#798491"
+    },
+    {
+      "@score": "2",
+      "@id": "1598599",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "219/2313",
+              "text": "Rafaela Almeida"
+            },
+            {
+              "@pid": "51/1542",
+              "text": "Sidney C. Nogueira"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "Automatic Test Case Generation for Concurrent Features from Natural Language Descriptions.",
+        "venue": "SBMF",
+        "pages": "163-179",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AlmeidaNS18",
+        "doi": "10.1007/978-3-030-03044-5_11",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_11",
+        "url": "https://dblp.org/rec/conf/sbmf/AlmeidaNS18"
+      },
+      "url": "URL#1598599"
+    },
+    {
+      "@score": "2",
+      "@id": "1598600",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "202/1934",
+              "text": "Youssef El Bakouny"
+            },
+            {
+              "@pid": "202/1806",
+              "text": "Dani Mezher"
+            }
+          ]
+        },
+        "title": "The Scallina Grammar - Towards a Scala Extraction for Coq.",
+        "venue": "SBMF",
+        "pages": "90-108",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BakounyM18",
+        "doi": "10.1007/978-3-030-03044-5_7",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_7",
+        "url": "https://dblp.org/rec/conf/sbmf/BakounyM18"
+      },
+      "url": "URL#1598600"
+    },
+    {
+      "@score": "2",
+      "@id": "1598601",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "218/1826",
+              "text": "David Come"
+            },
+            {
+              "@pid": "75/6016",
+              "text": "Julien Brunel"
+            },
+            {
+              "@pid": "40/6749",
+              "text": "David Doose"
+            }
+          ]
+        },
+        "title": "Source Code Analysis with a Temporal Extension of First-Order Logic.",
+        "venue": "SBMF",
+        "pages": "20-38",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/ComeBD18",
+        "doi": "10.1007/978-3-030-03044-5_3",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_3",
+        "url": "https://dblp.org/rec/conf/sbmf/ComeBD18"
+      },
+      "url": "URL#1598601"
+    },
+    {
+      "@score": "2",
+      "@id": "1598602",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "225/7734",
+              "text": "Lukas Convent"
+            },
+            {
+              "@pid": "225/7771",
+              "text": "Sebastian Hungerecker"
+            },
+            {
+              "@pid": "l/MartinLeucker",
+              "text": "Martin Leucker"
+            },
+            {
+              "@pid": "163/7176",
+              "text": "Torben Scheffel"
+            },
+            {
+              "@pid": "138/4886-1",
+              "text": "Malte Schmitz 0001"
+            },
+            {
+              "@pid": "08/7448",
+              "text": "Daniel Thoma"
+            }
+          ]
+        },
+        "title": "TeSSLa - Temporal Stream-Based Specification Language.",
+        "venue": "SBMF",
+        "pages": "144-162",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "open",
+        "key": "conf/sbmf/ConventHLS0T18",
+        "doi": "10.1007/978-3-030-03044-5_10",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_10",
+        "url": "https://dblp.org/rec/conf/sbmf/ConventHLS0T18"
+      },
+      "url": "URL#1598602"
+    },
+    {
+      "@score": "2",
+      "@id": "1598603",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "68/7129",
+              "text": "Fl\u00e1via Falc\u00e3o"
+            },
+            {
+              "@pid": "35/7686-1",
+              "text": "Lucas Lima 0001"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "Safe and Constructive Design with UML Components.",
+        "venue": "SBMF",
+        "pages": "234-251",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FalcaoLS18",
+        "doi": "10.1007/978-3-030-03044-5_15",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_15",
+        "url": "https://dblp.org/rec/conf/sbmf/FalcaoLS18"
+      },
+      "url": "URL#1598603"
+    },
+    {
+      "@score": "2",
+      "@id": "1598604",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            }
+          ]
+        },
+        "title": "A Type-Directed Algorithm to Generate Well-Typed Featherweight Java Programs.",
+        "venue": "SBMF",
+        "pages": "39-55",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FeitosaRB18",
+        "doi": "10.1007/978-3-030-03044-5_4",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_4",
+        "url": "https://dblp.org/rec/conf/sbmf/FeitosaRB18"
+      },
+      "url": "URL#1598604"
+    },
+    {
+      "@score": "2",
+      "@id": "1598605",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/1564",
+              "text": "Madiel S. Conserva Filho"
+            },
+            {
+              "@pid": "211/6588",
+              "text": "R. Marinho"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            },
+            {
+              "@pid": "w/JWoodcock",
+              "text": "Jim Woodcock"
+            }
+          ]
+        },
+        "title": "Analysing RoboChart with Probabilities.",
+        "venue": "SBMF",
+        "pages": "198-214",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FilhoMMW18",
+        "doi": "10.1007/978-3-030-03044-5_13",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_13",
+        "url": "https://dblp.org/rec/conf/sbmf/FilhoMMW18"
+      },
+      "url": "URL#1598605"
+    },
+    {
+      "@score": "2",
+      "@id": "1598606",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "f/LeoFreitas",
+            "text": "Leo Freitas"
+          }
+        },
+        "title": "VDM at Large - Modelling the EMV\u00ae 2nd 2 nd Generation Kernel.",
+        "venue": "SBMF",
+        "pages": "109-125",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Freitas18",
+        "doi": "10.1007/978-3-030-03044-5_8",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_8",
+        "url": "https://dblp.org/rec/conf/sbmf/Freitas18"
+      },
+      "url": "URL#1598606"
+    },
+    {
+      "@score": "2",
+      "@id": "1598607",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "f/LeoFreitas",
+              "text": "Leo Freitas"
+            },
+            {
+              "@pid": "46/9526",
+              "text": "Paolo Modesti"
+            },
+            {
+              "@pid": "87/2089",
+              "text": "Martin Emms"
+            }
+          ]
+        },
+        "title": "A Methodology for Protocol Verification Applied to EMV\u00ae 1.",
+        "venue": "SBMF",
+        "pages": "180-197",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FreitasME18",
+        "doi": "10.1007/978-3-030-03044-5_12",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_12",
+        "url": "https://dblp.org/rec/conf/sbmf/FreitasME18"
+      },
+      "url": "URL#1598607"
+    },
+    {
+      "@score": "2",
+      "@id": "1598608",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "m/JoseMeseguer",
+            "text": "Jos\u00e9 Meseguer"
+          }
+        },
+        "title": "Formal Design of Cloud Computing Systems in Maude.",
+        "venue": "SBMF",
+        "pages": "5-19",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Meseguer18",
+        "doi": "10.1007/978-3-030-03044-5_2",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_2",
+        "url": "https://dblp.org/rec/conf/sbmf/Meseguer18"
+      },
+      "url": "URL#1598608"
+    },
+    {
+      "@score": "2",
+      "@id": "1598609",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "m/AlexandreMota",
+            "text": "Alexandre Mota 0001"
+          }
+        },
+        "title": "The Pragmatic Dimension of Formal Methods - Towards Building a Sound Synthesiser.",
+        "venue": "SBMF",
+        "pages": "1-4",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Mota18",
+        "doi": "10.1007/978-3-030-03044-5_1",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_1",
+        "url": "https://dblp.org/rec/conf/sbmf/Mota18"
+      },
+      "url": "URL#1598609"
+    },
+    {
+      "@score": "2",
+      "@id": "1598610",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "52/8066",
+              "text": "Neda Saeedloei"
+            },
+            {
+              "@pid": "27/360",
+              "text": "Feliks Kluzniak"
+            }
+          ]
+        },
+        "title": "Timed Scenarios - Consistency, Equivalence and Optimization.",
+        "venue": "SBMF",
+        "pages": "215-233",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SaeedloeiK18",
+        "doi": "10.1007/978-3-030-03044-5_14",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_14",
+        "url": "https://dblp.org/rec/conf/sbmf/SaeedloeiK18"
+      },
+      "url": "URL#1598610"
+    },
+    {
+      "@score": "2",
+      "@id": "1598611",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "230/0858",
+              "text": "Tain\u00e3 Santos"
+            },
+            {
+              "@pid": "44/3540",
+              "text": "Gustavo Carvalho"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "Formal Modelling of Environment Restrictions from Natural-Language Requirements.",
+        "venue": "SBMF",
+        "pages": "252-270",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SantosCS18",
+        "doi": "10.1007/978-3-030-03044-5_16",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_16",
+        "url": "https://dblp.org/rec/conf/sbmf/SantosCS18"
+      },
+      "url": "URL#1598611"
+    },
+    {
+      "@score": "2",
+      "@id": "1598612",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "213/1954",
+              "text": "Sumayya Shiraz"
+            },
+            {
+              "@pid": "25/2826",
+              "text": "Osman Hasan"
+            }
+          ]
+        },
+        "title": "Formal Verification of n-bit ALU Using Theorem Proving.",
+        "venue": "SBMF",
+        "pages": "74-89",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/ShirazH18",
+        "doi": "10.1007/978-3-030-03044-5_6",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_6",
+        "url": "https://dblp.org/rec/conf/sbmf/ShirazH18"
+      },
+      "url": "URL#1598612"
+    },
+    {
+      "@score": "2",
+      "@id": "1598613",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "27/4071",
+              "text": "Nils Timm"
+            },
+            {
+              "@pid": "67/5283",
+              "text": "Stefan Gruner"
+            },
+            {
+              "@pid": "189/6407",
+              "text": "Matthias Harvey"
+            }
+          ]
+        },
+        "title": "Constraint Reusing and k-Induction for Three-Valued Bounded Model Checking.",
+        "venue": "SBMF",
+        "pages": "126-143",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/TimmGH18",
+        "doi": "10.1007/978-3-030-03044-5_9",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_9",
+        "url": "https://dblp.org/rec/conf/sbmf/TimmGH18"
+      },
+      "url": "URL#1598613"
+    },
+    {
+      "@score": "2",
+      "@id": "1598614",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "w/PhilipWadler",
+            "text": "Philip Wadler"
+          }
+        },
+        "title": "Programming Language Foundations in Agda.",
+        "venue": "SBMF",
+        "pages": "56-73",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Wadler18",
+        "doi": "10.1007/978-3-030-03044-5_5",
+        "ee": "https://doi.org/10.1007/978-3-030-03044-5_5",
+        "url": "https://dblp.org/rec/conf/sbmf/Wadler18"
+      },
+      "url": "URL#1598614"
+    },
+    {
+      "@score": "2",
+      "@id": "1945385",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "208/7574",
+              "text": "Farah Al-Shareefi"
+            },
+            {
+              "@pid": "73/6140",
+              "text": "Alexei Lisitsa"
+            },
+            {
+              "@pid": "d/ClareDixon",
+              "text": "Clare Dixon"
+            }
+          ]
+        },
+        "title": "Abstract State Machines and System Theoretic Process Analysis for Safety-Critical Systems.",
+        "venue": "SBMF",
+        "pages": "15-32",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Al-ShareefiLD17",
+        "doi": "10.1007/978-3-319-70848-5_3",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_3",
+        "url": "https://dblp.org/rec/conf/sbmf/Al-ShareefiLD17"
+      },
+      "url": "URL#1945385"
+    },
+    {
+      "@score": "2",
+      "@id": "1945386",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "199/2046",
+              "text": "Higo F. Albuquerque"
+            },
+            {
+              "@pid": "199/1650",
+              "text": "Rodrigo F. Araujo"
+            },
+            {
+              "@pid": "143/7442",
+              "text": "Iury Valente de Bessa"
+            },
+            {
+              "@pid": "42/4311",
+              "text": "Lucas C. Cordeiro"
+            },
+            {
+              "@pid": "25/6797",
+              "text": "Eddie Batista de Lima Filho"
+            }
+          ]
+        },
+        "title": "OptCE - A Counterexample-Guided Inductive Optimization Solver.",
+        "venue": "SBMF",
+        "pages": "125-141",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AlbuquerqueABCF17",
+        "doi": "10.1007/978-3-319-70848-5_9",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_9",
+        "url": "https://dblp.org/rec/conf/sbmf/AlbuquerqueABCF17"
+      },
+      "url": "URL#1945386"
+    },
+    {
+      "@score": "2",
+      "@id": "1945387",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "208/7764",
+              "text": "Arthur Am\u00e9rico"
+            },
+            {
+              "@pid": "208/7727",
+              "text": "Artur Vaz"
+            },
+            {
+              "@pid": "84/8371",
+              "text": "M\u00e1rio S. Alvim"
+            },
+            {
+              "@pid": "01/2746",
+              "text": "S\u00e9rgio Vale Aguiar Campos"
+            },
+            {
+              "@pid": "m/AnnabelleMcIver",
+              "text": "Annabelle McIver"
+            }
+          ]
+        },
+        "title": "Formal Analysis of the Information Leakage of the DC-Nets and Crowds Anonymity Protocols.",
+        "venue": "SBMF",
+        "pages": "142-158",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AmericoVACM17",
+        "doi": "10.1007/978-3-319-70848-5_10",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_10",
+        "url": "https://dblp.org/rec/conf/sbmf/AmericoVACM17"
+      },
+      "url": "URL#1945387"
+    },
+    {
+      "@score": "2",
+      "@id": "1945388",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "135/9609",
+              "text": "Pedro Antonino"
+            },
+            {
+              "@pid": "116/4998",
+              "text": "Thomas Gibson-Robinson"
+            },
+            {
+              "@pid": "r/AWRoscoe",
+              "text": "A. W. Roscoe 0001"
+            }
+          ]
+        },
+        "title": "Checking Static Properties Using Conservative SAT Approximations for Reachability.",
+        "venue": "SBMF",
+        "pages": "233-250",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AntoninoGR17",
+        "doi": "10.1007/978-3-319-70848-5_15",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_15",
+        "url": "https://dblp.org/rec/conf/sbmf/AntoninoGR17"
+      },
+      "url": "URL#1945388"
+    },
+    {
+      "@score": "2",
+      "@id": "1945389",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "b/CBenzmueller",
+            "text": "Christoph Benzm\u00fcller"
+          }
+        },
+        "title": "Recent Successes with a Meta-Logical Approach to Universal Logical Reasoning (Extended Abstract).",
+        "venue": "SBMF",
+        "pages": "7-11",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Benzmuller17",
+        "doi": "10.1007/978-3-319-70848-5_2",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_2",
+        "url": "https://dblp.org/rec/conf/sbmf/Benzmuller17"
+      },
+      "url": "URL#1945389"
+    },
+    {
+      "@score": "2",
+      "@id": "1945390",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "35/6105",
+            "text": "Andrew Butterfield"
+          }
+        },
+        "title": "UTCP - Compositional Semantics for Shared-Variable Concurrency.",
+        "venue": "SBMF",
+        "pages": "253-270",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Butterfield17",
+        "doi": "10.1007/978-3-319-70848-5_16",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_16",
+        "url": "https://dblp.org/rec/conf/sbmf/Butterfield17"
+      },
+      "url": "URL#1945390"
+    },
+    {
+      "@score": "2",
+      "@id": "1945391",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "c/AnaCavalcanti",
+            "text": "Ana Cavalcanti 0001"
+          }
+        },
+        "title": "Formal Methods for Robotics - RoboChart, RoboSim, and More.",
+        "venue": "SBMF",
+        "pages": "3-6",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Cavalcanti17",
+        "doi": "10.1007/978-3-319-70848-5_1",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_1",
+        "url": "https://dblp.org/rec/conf/sbmf/Cavalcanti17"
+      },
+      "url": "URL#1945391"
+    },
+    {
+      "@score": "2",
+      "@id": "1945392",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "144/5249",
+              "text": "Guillermina Cledou"
+            },
+            {
+              "@pid": "40/5853",
+              "text": "Jos\u00e9 Proen\u00e7a"
+            },
+            {
+              "@pid": "40/3466",
+              "text": "Lu\u00eds Soares Barbosa"
+            }
+          ]
+        },
+        "title": "A Refinement Relation for Families of Timed Automata.",
+        "venue": "SBMF",
+        "pages": "161-178",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CledouPB17",
+        "doi": "10.1007/978-3-319-70848-5_11",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_11",
+        "url": "https://dblp.org/rec/conf/sbmf/CledouPB17"
+      },
+      "url": "URL#1945392"
+    },
+    {
+      "@score": "2",
+      "@id": "1945393",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "117/5448",
+              "text": "Normann Decker"
+            },
+            {
+              "@pid": "117/7595",
+              "text": "Philip Gottschling"
+            },
+            {
+              "@pid": "h/ChristianHochberger",
+              "text": "Christian Hochberger"
+            },
+            {
+              "@pid": "l/MartinLeucker",
+              "text": "Martin Leucker"
+            },
+            {
+              "@pid": "163/7176",
+              "text": "Torben Scheffel"
+            },
+            {
+              "@pid": "138/4886-1",
+              "text": "Malte Schmitz 0001"
+            },
+            {
+              "@pid": "79/1651",
+              "text": "Alexander Weiss"
+            }
+          ]
+        },
+        "title": "Rapidly Adjustable Non-intrusive Online Monitoring for Multi-core Systems.",
+        "venue": "SBMF",
+        "pages": "179-196",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "open",
+        "key": "conf/sbmf/DeckerGHLS0W17",
+        "doi": "10.1007/978-3-319-70848-5_12",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_12",
+        "url": "https://dblp.org/rec/conf/sbmf/DeckerGHLS0W17"
+      },
+      "url": "URL#1945393"
+    },
+    {
+      "@score": "2",
+      "@id": "1945394",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "53/6206",
+              "text": "Lucio Mauro Duarte"
+            },
+            {
+              "@pid": "r/LeilaRibeiro",
+              "text": "Leila Ribeiro 0001"
+            }
+          ]
+        },
+        "title": "Graph Grammar Extraction from Source Code.",
+        "venue": "SBMF",
+        "pages": "52-69",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/DuarteR17",
+        "doi": "10.1007/978-3-319-70848-5_5",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_5",
+        "url": "https://dblp.org/rec/conf/sbmf/DuarteR17"
+      },
+      "url": "URL#1945394"
+    },
+    {
+      "@score": "2",
+      "@id": "1945395",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "127/1726",
+              "text": "Mikhail Y. R. Gadelha"
+            },
+            {
+              "@pid": "42/4311",
+              "text": "Lucas C. Cordeiro"
+            },
+            {
+              "@pid": "04/2787",
+              "text": "Denis A. Nicole"
+            }
+          ]
+        },
+        "title": "Encoding Floating-Point Numbers Using the SMT Theory in ESBMC - An Empirical Evaluation over the SV-COMP Benchmarks.",
+        "venue": "SBMF",
+        "pages": "91-106",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/GadelhaCN17",
+        "doi": "10.1007/978-3-319-70848-5_7",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_7",
+        "url": "https://dblp.org/rec/conf/sbmf/GadelhaCN17"
+      },
+      "url": "URL#1945395"
+    },
+    {
+      "@score": "2",
+      "@id": "1945396",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "203/4145-1",
+              "text": "Leandro Gomes 0001"
+            },
+            {
+              "@pid": "76/4576",
+              "text": "Alexandre Madeira"
+            },
+            {
+              "@pid": "40/3466",
+              "text": "Lu\u00eds Soares Barbosa"
+            }
+          ]
+        },
+        "title": "On Kleene Algebras for Weighted Computation.",
+        "venue": "SBMF",
+        "pages": "271-286",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/GomesMB17",
+        "doi": "10.1007/978-3-319-70848-5_17",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_17",
+        "url": "https://dblp.org/rec/conf/sbmf/GomesMB17"
+      },
+      "url": "URL#1945396"
+    },
+    {
+      "@score": "2",
+      "@id": "1945397",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "90/5181",
+              "text": "Thierry Lecomte"
+            },
+            {
+              "@pid": "25/1547",
+              "text": "David D\u00e9harbe"
+            },
+            {
+              "@pid": "194/2906",
+              "text": "\u00c9tienne Prun"
+            },
+            {
+              "@pid": "208/7603",
+              "text": "Erwan Mottin"
+            }
+          ]
+        },
+        "title": "Applying a Formal Method in Industry - A 25-Year Trajectory.",
+        "venue": "SBMF",
+        "pages": "70-87",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LecomteDPM17",
+        "doi": "10.1007/978-3-319-70848-5_6",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_6",
+        "url": "https://dblp.org/rec/conf/sbmf/LecomteDPM17"
+      },
+      "url": "URL#1945397"
+    },
+    {
+      "@score": "2",
+      "@id": "1945398",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "59/871-10",
+              "text": "Yi Li 0010"
+            },
+            {
+              "@pid": "35/9455",
+              "text": "Xiyue Zhang"
+            },
+            {
+              "@pid": "208/7765",
+              "text": "Yuanyi Ji"
+            },
+            {
+              "@pid": "81/1237-2",
+              "text": "Meng Sun 0002"
+            }
+          ]
+        },
+        "title": "Capturing Stochastic and Real-Time Behavior in Reo Connectors.",
+        "venue": "SBMF",
+        "pages": "287-304",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LiZJS17",
+        "doi": "10.1007/978-3-319-70848-5_18",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_18",
+        "url": "https://dblp.org/rec/conf/sbmf/LiZJS17"
+      },
+      "url": "URL#1945398"
+    },
+    {
+      "@score": "2",
+      "@id": "1945399",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "200/8122",
+              "text": "Roberto Metere"
+            },
+            {
+              "@pid": "28/610",
+              "text": "Andreas Lindner"
+            },
+            {
+              "@pid": "12/5314",
+              "text": "Roberto Guanciale"
+            }
+          ]
+        },
+        "title": "Sound Transpilation from Binary to Machine-Independent Code.",
+        "venue": "SBMF",
+        "pages": "197-214",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MetereLG17",
+        "doi": "10.1007/978-3-319-70848-5_13",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_13",
+        "url": "https://dblp.org/rec/conf/sbmf/MetereLG17"
+      },
+      "url": "URL#1945399"
+    },
+    {
+      "@score": "2",
+      "@id": "1945400",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "136/0526",
+              "text": "K\u00eania Santos de Oliveira"
+            },
+            {
+              "@pid": "27/2276",
+              "text": "St\u00e9phane Julia"
+            }
+          ]
+        },
+        "title": "Using Linear Logic to Verify Requirement Scenarios in Composite Web Service.",
+        "venue": "SBMF",
+        "pages": "215-232",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/OliveiraJ17",
+        "doi": "10.1007/978-3-319-70848-5_14",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_14",
+        "url": "https://dblp.org/rec/conf/sbmf/OliveiraJ17"
+      },
+      "url": "URL#1945400"
+    },
+    {
+      "@score": "2",
+      "@id": "1945401",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "208/7714",
+              "text": "Rodrigo Otoni"
+            },
+            {
+              "@pid": "c/AnaCavalcanti",
+              "text": "Ana Cavalcanti 0001"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "Local Analysis of Determinism for CSP.",
+        "venue": "SBMF",
+        "pages": "107-124",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/OtoniCS17",
+        "doi": "10.1007/978-3-319-70848-5_8",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_8",
+        "url": "https://dblp.org/rec/conf/sbmf/OtoniCS17"
+      },
+      "url": "URL#1945401"
+    },
+    {
+      "@score": "2",
+      "@id": "1945402",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "52/8066",
+              "text": "Neda Saeedloei"
+            },
+            {
+              "@pid": "27/360",
+              "text": "Feliks Kluzniak"
+            }
+          ]
+        },
+        "title": "From Scenarios to Timed Automata.",
+        "venue": "SBMF",
+        "pages": "33-51",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SaeedloeiK17",
+        "doi": "10.1007/978-3-319-70848-5_4",
+        "ee": "https://doi.org/10.1007/978-3-319-70848-5_4",
+        "url": "https://dblp.org/rec/conf/sbmf/SaeedloeiK17"
+      },
+      "url": "URL#1945402"
+    },
+    {
+      "@score": "2",
+      "@id": "2262407",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "189/6256",
+              "text": "S\u00e9rgio Barza"
+            },
+            {
+              "@pid": "44/3540",
+              "text": "Gustavo Carvalho"
+            },
+            {
+              "@pid": "72/4526",
+              "text": "Juliano Iyoda"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            },
+            {
+              "@pid": "b/FlaviaABarros",
+              "text": "Fl\u00e1via de Almeida Barros"
+            }
+          ]
+        },
+        "title": "Model Checking Requirements.",
+        "venue": "SBMF",
+        "pages": "217-234",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BarzaCISMB16",
+        "doi": "10.1007/978-3-319-49815-7_13",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_13",
+        "url": "https://dblp.org/rec/conf/sbmf/BarzaCISMB16"
+      },
+      "url": "URL#2262407"
+    },
+    {
+      "@score": "2",
+      "@id": "2262408",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "57/1847",
+              "text": "Pablo F. Castro"
+            },
+            {
+              "@pid": "69/610",
+              "text": "Nazareno Aguirre"
+            }
+          ]
+        },
+        "title": "Algebraic Foundations for Specification Refinements.",
+        "venue": "SBMF",
+        "pages": "112-128",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CastroA16",
+        "doi": "10.1007/978-3-319-49815-7_7",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_7",
+        "url": "https://dblp.org/rec/conf/sbmf/CastroA16"
+      },
+      "url": "URL#2262408"
+    },
+    {
+      "@score": "2",
+      "@id": "2262409",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "143/6780",
+              "text": "Andrei Costa"
+            },
+            {
+              "@pid": "187/9585",
+              "text": "Jonas Santos Bezerra"
+            },
+            {
+              "@pid": "139/6047",
+              "text": "Guilherme Grochau Azzi"
+            },
+            {
+              "@pid": "214/8631",
+              "text": "Leonardo Marques Rodrigues"
+            },
+            {
+              "@pid": "189/6389",
+              "text": "Thiago Rafael Becker"
+            },
+            {
+              "@pid": "189/6428",
+              "text": "Ricardo Gabriel Herdt"
+            },
+            {
+              "@pid": "33/4758",
+              "text": "Rodrigo Machado"
+            }
+          ]
+        },
+        "title": "Verigraph - A System for Specification and Analysis of Graph Grammars.",
+        "venue": "SBMF",
+        "pages": "78-94",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CostaBARBHM16",
+        "doi": "10.1007/978-3-319-49815-7_5",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_5",
+        "url": "https://dblp.org/rec/conf/sbmf/CostaBARBHM16"
+      },
+      "url": "URL#2262409"
+    },
+    {
+      "@score": "2",
+      "@id": "2262410",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "11/6695",
+              "text": "Andrew Edmunds"
+            },
+            {
+              "@pid": "77/1773",
+              "text": "Marina Wald\u00e9n"
+            }
+          ]
+        },
+        "title": "Modelling &apos;Operation-Calls&apos; in Event-B with Shared-Event Composition.",
+        "venue": "SBMF",
+        "pages": "97-111",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/EdmundsW16",
+        "doi": "10.1007/978-3-319-49815-7_6",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_6",
+        "url": "https://dblp.org/rec/conf/sbmf/EdmundsW16"
+      },
+      "url": "URL#2262410"
+    },
+    {
+      "@score": "2",
+      "@id": "2262411",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "189/6252",
+              "text": "Hugo Farias"
+            },
+            {
+              "@pid": "b/ChristianoBraga",
+              "text": "Christiano Braga"
+            },
+            {
+              "@pid": "m/PauloBlauthMenezes",
+              "text": "Paulo Blauth Menezes"
+            }
+          ]
+        },
+        "title": "Massive Open Online Courses and Monoids.",
+        "venue": "SBMF",
+        "pages": "179-195",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FariasBM16",
+        "doi": "10.1007/978-3-319-49815-7_11",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_11",
+        "url": "https://dblp.org/rec/conf/sbmf/FariasBM16"
+      },
+      "url": "URL#2262411"
+    },
+    {
+      "@score": "2",
+      "@id": "2262412",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "l/MLeuschel",
+            "text": "Michael Leuschel"
+          }
+        },
+        "title": "Formal Model-Based Constraint Solving and Document Generation.",
+        "venue": "SBMF",
+        "pages": "3-20",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Leuschel16",
+        "doi": "10.1007/978-3-319-49815-7_1",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_1",
+        "url": "https://dblp.org/rec/conf/sbmf/Leuschel16"
+      },
+      "url": "URL#2262412"
+    },
+    {
+      "@score": "2",
+      "@id": "2262413",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "35/7686-1",
+              "text": "Lucas Lima 0001"
+            },
+            {
+              "@pid": "72/4526",
+              "text": "Juliano Iyoda"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "Refinement Verification of Sequence Diagrams Using CSP.",
+        "venue": "SBMF",
+        "pages": "235-252",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LimaIS16",
+        "doi": "10.1007/978-3-319-49815-7_14",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_14",
+        "url": "https://dblp.org/rec/conf/sbmf/LimaIS16"
+      },
+      "url": "URL#2262413"
+    },
+    {
+      "@score": "2",
+      "@id": "2262414",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "128/2904",
+              "text": "Efraim Machado"
+            },
+            {
+              "@pid": "50/915",
+              "text": "Aline Andrade"
+            }
+          ]
+        },
+        "title": "A Refinement Repair Algorithm Based on Refinement Game for KMTS Models.",
+        "venue": "SBMF",
+        "pages": "161-178",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MachadoA16",
+        "doi": "10.1007/978-3-319-49815-7_10",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_10",
+        "url": "https://dblp.org/rec/conf/sbmf/MachadoA16"
+      },
+      "url": "URL#2262414"
+    },
+    {
+      "@score": "2",
+      "@id": "2262415",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "189/6361",
+              "text": "Facundo Molina"
+            },
+            {
+              "@pid": "189/6219",
+              "text": "C\u00e9sar Cornejo"
+            },
+            {
+              "@pid": "24/9840",
+              "text": "Renzo Degiovanni"
+            },
+            {
+              "@pid": "33/4870",
+              "text": "Germ\u00e1n Regis"
+            },
+            {
+              "@pid": "57/1847",
+              "text": "Pablo F. Castro"
+            },
+            {
+              "@pid": "69/610",
+              "text": "Nazareno Aguirre"
+            },
+            {
+              "@pid": "13/1323",
+              "text": "Marcelo F. Frias"
+            }
+          ]
+        },
+        "title": "An Evolutionary Approach to Translate Operational Specifications into Declarative Specifications.",
+        "venue": "SBMF",
+        "pages": "145-160",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MolinaCDRCAF16",
+        "doi": "10.1007/978-3-319-49815-7_9",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_9",
+        "url": "https://dblp.org/rec/conf/sbmf/MolinaCDRCAF16"
+      },
+      "url": "URL#2262415"
+    },
+    {
+      "@score": "2",
+      "@id": "2262416",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "95/1913",
+              "text": "Luis E. Mendoza Morales"
+            },
+            {
+              "@pid": "65/6336",
+              "text": "Carlos Monsalve"
+            },
+            {
+              "@pid": "25/4909",
+              "text": "M\u00f3nica Villavicencio"
+            }
+          ]
+        },
+        "title": "Application of Formal Methods to Verify Business Processes.",
+        "venue": "SBMF",
+        "pages": "41-58",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MoralesMV16",
+        "doi": "10.1007/978-3-319-49815-7_3",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_3",
+        "url": "https://dblp.org/rec/conf/sbmf/MoralesMV16"
+      },
+      "url": "URL#2262416"
+    },
+    {
+      "@score": "2",
+      "@id": "2262417",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "51/1542",
+              "text": "Sidney C. Nogueira"
+            },
+            {
+              "@pid": "10/5013",
+              "text": "Taciana Pontual Falc\u00e3o"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            },
+            {
+              "@pid": "189/6146",
+              "text": "Emanuel Oliveira"
+            },
+            {
+              "@pid": "189/6440",
+              "text": "Itamar Moraes"
+            },
+            {
+              "@pid": "189/6460",
+              "text": "Iverson Pereira"
+            }
+          ]
+        },
+        "title": "An Approach for Verifying Educational Robots.",
+        "venue": "SBMF",
+        "pages": "59-77",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/NogueiraFMOMP16",
+        "doi": "10.1007/978-3-319-49815-7_4",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_4",
+        "url": "https://dblp.org/rec/conf/sbmf/NogueiraFMOMP16"
+      },
+      "url": "URL#2262417"
+    },
+    {
+      "@score": "2",
+      "@id": "2262418",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            },
+            {
+              "@pid": "183/9121",
+              "text": "Filipe Arruda"
+            }
+          ]
+        },
+        "title": "Formal Testing from Natural Language in an Industrial Context.",
+        "venue": "SBMF",
+        "pages": "21-38",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SampaioA16",
+        "doi": "10.1007/978-3-319-49815-7_2",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_2",
+        "url": "https://dblp.org/rec/conf/sbmf/SampaioA16"
+      },
+      "url": "URL#2262418"
+    },
+    {
+      "@score": "2",
+      "@id": "2262419",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "36/2941",
+              "text": "Regivan H. N. Santiago"
+            },
+            {
+              "@pid": "32/3731",
+              "text": "Benjam\u00edn R. C. Bedregal"
+            },
+            {
+              "@pid": "76/4576",
+              "text": "Alexandre Madeira"
+            },
+            {
+              "@pid": "12/6107",
+              "text": "Manuel A. Martins 0001"
+            }
+          ]
+        },
+        "title": "On Interval Dynamic Logic.",
+        "venue": "SBMF",
+        "pages": "129-144",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SantiagoBMM16",
+        "doi": "10.1007/978-3-319-49815-7_8",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_8",
+        "url": "https://dblp.org/rec/conf/sbmf/SantiagoBMM16"
+      },
+      "url": "URL#2262419"
+    },
+    {
+      "@score": "2",
+      "@id": "2262420",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "27/4071",
+              "text": "Nils Timm"
+            },
+            {
+              "@pid": "67/5283",
+              "text": "Stefan Gruner"
+            },
+            {
+              "@pid": "189/6407",
+              "text": "Matthias Harvey"
+            }
+          ]
+        },
+        "title": "A Bounded Model Checker for Three-Valued Abstractions of Concurrent Software Systems.",
+        "venue": "SBMF",
+        "pages": "199-216",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/TimmGH16",
+        "doi": "10.1007/978-3-319-49815-7_12",
+        "ee": "https://doi.org/10.1007/978-3-319-49815-7_12",
+        "url": "https://dblp.org/rec/conf/sbmf/TimmGH16"
+      },
+      "url": "URL#2262420"
+    },
+    {
+      "@score": "2",
+      "@id": "2567616",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "b/ChristianoBraga",
+              "text": "Christiano Braga"
+            },
+            {
+              "@pid": "187/9712",
+              "text": "Bruno Lopes 0001"
+            }
+          ]
+        },
+        "title": "Towards Reasoning in Dynamic Logics with Rewriting Logic - The Petri-PDL Case.",
+        "venue": "SBMF",
+        "pages": "74-89",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BragaL15",
+        "doi": "10.1007/978-3-319-29473-5_5",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_5",
+        "url": "https://dblp.org/rec/conf/sbmf/BragaL15"
+      },
+      "url": "URL#2567616"
+    },
+    {
+      "@score": "2",
+      "@id": "2567617",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "04/10479",
+              "text": "Christophe Chareton"
+            },
+            {
+              "@pid": "75/6016",
+              "text": "Julien Brunel"
+            },
+            {
+              "@pid": "65/4674",
+              "text": "David Chemouil"
+            }
+          ]
+        },
+        "title": "Evaluating the Assignment of Behavioral Goals to Coalitions of Agents.",
+        "venue": "SBMF",
+        "pages": "56-73",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CharetonBC15",
+        "doi": "10.1007/978-3-319-29473-5_4",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_4",
+        "url": "https://dblp.org/rec/conf/sbmf/CharetonBC15"
+      },
+      "url": "URL#2567617"
+    },
+    {
+      "@score": "2",
+      "@id": "2567618",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "72/3590",
+              "text": "Valdivino Alexandre de Santiago Jr."
+            },
+            {
+              "@pid": "98/2059",
+              "text": "Sofi\u00e8ne Tahar"
+            }
+          ]
+        },
+        "title": "Time Performance Formal Evaluation of Complex Systems.",
+        "venue": "SBMF",
+        "pages": "162-177",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/JuniorT15",
+        "doi": "10.1007/978-3-319-29473-5_10",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_10",
+        "url": "https://dblp.org/rec/conf/sbmf/JuniorT15"
+      },
+      "url": "URL#2567618"
+    },
+    {
+      "@score": "2",
+      "@id": "2567619",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "174/7632",
+              "text": "F. J. S. Mac\u00e1rio"
+            },
+            {
+              "@pid": "15/2751",
+              "text": "Marcel Vin\u00edcius Medeiros Oliveira"
+            }
+          ]
+        },
+        "title": "Hard-Wiring CSP Hiding - Implementing Channel Abstraction to Generate Verified Concurrent Hardware.",
+        "venue": "SBMF",
+        "pages": "3-18",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MacarioO15",
+        "doi": "10.1007/978-3-319-29473-5_1",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_1",
+        "url": "https://dblp.org/rec/conf/sbmf/MacarioO15"
+      },
+      "url": "URL#2567619"
+    },
+    {
+      "@score": "2",
+      "@id": "2567620",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "90/9827",
+              "text": "Alvaro Miyazawa"
+            },
+            {
+              "@pid": "c/AnaCavalcanti",
+              "text": "Ana Cavalcanti 0001"
+            }
+          ]
+        },
+        "title": "Refinement Strategies for Safety-Critical Java.",
+        "venue": "SBMF",
+        "pages": "93-109",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MiyazawaC15",
+        "doi": "10.1007/978-3-319-29473-5_6",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_6",
+        "url": "https://dblp.org/rec/conf/sbmf/MiyazawaC15"
+      },
+      "url": "URL#2567620"
+    },
+    {
+      "@score": "2",
+      "@id": "2567621",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "51/1542",
+              "text": "Sidney C. Nogueira"
+            },
+            {
+              "@pid": "174/7661",
+              "text": "Hugo L. S. Araujo"
+            },
+            {
+              "@pid": "174/7699",
+              "text": "Renata B. S. Araujo"
+            },
+            {
+              "@pid": "72/4526",
+              "text": "Juliano Iyoda"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "Automatic Generation of Test Cases and Test Purposes from Natural Language.",
+        "venue": "SBMF",
+        "pages": "145-161",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/NogueiraAAIS15",
+        "doi": "10.1007/978-3-319-29473-5_9",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_9",
+        "url": "https://dblp.org/rec/conf/sbmf/NogueiraAAIS15"
+      },
+      "url": "URL#2567621"
+    },
+    {
+      "@score": "2",
+      "@id": "2567622",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "27/4510",
+              "text": "Carlos Camar\u00e3o"
+            }
+          ]
+        },
+        "title": "A Mechanized Textbook Proof of a Type Unification Algorithm.",
+        "venue": "SBMF",
+        "pages": "127-141",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/RibeiroC15",
+        "doi": "10.1007/978-3-319-29473-5_8",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_8",
+        "url": "https://dblp.org/rec/conf/sbmf/RibeiroC15"
+      },
+      "url": "URL#2567622"
+    },
+    {
+      "@score": "2",
+      "@id": "2567623",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "174/7807",
+              "text": "Bruno Cesar F. Silva"
+            },
+            {
+              "@pid": "44/3540",
+              "text": "Gustavo Carvalho"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "Test Case Generation from Natural Language Requirements Using CPN Simulation.",
+        "venue": "SBMF",
+        "pages": "178-193",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SilvaCS15",
+        "doi": "10.1007/978-3-319-29473-5_11",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_11",
+        "url": "https://dblp.org/rec/conf/sbmf/SilvaCS15"
+      },
+      "url": "URL#2567623"
+    },
+    {
+      "@score": "2",
+      "@id": "2567624",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "174/7826",
+              "text": "Tarciana Dias da Silva"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            }
+          ]
+        },
+        "title": "Verifying Transformations of Java Programs Using Alloy.",
+        "venue": "SBMF",
+        "pages": "110-126",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SilvaSM15",
+        "doi": "10.1007/978-3-319-29473-5_7",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_7",
+        "url": "https://dblp.org/rec/conf/sbmf/SilvaSM15"
+      },
+      "url": "URL#2567624"
+    },
+    {
+      "@score": "2",
+      "@id": "2567625",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "27/4071",
+              "text": "Nils Timm"
+            },
+            {
+              "@pid": "67/5283",
+              "text": "Stefan Gruner"
+            }
+          ]
+        },
+        "title": "Instantiation Reduction in Iterative Parameterised Three-Valued Model Checking.",
+        "venue": "SBMF",
+        "pages": "19-35",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/TimmG15",
+        "doi": "10.1007/978-3-319-29473-5_2",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_2",
+        "url": "https://dblp.org/rec/conf/sbmf/TimmG15"
+      },
+      "url": "URL#2567625"
+    },
+    {
+      "@score": "2",
+      "@id": "2567626",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "w/JWoodcock",
+              "text": "Jim Woodcock"
+            },
+            {
+              "@pid": "w/AndyJWellings",
+              "text": "Andy J. Wellings"
+            },
+            {
+              "@pid": "c/AnaCavalcanti",
+              "text": "Ana Cavalcanti 0001"
+            }
+          ]
+        },
+        "title": "Mobile CSP.",
+        "venue": "SBMF",
+        "pages": "39-55",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/WoodcockWC15",
+        "doi": "10.1007/978-3-319-29473-5_3",
+        "ee": "https://doi.org/10.1007/978-3-319-29473-5_3",
+        "url": "https://dblp.org/rec/conf/sbmf/WoodcockWC15"
+      },
+      "url": "URL#2567626"
+    },
+    {
+      "@score": "2",
+      "@id": "2811102",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "10/5630-60",
+              "text": "Xin Wang 0060"
+            },
+            {
+              "@pid": "44/2633",
+              "text": "Congfu Xu"
+            }
+          ]
+        },
+        "title": "SBMF - Similarity-Based Matrix Factorization for Collaborative Recommendation.",
+        "venue": "ICTAI",
+        "pages": "379-383",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/ictai/WangX14",
+        "doi": "10.1109/ICTAI.2014.64",
+        "ee": "https://doi.org/10.1109/ICTAI.2014.64",
+        "url": "https://dblp.org/rec/conf/ictai/WangX14"
+      },
+      "url": "URL#2811102"
+    },
+    {
+      "@score": "2",
+      "@id": "2857044",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "152/9565",
+              "text": "Sohaib Ahmad"
+            },
+            {
+              "@pid": "25/2826",
+              "text": "Osman Hasan"
+            },
+            {
+              "@pid": "52/10785",
+              "text": "Umair Siddique"
+            },
+            {
+              "@pid": "98/2059",
+              "text": "Sofi\u00e8ne Tahar"
+            }
+          ]
+        },
+        "title": "Formalization of Zsyntax to Reason About Molecular Pathways in HOL4.",
+        "venue": "SBMF",
+        "pages": "32-47",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AhmadHST14",
+        "doi": "10.1007/978-3-319-15075-8_3",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_3",
+        "url": "https://dblp.org/rec/conf/sbmf/AhmadHST14"
+      },
+      "url": "URL#2857044"
+    },
+    {
+      "@score": "2",
+      "@id": "2857045",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "59/7512",
+              "text": "Diego R. Almeida"
+            },
+            {
+              "@pid": "121/2930",
+              "text": "Alan Moraes"
+            },
+            {
+              "@pid": "64/298",
+              "text": "Wilkerson de L. Andrade"
+            },
+            {
+              "@pid": "33/5476",
+              "text": "Patr\u00edcia D. L. Machado"
+            }
+          ]
+        },
+        "title": "Towards a Family of Test Selection Criteria for Symbolic Models of Real-Time Systems.",
+        "venue": "SBMF",
+        "pages": "48-63",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AlmeidaMAM14",
+        "doi": "10.1007/978-3-319-15075-8_4",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_4",
+        "url": "https://dblp.org/rec/conf/sbmf/AlmeidaMAM14"
+      },
+      "url": "URL#2857045"
+    },
+    {
+      "@score": "2",
+      "@id": "2857046",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "75/3724",
+              "text": "Richard Bonichon"
+            },
+            {
+              "@pid": "25/1547",
+              "text": "David D\u00e9harbe"
+            },
+            {
+              "@pid": "90/5181",
+              "text": "Thierry Lecomte"
+            },
+            {
+              "@pid": "11/7128",
+              "text": "Val\u00e9rio Medeiros Jr."
+            }
+          ]
+        },
+        "title": "LLVM-Based Code Generation for B.",
+        "venue": "SBMF",
+        "pages": "1-16",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BonichonDLM14",
+        "doi": "10.1007/978-3-319-15075-8_1",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_1",
+        "url": "https://dblp.org/rec/conf/sbmf/BonichonDLM14"
+      },
+      "url": "URL#2857046"
+    },
+    {
+      "@score": "2",
+      "@id": "2857047",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "92/6787",
+              "text": "Daniel Calegari"
+            },
+            {
+              "@pid": "m/TillMossakowski",
+              "text": "Till Mossakowski"
+            },
+            {
+              "@pid": "34/5863",
+              "text": "Nora Szasz"
+            }
+          ]
+        },
+        "title": "Model-Driven Engineering in the Heterogeneous Tool Set.",
+        "venue": "SBMF",
+        "pages": "64-79",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CalegariMS14",
+        "doi": "10.1007/978-3-319-15075-8_5",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_5",
+        "url": "https://dblp.org/rec/conf/sbmf/CalegariMS14"
+      },
+      "url": "URL#2857047"
+    },
+    {
+      "@score": "2",
+      "@id": "2857048",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "00/5910",
+            "text": "Alberto Ciaffaglione"
+          }
+        },
+        "title": "A Coinductive Animation of Turing Machines.",
+        "venue": "SBMF",
+        "pages": "80-95",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Ciaffaglione14",
+        "doi": "10.1007/978-3-319-15075-8_6",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_6",
+        "url": "https://dblp.org/rec/conf/sbmf/Ciaffaglione14"
+      },
+      "url": "URL#2857048"
+    },
+    {
+      "@score": "2",
+      "@id": "2857049",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "43/8810",
+              "text": "Grigory Fedyukovich"
+            },
+            {
+              "@pid": "12/2269",
+              "text": "Natasha Sharygina"
+            }
+          ]
+        },
+        "title": "Towards Completeness in Bounded Model Checking Through Automatic Recursion Depth Detection.",
+        "venue": "SBMF",
+        "pages": "96-112",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FedyukovichS14",
+        "doi": "10.1007/978-3-319-15075-8_7",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_7",
+        "url": "https://dblp.org/rec/conf/sbmf/FedyukovichS14"
+      },
+      "url": "URL#2857049"
+    },
+    {
+      "@score": "2",
+      "@id": "2857050",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "76/1707-1",
+              "text": "Bruno Ferreira 0001"
+            },
+            {
+              "@pid": "117/3902",
+              "text": "Fernando A. F. Braz"
+            },
+            {
+              "@pid": "01/2746",
+              "text": "S\u00e9rgio Vale Aguiar Campos"
+            }
+          ]
+        },
+        "title": "A Probabilistic Model Checking Analysis of a Realistic Vehicular Networks Mobility Model.",
+        "venue": "SBMF",
+        "pages": "113-129",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FerreiraBC14",
+        "doi": "10.1007/978-3-319-15075-8_8",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_8",
+        "url": "https://dblp.org/rec/conf/sbmf/FerreiraBC14"
+      },
+      "url": "URL#2857050"
+    },
+    {
+      "@score": "2",
+      "@id": "2857051",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "76/4576",
+              "text": "Alexandre Madeira"
+            },
+            {
+              "@pid": "04/8871",
+              "text": "Renato Neves"
+            },
+            {
+              "@pid": "12/6107",
+              "text": "Manuel A. Martins 0001"
+            },
+            {
+              "@pid": "40/3466",
+              "text": "Lu\u00eds Soares Barbosa"
+            }
+          ]
+        },
+        "title": "A Dynamic Logic for Every Season.",
+        "venue": "SBMF",
+        "pages": "130-145",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MadeiraNMB14",
+        "doi": "10.1007/978-3-319-15075-8_9",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_9",
+        "url": "https://dblp.org/rec/conf/sbmf/MadeiraNMB14"
+      },
+      "url": "URL#2857051"
+    },
+    {
+      "@score": "2",
+      "@id": "2857052",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "34/4176",
+              "text": "Narciso Mart\u00ed-Oliet"
+            },
+            {
+              "@pid": "72/6497",
+              "text": "Francisco Dur\u00e1n 0001"
+            },
+            {
+              "@pid": "70/253",
+              "text": "Alberto Verdejo"
+            }
+          ]
+        },
+        "title": "Equational Abstractions in Rewriting Logic and Maude.",
+        "venue": "SBMF",
+        "pages": "17-31",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Marti-OlietDV14",
+        "doi": "10.1007/978-3-319-15075-8_2",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_2",
+        "url": "https://dblp.org/rec/conf/sbmf/Marti-OlietDV14"
+      },
+      "url": "URL#2857052"
+    },
+    {
+      "@score": "2",
+      "@id": "2857053",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "04/8871",
+              "text": "Renato Neves"
+            },
+            {
+              "@pid": "12/6107",
+              "text": "Manuel A. Martins 0001"
+            },
+            {
+              "@pid": "40/3466",
+              "text": "Lu\u00eds Soares Barbosa"
+            }
+          ]
+        },
+        "title": "Completeness and Decidability Results for Hybrid(ised) Logics.",
+        "venue": "SBMF",
+        "pages": "146-161",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/NevesMB14",
+        "doi": "10.1007/978-3-319-15075-8_10",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_10",
+        "url": "https://dblp.org/rec/conf/sbmf/NevesMB14"
+      },
+      "url": "URL#2857053"
+    },
+    {
+      "@score": "2",
+      "@id": "2857054",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "27/4071",
+              "text": "Nils Timm"
+            },
+            {
+              "@pid": "67/5283",
+              "text": "Stefan Gruner"
+            }
+          ]
+        },
+        "title": "Parameterisation of Three-Valued Abstractions.",
+        "venue": "SBMF",
+        "pages": "162-178",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/TimmG14",
+        "doi": "10.1007/978-3-319-15075-8_11",
+        "ee": "https://doi.org/10.1007/978-3-319-15075-8_11",
+        "url": "https://dblp.org/rec/conf/sbmf/TimmG14"
+      },
+      "url": "URL#2857054"
+    },
+    {
+      "@score": "2",
+      "@id": "3139027",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "118/8990",
+              "text": "Victor Bandur"
+            },
+            {
+              "@pid": "w/JWoodcock",
+              "text": "Jim Woodcock"
+            }
+          ]
+        },
+        "title": "Unifying Theories of Logic and Specification.",
+        "venue": "SBMF",
+        "pages": "18-33",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BandurW13",
+        "doi": "10.1007/978-3-642-41071-0_3",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_3",
+        "url": "https://dblp.org/rec/conf/sbmf/BandurW13"
+      },
+      "url": "URL#3139027"
+    },
+    {
+      "@score": "2",
+      "@id": "3139028",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "b/ChristianoBraga",
+              "text": "Christiano Braga"
+            },
+            {
+              "@pid": "05/10479",
+              "text": "Cassio Santos"
+            }
+          ]
+        },
+        "title": "Meaningful Models - A Research Agenda on Model-Driven Engineering -.",
+        "venue": "SBMF",
+        "pages": "1-16",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BragaS13",
+        "doi": "10.1007/978-3-642-41071-0_1",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_1",
+        "url": "https://dblp.org/rec/conf/sbmf/BragaS13"
+      },
+      "url": "URL#3139028"
+    },
+    {
+      "@score": "2",
+      "@id": "3139029",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "92/6787",
+              "text": "Daniel Calegari"
+            },
+            {
+              "@pid": "34/5863",
+              "text": "Nora Szasz"
+            }
+          ]
+        },
+        "title": "Institution-Based Semantics for MOF and QVT-Relations.",
+        "venue": "SBMF",
+        "pages": "34-50",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CalegariS13",
+        "doi": "10.1007/978-3-642-41071-0_4",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_4",
+        "url": "https://dblp.org/rec/conf/sbmf/CalegariS13"
+      },
+      "url": "URL#3139029"
+    },
+    {
+      "@score": "2",
+      "@id": "3139030",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "70/5816",
+              "text": "Christoph Gladisch"
+            },
+            {
+              "@pid": "98/4936",
+              "text": "Shmuel S. Tyszberowicz"
+            }
+          ]
+        },
+        "title": "Specifying a Linked Data Structure in JML for Formal Verification and Runtime Checking.",
+        "venue": "SBMF",
+        "pages": "99-114",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/GladischT13",
+        "doi": "10.1007/978-3-642-41071-0_8",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_8",
+        "url": "https://dblp.org/rec/conf/sbmf/GladischT13"
+      },
+      "url": "URL#3139030"
+    },
+    {
+      "@score": "2",
+      "@id": "3139031",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "51/8671",
+              "text": "Paulo T. Guerra"
+            },
+            {
+              "@pid": "50/915",
+              "text": "Aline Andrade"
+            },
+            {
+              "@pid": "w/RenataWassermann",
+              "text": "Renata Wassermann"
+            }
+          ]
+        },
+        "title": "Toward the Revision of CTL Models through Kripke Modal Transition Systems.",
+        "venue": "SBMF",
+        "pages": "115-130",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/GuerraAW13",
+        "doi": "10.1007/978-3-642-41071-0_9",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_9",
+        "url": "https://dblp.org/rec/conf/sbmf/GuerraAW13"
+      },
+      "url": "URL#3139031"
+    },
+    {
+      "@score": "2",
+      "@id": "3139032",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "121/0347",
+              "text": "Ghassen Helali"
+            },
+            {
+              "@pid": "25/2826",
+              "text": "Osman Hasan"
+            },
+            {
+              "@pid": "98/2059",
+              "text": "Sofi\u00e8ne Tahar"
+            }
+          ]
+        },
+        "title": "Formal Analysis of Information Flow Using Min-Entropy and Belief Min-Entropy.",
+        "venue": "SBMF",
+        "pages": "131-146",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/HelaliHT13",
+        "doi": "10.1007/978-3-642-41071-0_10",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_10",
+        "url": "https://dblp.org/rec/conf/sbmf/HelaliHT13"
+      },
+      "url": "URL#3139032"
+    },
+    {
+      "@score": "2",
+      "@id": "3139033",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "31/10791",
+              "text": "Luiz Carlos Lemos Junior"
+            },
+            {
+              "@pid": "55/10789",
+              "text": "Simone Andr\u00e9 da Costa Cavalheiro"
+            },
+            {
+              "@pid": "24/37",
+              "text": "Luciana Foss"
+            }
+          ]
+        },
+        "title": "Theorem Proving Graph Grammars - Strategies for Discharging Proof Obligations.",
+        "venue": "SBMF",
+        "pages": "147-162",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/JuniorCF13",
+        "doi": "10.1007/978-3-642-41071-0_11",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_11",
+        "url": "https://dblp.org/rec/conf/sbmf/JuniorCF13"
+      },
+      "url": "URL#3139033"
+    },
+    {
+      "@score": "2",
+      "@id": "3139034",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "80/43-2",
+              "text": "Qin Li 0002"
+            },
+            {
+              "@pid": "67/2595",
+              "text": "Graeme Smith"
+            }
+          ]
+        },
+        "title": "A Refinement Framework for Autonomous Agents.",
+        "venue": "SBMF",
+        "pages": "163-178",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LiS13",
+        "doi": "10.1007/978-3-642-41071-0_12",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_12",
+        "url": "https://dblp.org/rec/conf/sbmf/LiS13"
+      },
+      "url": "URL#3139034"
+    },
+    {
+      "@score": "2",
+      "@id": "3139035",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "35/7686-1",
+              "text": "Lucas Lima 0001"
+            },
+            {
+              "@pid": "29/7127",
+              "text": "Andr\u00e9 Didier"
+            },
+            {
+              "@pid": "03/3763",
+              "text": "M\u00e1rcio Corn\u00e9lio"
+            }
+          ]
+        },
+        "title": "A Formal Semantics for SysML Activity Diagrams.",
+        "venue": "SBMF",
+        "pages": "179-194",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LimaDC13",
+        "doi": "10.1007/978-3-642-41071-0_13",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_13",
+        "url": "https://dblp.org/rec/conf/sbmf/LimaDC13"
+      },
+      "url": "URL#3139035"
+    },
+    {
+      "@score": "2",
+      "@id": "3139036",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "57/10257",
+              "text": "Liya Liu"
+            },
+            {
+              "@pid": "25/2826",
+              "text": "Osman Hasan"
+            },
+            {
+              "@pid": "98/2059",
+              "text": "Sofi\u00e8ne Tahar"
+            }
+          ]
+        },
+        "title": "Formal Analysis of Memory Contention in a Multiprocessor System.",
+        "venue": "SBMF",
+        "pages": "195-210",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LiuHT13",
+        "doi": "10.1007/978-3-642-41071-0_14",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_14",
+        "url": "https://dblp.org/rec/conf/sbmf/LiuHT13"
+      },
+      "url": "URL#3139036"
+    },
+    {
+      "@score": "2",
+      "@id": "3139037",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "09/6371",
+              "text": "Michael L\u00f6we"
+            },
+            {
+              "@pid": "24/1677",
+              "text": "Harald K\u00f6nig"
+            },
+            {
+              "@pid": "49/5881",
+              "text": "Christoph Schulz"
+            },
+            {
+              "@pid": "133/8708",
+              "text": "Marius Schultchen"
+            }
+          ]
+        },
+        "title": "Algebraic Graph Transformations with Inheritance.",
+        "venue": "SBMF",
+        "pages": "211-226",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LoweKSS13",
+        "doi": "10.1007/978-3-642-41071-0_15",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_15",
+        "url": "https://dblp.org/rec/conf/sbmf/LoweKSS13"
+      },
+      "url": "URL#3139037"
+    },
+    {
+      "@score": "2",
+      "@id": "3139038",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "133/8742",
+              "text": "Thiago Braga Marcilon"
+            },
+            {
+              "@pid": "32/1402",
+              "text": "Francisco Heron de Carvalho Junior"
+            }
+          ]
+        },
+        "title": "Derivation and Verification of Parallel Components for the Needs of an HPC Cloud.",
+        "venue": "SBMF",
+        "pages": "51-66",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MarcilonJ13",
+        "doi": "10.1007/978-3-642-41071-0_5",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_5",
+        "url": "https://dblp.org/rec/conf/sbmf/MarcilonJ13"
+      },
+      "url": "URL#3139038"
+    },
+    {
+      "@score": "2",
+      "@id": "3139039",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "m/KennethLMcMillan",
+            "text": "Kenneth L. McMillan"
+          }
+        },
+        "title": "Deductive Generalization.",
+        "venue": "SBMF",
+        "pages": "17",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/McMillan13",
+        "doi": "10.1007/978-3-642-41071-0_2",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_2",
+        "url": "https://dblp.org/rec/conf/sbmf/McMillan13"
+      },
+      "url": "URL#3139039"
+    },
+    {
+      "@score": "2",
+      "@id": "3139040",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "28/8009",
+              "text": "Joel Andr\u00e9 Ferreira dos Santos"
+            },
+            {
+              "@pid": "b/ChristianoBraga",
+              "text": "Christiano Braga"
+            },
+            {
+              "@pid": "21/5891",
+              "text": "D\u00e9bora C. Muchaluat-Saade"
+            }
+          ]
+        },
+        "title": "An Executable Semantics for a Multimedia Authoring Language.",
+        "venue": "SBMF",
+        "pages": "67-82",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SantosBM13",
+        "doi": "10.1007/978-3-642-41071-0_6",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_6",
+        "url": "https://dblp.org/rec/conf/sbmf/SantosBM13"
+      },
+      "url": "URL#3139040"
+    },
+    {
+      "@score": "2",
+      "@id": "3139041",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "129/7666",
+              "text": "Kent Inge Fagerland Simonsen"
+            },
+            {
+              "@pid": "34/5592",
+              "text": "Lars Michael Kristensen"
+            },
+            {
+              "@pid": "60/1600",
+              "text": "Ekkart Kindler"
+            }
+          ]
+        },
+        "title": "Generating Protocol Software from CPN Models Annotated with Pragmatics.",
+        "venue": "SBMF",
+        "pages": "227-242",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SimonsenKK13",
+        "doi": "10.1007/978-3-642-41071-0_16",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_16",
+        "url": "https://dblp.org/rec/conf/sbmf/SimonsenKK13"
+      },
+      "url": "URL#3139041"
+    },
+    {
+      "@score": "2",
+      "@id": "3139042",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "123/5009",
+              "text": "Mirtha Lina Fern\u00e1ndez Venero"
+            },
+            {
+              "@pid": "52/550",
+              "text": "Fl\u00e1vio Soares Corr\u00eaa da Silva"
+            }
+          ]
+        },
+        "title": "On the Use of SPIN for Studying the Behavior of Nested Petri Nets.",
+        "venue": "SBMF",
+        "pages": "83-98",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/VeneroS13",
+        "doi": "10.1007/978-3-642-41071-0_7",
+        "ee": "https://doi.org/10.1007/978-3-642-41071-0_7",
+        "url": "https://dblp.org/rec/conf/sbmf/VeneroS13"
+      },
+      "url": "URL#3139042"
+    },
+    {
+      "@score": "2",
+      "@id": "3402408",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "58/10315",
+              "text": "Araceli Acosta"
+            },
+            {
+              "@pid": "63/10317",
+              "text": "Cecilia Kilmurray"
+            },
+            {
+              "@pid": "57/1847",
+              "text": "Pablo F. Castro"
+            },
+            {
+              "@pid": "69/610",
+              "text": "Nazareno Aguirre"
+            }
+          ]
+        },
+        "title": "Model Checking Propositional Deontic Temporal Logic via a \u03bc-Calculus Characterization.",
+        "venue": "SBMF",
+        "pages": "3-18",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AcostaKCA12",
+        "doi": "10.1007/978-3-642-33296-8_3",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_3",
+        "url": "https://dblp.org/rec/conf/sbmf/AcostaKCA12"
+      },
+      "url": "URL#3402408"
+    },
+    {
+      "@score": "2",
+      "@id": "3402409",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "116/5052",
+              "text": "Haniel Barbosa"
+            },
+            {
+              "@pid": "25/1547",
+              "text": "David D\u00e9harbe"
+            }
+          ]
+        },
+        "title": "An Approach Using the B Method to Formal Verification of PLC Programs in an Industrial Setting.",
+        "venue": "SBMF",
+        "pages": "19-34",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BarbosaD12",
+        "doi": "10.1007/978-3-642-33296-8_4",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_4",
+        "url": "https://dblp.org/rec/conf/sbmf/BarbosaD12"
+      },
+      "url": "URL#3402409"
+    },
+    {
+      "@score": "2",
+      "@id": "3402410",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "117/3902",
+              "text": "Fernando A. F. Braz"
+            },
+            {
+              "@pid": "117/3900",
+              "text": "Jader S. Cruz"
+            },
+            {
+              "@pid": "117/3909",
+              "text": "Alessandra C. Faria-Campos"
+            },
+            {
+              "@pid": "01/2746",
+              "text": "S\u00e9rgio Vale Aguiar Campos"
+            }
+          ]
+        },
+        "title": "Palytoxin Inhibits the Sodium-Potassium Pump - An Investigation of an Electrophysiological Model Using Probabilistic Model Checking.",
+        "venue": "SBMF",
+        "pages": "35-50",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BrazCFC12",
+        "doi": "10.1007/978-3-642-33296-8_5",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_5",
+        "url": "https://dblp.org/rec/conf/sbmf/BrazCFC12"
+      },
+      "url": "URL#3402410"
+    },
+    {
+      "@score": "2",
+      "@id": "3402411",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "44/3540",
+              "text": "Gustavo Carvalho"
+            },
+            {
+              "@pid": "118/6994",
+              "text": "Diogo Falc\u00e3o"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "A Process Algebra Based Strategy for Generating Test Vectors from SCR Specifications.",
+        "venue": "SBMF",
+        "pages": "67-82",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CarvalhoFMS12",
+        "doi": "10.1007/978-3-642-33296-8_7",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_7",
+        "url": "https://dblp.org/rec/conf/sbmf/CarvalhoFMS12"
+      },
+      "url": "URL#3402411"
+    },
+    {
+      "@score": "2",
+      "@id": "3402412",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "55/10789",
+              "text": "Simone Andr\u00e9 da Costa Cavalheiro"
+            },
+            {
+              "@pid": "24/37",
+              "text": "Luciana Foss"
+            },
+            {
+              "@pid": "r/LeilaRibeiro",
+              "text": "Leila Ribeiro 0001"
+            }
+          ]
+        },
+        "title": "Specification Patterns for Properties over Reachable States of Graph Grammars.",
+        "venue": "SBMF",
+        "pages": "83-98",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CavalheiroFR12",
+        "doi": "10.1007/978-3-642-33296-8_8",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_8",
+        "url": "https://dblp.org/rec/conf/sbmf/CavalheiroFR12"
+      },
+      "url": "URL#3402412"
+    },
+    {
+      "@score": "2",
+      "@id": "3402413",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "66/4336",
+              "text": "Jim Davies"
+            },
+            {
+              "@pid": "53/1090",
+              "text": "Jeremy Gibbons"
+            },
+            {
+              "@pid": "02/985",
+              "text": "David Milward"
+            },
+            {
+              "@pid": "00/1221",
+              "text": "James Welch"
+            }
+          ]
+        },
+        "title": "Compositionality and Refinement in Model-Driven Engineering.",
+        "venue": "SBMF",
+        "pages": "99-114",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/DaviesGMW12",
+        "doi": "10.1007/978-3-642-33296-8_9",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_9",
+        "url": "https://dblp.org/rec/conf/sbmf/DaviesGMW12"
+      },
+      "url": "URL#3402413"
+    },
+    {
+      "@score": "2",
+      "@id": "3402414",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "29/7127",
+              "text": "Andr\u00e9 Didier"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            }
+          ]
+        },
+        "title": "Identifying Hardware Failures Systematically.",
+        "venue": "SBMF",
+        "pages": "115-130",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/DidierM12",
+        "doi": "10.1007/978-3-642-33296-8_10",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_10",
+        "url": "https://dblp.org/rec/conf/sbmf/DidierM12"
+      },
+      "url": "URL#3402414"
+    },
+    {
+      "@score": "2",
+      "@id": "3402415",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "32/9679",
+              "text": "Yanhong Huang"
+            },
+            {
+              "@pid": "77/6283",
+              "text": "Yongxin Zhao"
+            },
+            {
+              "@pid": "58/3735",
+              "text": "Jianqi Shi"
+            },
+            {
+              "@pid": "40/1796",
+              "text": "Huibiao Zhu"
+            },
+            {
+              "@pid": "q/ShengchaoQin",
+              "text": "Shengchao Qin"
+            }
+          ]
+        },
+        "title": "Investigating Time Properties of Interrupt-Driven Programs.",
+        "venue": "SBMF",
+        "pages": "131-146",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/HuangZSZQ12",
+        "doi": "10.1007/978-3-642-33296-8_11",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_11",
+        "url": "https://dblp.org/rec/conf/sbmf/HuangZSZQ12"
+      },
+      "url": "URL#3402415"
+    },
+    {
+      "@score": "2",
+      "@id": "3402416",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "48/8682",
+              "text": "Ernesto Cid Brasil de Matos"
+            },
+            {
+              "@pid": "17/3197",
+              "text": "Anamaria Martins Moreira"
+            }
+          ]
+        },
+        "title": "BETA - A B Based Testing Approach.",
+        "venue": "SBMF",
+        "pages": "51-66",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MatosM12",
+        "doi": "10.1007/978-3-642-33296-8_6",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_6",
+        "url": "https://dblp.org/rec/conf/sbmf/MatosM12"
+      },
+      "url": "URL#3402416"
+    },
+    {
+      "@score": "2",
+      "@id": "3402417",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "33/4870",
+              "text": "Germ\u00e1n Regis"
+            },
+            {
+              "@pid": "118/6945",
+              "text": "Nicol\u00e1s Ricci"
+            },
+            {
+              "@pid": "69/610",
+              "text": "Nazareno Aguirre"
+            },
+            {
+              "@pid": "m/TSEMaibaum",
+              "text": "T. S. E. Maibaum"
+            }
+          ]
+        },
+        "title": "Specifying and Verifying Declarative Fluent Temporal Logic Properties of Workflows.",
+        "venue": "SBMF",
+        "pages": "147-162",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/RegisRAM12",
+        "doi": "10.1007/978-3-642-33296-8_12",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_12",
+        "url": "https://dblp.org/rec/conf/sbmf/RegisRAM12"
+      },
+      "url": "URL#3402417"
+    },
+    {
+      "@score": "2",
+      "@id": "3402418",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "02/3378",
+            "text": "John M. Rushby"
+          }
+        },
+        "title": "The Versatile Synchronous Observer.",
+        "venue": "SBMF",
+        "pages": "1",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Rushby12",
+        "doi": "10.1007/978-3-642-33296-8_1",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_1",
+        "url": "https://dblp.org/rec/conf/sbmf/Rushby12"
+      },
+      "url": "URL#3402418"
+    },
+    {
+      "@score": "2",
+      "@id": "3402419",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "s/WolframSchulte",
+            "text": "Wolfram Schulte"
+          }
+        },
+        "title": "Thirteen Years of Automated Code Analysis at Microsoft.",
+        "venue": "SBMF",
+        "pages": "2",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Schulte12",
+        "doi": "10.1007/978-3-642-33296-8_2",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_2",
+        "url": "https://dblp.org/rec/conf/sbmf/Schulte12"
+      },
+      "url": "URL#3402419"
+    },
+    {
+      "@score": "2",
+      "@id": "3402420",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "49/5881",
+              "text": "Christoph Schulz"
+            },
+            {
+              "@pid": "09/6371",
+              "text": "Michael L\u00f6we"
+            },
+            {
+              "@pid": "24/1677",
+              "text": "Harald K\u00f6nig"
+            }
+          ]
+        },
+        "title": "Composition of Model Transformations - A Categorical Framework.",
+        "venue": "SBMF",
+        "pages": "163-178",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SchulzLK12",
+        "doi": "10.1007/978-3-642-33296-8_13",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_13",
+        "url": "https://dblp.org/rec/conf/sbmf/SchulzLK12"
+      },
+      "url": "URL#3402420"
+    },
+    {
+      "@score": "2",
+      "@id": "3402421",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "26/5412",
+              "text": "Emil Sekerinski"
+            },
+            {
+              "@pid": "13/2913",
+              "text": "Tian Zhang"
+            }
+          ]
+        },
+        "title": "Verification Rules for Exception Handling in Eiffel.",
+        "venue": "SBMF",
+        "pages": "179-193",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SekerinskiZ12",
+        "doi": "10.1007/978-3-642-33296-8_14",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_14",
+        "url": "https://dblp.org/rec/conf/sbmf/SekerinskiZ12"
+      },
+      "url": "URL#3402421"
+    },
+    {
+      "@score": "2",
+      "@id": "3402422",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "77/1586-1",
+              "text": "Subodh Sharma 0001"
+            },
+            {
+              "@pid": "g/GGopalakrishnan",
+              "text": "Ganesh Gopalakrishnan"
+            },
+            {
+              "@pid": "81/785",
+              "text": "Greg Bronevetsky"
+            }
+          ]
+        },
+        "title": "A Sound Reduction of Persistent-Sets for Deadlock Detection in MPI Applications.",
+        "venue": "SBMF",
+        "pages": "194-209",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SharmaGB12",
+        "doi": "10.1007/978-3-642-33296-8_15",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_15",
+        "url": "https://dblp.org/rec/conf/sbmf/SharmaGB12"
+      },
+      "url": "URL#3402422"
+    },
+    {
+      "@score": "2",
+      "@id": "3402423",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "118/7066",
+              "text": "Dante Zanarini"
+            },
+            {
+              "@pid": "50/2597",
+              "text": "Carlos Luna 0001"
+            },
+            {
+              "@pid": "118/7027",
+              "text": "Luis Sierra"
+            }
+          ]
+        },
+        "title": "Alternating-Time Temporal Logic in the Calculus of (Co)Inductive Constructions.",
+        "venue": "SBMF",
+        "pages": "210-225",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/ZanariniLS12",
+        "doi": "10.1007/978-3-642-33296-8_16",
+        "ee": "https://doi.org/10.1007/978-3-642-33296-8_16",
+        "url": "https://dblp.org/rec/conf/sbmf/ZanariniLS12"
+      },
+      "url": "URL#3402423"
+    },
+    {
+      "@score": "2",
+      "@id": "3653370",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "b/ChristianoBraga",
+              "text": "Christiano Braga"
+            },
+            {
+              "@pid": "10/10479",
+              "text": "Roberto Menezes"
+            },
+            {
+              "@pid": "02/10479",
+              "text": "Thiago Comicio"
+            },
+            {
+              "@pid": "05/10479",
+              "text": "Cassio Santos"
+            },
+            {
+              "@pid": "03/10479",
+              "text": "Edson Landim"
+            }
+          ]
+        },
+        "title": "On the Specification, Verification and Implementation of Model Transformations with Transformation Contracts.",
+        "venue": "SBMF",
+        "pages": "108-123",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BragaMCSL11",
+        "doi": "10.1007/978-3-642-25032-3_8",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_8",
+        "url": "https://dblp.org/rec/conf/sbmf/BragaMCSL11"
+      },
+      "url": "URL#3653370"
+    },
+    {
+      "@score": "2",
+      "@id": "3653371",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "b/FabianButtner",
+              "text": "Fabian B\u00fcttner"
+            },
+            {
+              "@pid": "g/MartinGogolla",
+              "text": "Martin Gogolla"
+            }
+          ]
+        },
+        "title": "Modular Embedding of the Object Constraint Language into a Programming Language.",
+        "venue": "SBMF",
+        "pages": "124-139",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/ButtnerG11",
+        "doi": "10.1007/978-3-642-25032-3_9",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_9",
+        "url": "https://dblp.org/rec/conf/sbmf/ButtnerG11"
+      },
+      "url": "URL#3653371"
+    },
+    {
+      "@score": "2",
+      "@id": "3653372",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "72/613",
+              "text": "Roderick Chapman"
+            },
+            {
+              "@pid": "08/10479",
+              "text": "Eric Botcazou"
+            },
+            {
+              "@pid": "33/3980",
+              "text": "Angela Wallenburg"
+            }
+          ]
+        },
+        "title": "SPARKSkein - A Formal and Fast Reference Implementation of Skein.",
+        "venue": "SBMF",
+        "pages": "16-27",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/ChapmanBW11",
+        "doi": "10.1007/978-3-642-25032-3_2",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_2",
+        "url": "https://dblp.org/rec/conf/sbmf/ChapmanBW11"
+      },
+      "url": "URL#3653372"
+    },
+    {
+      "@score": "2",
+      "@id": "3653373",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "04/10479",
+              "text": "Christophe Chareton"
+            },
+            {
+              "@pid": "75/6016",
+              "text": "Julien Brunel"
+            },
+            {
+              "@pid": "65/4674",
+              "text": "David Chemouil"
+            }
+          ]
+        },
+        "title": "A Formal Treatment of Agents, Goals and Operations Using Alternating-Time Temporal Logic.",
+        "venue": "SBMF",
+        "pages": "188-203",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CharetonBC11",
+        "doi": "10.1007/978-3-642-25032-3_13",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_13",
+        "url": "https://dblp.org/rec/conf/sbmf/CharetonBC11"
+      },
+      "url": "URL#3653373"
+    },
+    {
+      "@score": "2",
+      "@id": "3653374",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "01/10479",
+              "text": "Diego Machado Dias"
+            },
+            {
+              "@pid": "72/4526",
+              "text": "Juliano Manabu Iyoda"
+            }
+          ]
+        },
+        "title": "Behavioural Preservation in Fault Tolerant Patterns.",
+        "venue": "SBMF",
+        "pages": "156-171",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/DiasI11",
+        "doi": "10.1007/978-3-642-25032-3_11",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_11",
+        "url": "https://dblp.org/rec/conf/sbmf/DiasI11"
+      },
+      "url": "URL#3653374"
+    },
+    {
+      "@score": "2",
+      "@id": "3653375",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "s/SKalvala",
+              "text": "Sara Kalvala"
+            },
+            {
+              "@pid": "89/521",
+              "text": "Richard Warburton"
+            }
+          ]
+        },
+        "title": "A Formal Approach to Fixing Bugs.",
+        "venue": "SBMF",
+        "pages": "172-187",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/KalvalaW11",
+        "doi": "10.1007/978-3-642-25032-3_12",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_12",
+        "url": "https://dblp.org/rec/conf/sbmf/KalvalaW11"
+      },
+      "url": "URL#3653375"
+    },
+    {
+      "@score": "2",
+      "@id": "3653376",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "24/1677",
+              "text": "Harald K\u00f6nig"
+            },
+            {
+              "@pid": "09/6371",
+              "text": "Michael L\u00f6we"
+            },
+            {
+              "@pid": "49/5881",
+              "text": "Christoph Schulz"
+            }
+          ]
+        },
+        "title": "Model Transformation and Induced Instance Migration - A Universal Framework.",
+        "venue": "SBMF",
+        "pages": "1-15",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/KonigLS11",
+        "doi": "10.1007/978-3-642-25032-3_1",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_1",
+        "url": "https://dblp.org/rec/conf/sbmf/KonigLS11"
+      },
+      "url": "URL#3653376"
+    },
+    {
+      "@score": "2",
+      "@id": "3653377",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "07/10479",
+              "text": "Pedro Matiello"
+            },
+            {
+              "@pid": "55/6056",
+              "text": "Ana Cristina Vieira de Melo"
+            }
+          ]
+        },
+        "title": "PiStache - Implementing \u03c0-Calculus in Scala.",
+        "venue": "SBMF",
+        "pages": "76-91",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MatielloM11",
+        "doi": "10.1007/978-3-642-25032-3_6",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_6",
+        "url": "https://dblp.org/rec/conf/sbmf/MatielloM11"
+      },
+      "url": "URL#3653377"
+    },
+    {
+      "@score": "2",
+      "@id": "3653378",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "15/2751",
+              "text": "Marcel Vin\u00edcius Medeiros Oliveira"
+            },
+            {
+              "@pid": "25/1547",
+              "text": "David D\u00e9harbe"
+            },
+            {
+              "@pid": "09/10479",
+              "text": "Lu\u00eds C. D. S. Cruz"
+            }
+          ]
+        },
+        "title": "B to CSP Migration - Towards a Formal and Automated Model-Driven Engineering of Hardware/Software Co-design.",
+        "venue": "SBMF",
+        "pages": "44-59",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/OliveiraDC11",
+        "doi": "10.1007/978-3-642-25032-3_4",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_4",
+        "url": "https://dblp.org/rec/conf/sbmf/OliveiraDC11"
+      },
+      "url": "URL#3653378"
+    },
+    {
+      "@score": "2",
+      "@id": "3653379",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "p/ViorelPreoteasa",
+            "text": "Viorel Preoteasa"
+          }
+        },
+        "title": "Algebra of Monotonic Boolean Transformers.",
+        "venue": "SBMF",
+        "pages": "140-155",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Preoteasa11",
+        "doi": "10.1007/978-3-642-25032-3_10",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_10",
+        "url": "https://dblp.org/rec/conf/sbmf/Preoteasa11"
+      },
+      "url": "URL#3653379"
+    },
+    {
+      "@score": "2",
+      "@id": "3653380",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "56/2819",
+              "text": "Camilo Rocha"
+            },
+            {
+              "@pid": "26/2079",
+              "text": "C\u00e9sar A. Mu\u00f1oz"
+            }
+          ]
+        },
+        "title": "Simulation and Verification of Synchronous Set Relations in Rewriting Logic.",
+        "venue": "SBMF",
+        "pages": "60-75",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/RochaM11",
+        "doi": "10.1007/978-3-642-25032-3_5",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_5",
+        "url": "https://dblp.org/rec/conf/sbmf/RochaM11"
+      },
+      "url": "URL#3653380"
+    },
+    {
+      "@score": "2",
+      "@id": "3653381",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "80/8658",
+              "text": "Dominik Steenken"
+            },
+            {
+              "@pid": "w/HeikeWehrheim",
+              "text": "Heike Wehrheim"
+            },
+            {
+              "@pid": "02/4990",
+              "text": "Daniel Wonisch"
+            }
+          ]
+        },
+        "title": "Sound and Complete Abstract Graph Transformation.",
+        "venue": "SBMF",
+        "pages": "92-107",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SteenkenWW11",
+        "doi": "10.1007/978-3-642-25032-3_7",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_7",
+        "url": "https://dblp.org/rec/conf/sbmf/SteenkenWW11"
+      },
+      "url": "URL#3653381"
+    },
+    {
+      "@score": "2",
+      "@id": "3653382",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "33/3379",
+              "text": "Yannick Welsch"
+            },
+            {
+              "@pid": "65/5923",
+              "text": "Arnd Poetzsch-Heffter"
+            }
+          ]
+        },
+        "title": "Full Abstraction at Package Boundaries of Object-Oriented Languages.",
+        "venue": "SBMF",
+        "pages": "28-43",
+        "year": "2011",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/WelschP11",
+        "doi": "10.1007/978-3-642-25032-3_3",
+        "ee": "https://doi.org/10.1007/978-3-642-25032-3_3",
+        "url": "https://dblp.org/rec/conf/sbmf/WelschP11"
+      },
+      "url": "URL#3653382"
+    },
+    {
+      "@score": "2",
+      "@id": "3884333",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "39/9299",
+              "text": "Sabina Akhtar"
+            },
+            {
+              "@pid": "52/4601",
+              "text": "Stephan Merz"
+            },
+            {
+              "@pid": "q/MartinQuinson",
+              "text": "Martin Quinson"
+            }
+          ]
+        },
+        "title": "A High-Level Language for Modeling Algorithms and Their Properties.",
+        "venue": "SBMF",
+        "pages": "49-63",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AkhtarMQ10",
+        "doi": "10.1007/978-3-642-19829-8_4",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_4",
+        "url": "https://dblp.org/rec/conf/sbmf/AkhtarMQ10"
+      },
+      "url": "URL#3884333"
+    },
+    {
+      "@score": "2",
+      "@id": "3884334",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "37/7416",
+              "text": "Sebastian S. Bauer"
+            },
+            {
+              "@pid": "h/RolfHennicker",
+              "text": "Rolf Hennicker"
+            },
+            {
+              "@pid": "b/MichelBidoit",
+              "text": "Michel Bidoit"
+            }
+          ]
+        },
+        "title": "A Modal Interface Theory with Data Constraints.",
+        "venue": "SBMF",
+        "pages": "80-95",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BauerHB10",
+        "doi": "10.1007/978-3-642-19829-8_6",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_6",
+        "url": "https://dblp.org/rec/conf/sbmf/BauerHB10"
+      },
+      "url": "URL#3884334"
+    },
+    {
+      "@score": "2",
+      "@id": "3884335",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "99/5652",
+              "text": "Marcello M. Bonsangue"
+            },
+            {
+              "@pid": "21/7130",
+              "text": "Georgiana Caltais"
+            },
+            {
+              "@pid": "28/7127",
+              "text": "Eugen-Ioan Goriac"
+            },
+            {
+              "@pid": "43/2947",
+              "text": "Dorel Lucanu"
+            },
+            {
+              "@pid": "27/6345",
+              "text": "Jan J. M. M. Rutten"
+            },
+            {
+              "@pid": "92/1378-1",
+              "text": "Alexandra Silva 0001"
+            }
+          ]
+        },
+        "title": "A Decision Procedure for Bisimilarity of Generalized Regular Expressions.",
+        "venue": "SBMF",
+        "pages": "226-241",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BonsangueCGLRS10",
+        "doi": "10.1007/978-3-642-19829-8_15",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_15",
+        "url": "https://dblp.org/rec/conf/sbmf/BonsangueCGLRS10"
+      },
+      "url": "URL#3884335"
+    },
+    {
+      "@score": "2",
+      "@id": "3884336",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "92/6787",
+              "text": "Daniel Calegari"
+            },
+            {
+              "@pid": "50/2597",
+              "text": "Carlos Luna 0001"
+            },
+            {
+              "@pid": "34/5863",
+              "text": "Nora Szasz"
+            },
+            {
+              "@pid": "25/4638",
+              "text": "Alvaro Tasistro"
+            }
+          ]
+        },
+        "title": "A Type-Theoretic Framework for Certified Model Transformations.",
+        "venue": "SBMF",
+        "pages": "112-127",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CalegariLST10",
+        "doi": "10.1007/978-3-642-19829-8_8",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_8",
+        "url": "https://dblp.org/rec/conf/sbmf/CalegariLST10"
+      },
+      "url": "URL#3884336"
+    },
+    {
+      "@score": "2",
+      "@id": "3884337",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "65/9298",
+              "text": "Pedro Crispim"
+            },
+            {
+              "@pid": "75/5295",
+              "text": "Ant\u00f3nia Lopes"
+            },
+            {
+              "@pid": "97/1086",
+              "text": "Vasco Thudichum Vasconcelos"
+            }
+          ]
+        },
+        "title": "Runtime Verification for Generic Classes with ConGu 2.",
+        "venue": "SBMF",
+        "pages": "33-48",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CrispimLV10",
+        "doi": "10.1007/978-3-642-19829-8_3",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_3",
+        "url": "https://dblp.org/rec/conf/sbmf/CrispimLV10"
+      },
+      "url": "URL#3884337"
+    },
+    {
+      "@score": "2",
+      "@id": "3884338",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "17/3701",
+              "text": "Thomas Martin Gawlitza"
+            },
+            {
+              "@pid": "s/HelmutSeidl",
+              "text": "Helmut Seidl"
+            },
+            {
+              "@pid": "72/4965",
+              "text": "Kumar Neeraj Verma"
+            }
+          ]
+        },
+        "title": "Normalization of Linear Horn Clauses.",
+        "venue": "SBMF",
+        "pages": "242-257",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/GawlitzaSV10",
+        "doi": "10.1007/978-3-642-19829-8_16",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_16",
+        "url": "https://dblp.org/rec/conf/sbmf/GawlitzaSV10"
+      },
+      "url": "URL#3884338"
+    },
+    {
+      "@score": "2",
+      "@id": "3884339",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "85/7506",
+              "text": "Artur Oliveira Gomes"
+            },
+            {
+              "@pid": "15/2751",
+              "text": "Marcel Vin\u00edcius Medeiros Oliveira"
+            }
+          ]
+        },
+        "title": "Formal Development of a Cardiac Pacemaker - From Specification to Code.",
+        "venue": "SBMF",
+        "pages": "210-225",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/GomesO10",
+        "doi": "10.1007/978-3-642-19829-8_14",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_14",
+        "url": "https://dblp.org/rec/conf/sbmf/GomesO10"
+      },
+      "url": "URL#3884339"
+    },
+    {
+      "@score": "2",
+      "@id": "3884340",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "81/7450",
+              "text": "Moritz Kleine"
+            },
+            {
+              "@pid": "s/JeffWSanders",
+              "text": "Jeff W. Sanders"
+            }
+          ]
+        },
+        "title": "Simulating Truly Concurrent CSP.",
+        "venue": "SBMF",
+        "pages": "128-143",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/KleineS10",
+        "doi": "10.1007/978-3-642-19829-8_9",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_9",
+        "url": "https://dblp.org/rec/conf/sbmf/KleineS10"
+      },
+      "url": "URL#3884340"
+    },
+    {
+      "@score": "2",
+      "@id": "3884341",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "l/MLeuschel",
+              "text": "Michael Leuschel"
+            },
+            {
+              "@pid": "04/4673",
+              "text": "Jens Bendisposto"
+            }
+          ]
+        },
+        "title": "Directed Model Checking for B - An Evaluation and New Techniques.",
+        "venue": "SBMF",
+        "pages": "1-16",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LeuschelB10",
+        "doi": "10.1007/978-3-642-19829-8_1",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_1",
+        "url": "https://dblp.org/rec/conf/sbmf/LeuschelB10"
+      },
+      "url": "URL#3884341"
+    },
+    {
+      "@score": "2",
+      "@id": "3884342",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "l/ZhimingLiu1",
+              "text": "Zhiming Liu 0001"
+            },
+            {
+              "@pid": "98/4006",
+              "text": "Charles Morisset"
+            },
+            {
+              "@pid": "97/4633",
+              "text": "Shuling Wang"
+            }
+          ]
+        },
+        "title": "A Graph-Based Implementation for Mechanized Refinement Calculus of OO Programs.",
+        "venue": "SBMF",
+        "pages": "258-273",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/LiuMW10",
+        "doi": "10.1007/978-3-642-19829-8_17",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_17",
+        "url": "https://dblp.org/rec/conf/sbmf/LiuMW10"
+      },
+      "url": "URL#3884342"
+    },
+    {
+      "@score": "2",
+      "@id": "3884343",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "91/4481",
+              "text": "Tiago Massoni"
+            },
+            {
+              "@pid": "10/3240",
+              "text": "Rohit Gheyi"
+            },
+            {
+              "@pid": "b/PauloBorba",
+              "text": "Paulo Borba"
+            }
+          ]
+        },
+        "title": "Synchronizing Model and Program Refactoring.",
+        "venue": "SBMF",
+        "pages": "96-111",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MassoniGB10",
+        "doi": "10.1007/978-3-642-19829-8_7",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_7",
+        "url": "https://dblp.org/rec/conf/sbmf/MassoniGB10"
+      },
+      "url": "URL#3884343"
+    },
+    {
+      "@score": "2",
+      "@id": "3884344",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "14/6465",
+              "text": "Abderrahman Matoussi"
+            },
+            {
+              "@pid": "54/212",
+              "text": "Fr\u00e9d\u00e9ric Gervais"
+            },
+            {
+              "@pid": "l/RegineLaleau",
+              "text": "R\u00e9gine Laleau"
+            }
+          ]
+        },
+        "title": "Specification of a Localization Component Driven by a Goal-Based Approach - Some Lessons We Learned.",
+        "venue": "SBMF",
+        "pages": "177-193",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MatoussiGL10",
+        "doi": "10.1007/978-3-642-19829-8_12",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_12",
+        "url": "https://dblp.org/rec/conf/sbmf/MatoussiGL10"
+      },
+      "url": "URL#3884344"
+    },
+    {
+      "@score": "2",
+      "@id": "3884345",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "49/8164",
+              "text": "Eduardo Mazza"
+            },
+            {
+              "@pid": "37/5694",
+              "text": "Marie-Laure Potet"
+            },
+            {
+              "@pid": "73/4987",
+              "text": "Daniel Le M\u00e9tayer"
+            }
+          ]
+        },
+        "title": "A Formal Framework for Specifying and Analyzing Logs as Electronic Evidence.",
+        "venue": "SBMF",
+        "pages": "194-209",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MazzaPM10",
+        "doi": "10.1007/978-3-642-19829-8_13",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_13",
+        "url": "https://dblp.org/rec/conf/sbmf/MazzaPM10"
+      },
+      "url": "URL#3884345"
+    },
+    {
+      "@score": "2",
+      "@id": "3884346",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "71/6269",
+              "text": "Wojciech Mostowski"
+            },
+            {
+              "@pid": "p/ErikPoll",
+              "text": "Erik Poll"
+            }
+          ]
+        },
+        "title": "Midlet Navigation Graphs in JML.",
+        "venue": "SBMF",
+        "pages": "17-32",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MostowskiP10",
+        "doi": "10.1007/978-3-642-19829-8_2",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_2",
+        "url": "https://dblp.org/rec/conf/sbmf/MostowskiP10"
+      },
+      "url": "URL#3884346"
+    },
+    {
+      "@score": "2",
+      "@id": "3884347",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "96/6979",
+              "text": "Paulo Salem da Silva"
+            },
+            {
+              "@pid": "55/6056",
+              "text": "Ana Cristina Vieira de Melo"
+            }
+          ]
+        },
+        "title": "A Formal Environment Model for Multi-Agent Systems.",
+        "venue": "SBMF",
+        "pages": "64-79",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/SilvaM10",
+        "doi": "10.1007/978-3-642-19829-8_5",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_5",
+        "url": "https://dblp.org/rec/conf/sbmf/SilvaM10"
+      },
+      "url": "URL#3884347"
+    },
+    {
+      "@score": "2",
+      "@id": "3884348",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "95/2330",
+              "text": "Alejandro Tamalet"
+            },
+            {
+              "@pid": "73/8724",
+              "text": "Ken Madlener"
+            }
+          ]
+        },
+        "title": "Reasoning about Assignments in Recursive Data Structures.",
+        "venue": "SBMF",
+        "pages": "161-176",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/TamaletM10",
+        "doi": "10.1007/978-3-642-19829-8_11",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_11",
+        "url": "https://dblp.org/rec/conf/sbmf/TamaletM10"
+      },
+      "url": "URL#3884348"
+    },
+    {
+      "@score": "2",
+      "@id": "3884349",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "y/HakanLSYounes",
+              "text": "H\u00e5kan L. S. Younes"
+            },
+            {
+              "@pid": "c/EdmundMClarke",
+              "text": "Edmund M. Clarke"
+            },
+            {
+              "@pid": "93/5060",
+              "text": "Paolo Zuliani"
+            }
+          ]
+        },
+        "title": "Statistical Verification of Probabilistic Properties with Unbounded Until.",
+        "venue": "SBMF",
+        "pages": "144-160",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/YounesCZ10",
+        "doi": "10.1007/978-3-642-19829-8_10",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_10",
+        "url": "https://dblp.org/rec/conf/sbmf/YounesCZ10"
+      },
+      "url": "URL#3884349"
+    },
+    {
+      "@score": "2",
+      "@id": "3884350",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "23/6727",
+              "text": "Frank Zeyda"
+            },
+            {
+              "@pid": "c/AnaCavalcanti",
+              "text": "Ana Cavalcanti 0001"
+            }
+          ]
+        },
+        "title": "Automating Refinement of Circus Programs.",
+        "venue": "SBMF",
+        "pages": "274-290",
+        "year": "2010",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/ZeydaC10",
+        "doi": "10.1007/978-3-642-19829-8_18",
+        "ee": "https://doi.org/10.1007/978-3-642-19829-8_18",
+        "url": "https://dblp.org/rec/conf/sbmf/ZeydaC10"
+      },
+      "url": "URL#3884350"
+    },
+    {
+      "@score": "2",
+      "@id": "4105006",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "64/298",
+              "text": "Wilkerson de L. Andrade"
+            },
+            {
+              "@pid": "33/5476",
+              "text": "Patr\u00edcia D. L. Machado"
+            }
+          ]
+        },
+        "title": "Interruption Testing of Reactive Systems.",
+        "venue": "SBMF",
+        "pages": "37-53",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AndradeM09",
+        "doi": "10.1007/978-3-642-10452-7_4",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_4",
+        "url": "https://dblp.org/rec/conf/sbmf/AndradeM09"
+      },
+      "url": "URL#4105006"
+    },
+    {
+      "@score": "2",
+      "@id": "4105007",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "64/298",
+              "text": "Wilkerson de L. Andrade"
+            },
+            {
+              "@pid": "33/5476",
+              "text": "Patr\u00edcia D. L. Machado"
+            },
+            {
+              "@pid": "34/7512",
+              "text": "Everton L. G. Alves"
+            },
+            {
+              "@pid": "59/7512",
+              "text": "Diego R. Almeida"
+            }
+          ]
+        },
+        "title": "Test Case Generation of Embedded Real-Time Systems with Interruptions for FreeRTOS.",
+        "venue": "SBMF",
+        "pages": "54-69",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/AndradeMAA09",
+        "doi": "10.1007/978-3-642-10452-7_5",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_5",
+        "url": "https://dblp.org/rec/conf/sbmf/AndradeMAA09"
+      },
+      "url": "URL#4105007"
+    },
+    {
+      "@score": "2",
+      "@id": "4105008",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "87/4283",
+              "text": "Nicolas Blanc"
+            },
+            {
+              "@pid": "k/DanielKroening",
+              "text": "Daniel Kroening"
+            }
+          ]
+        },
+        "title": "Speeding Up Simulation of SystemC Using Model Checking.",
+        "venue": "SBMF",
+        "pages": "1-16",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/BlancK09",
+        "doi": "10.1007/978-3-642-10452-7_1",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_1",
+        "url": "https://dblp.org/rec/conf/sbmf/BlancK09"
+      },
+      "url": "URL#4105008"
+    },
+    {
+      "@score": "2",
+      "@id": "4105009",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "35/6105",
+              "text": "Andrew Butterfield"
+            },
+            {
+              "@pid": "50/6768",
+              "text": "Art \u00d3 Cath\u00e1in"
+            }
+          ]
+        },
+        "title": "Concurrent Models of Flash Memory Device Behaviour.",
+        "venue": "SBMF",
+        "pages": "70-83",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/ButterfieldC09",
+        "doi": "10.1007/978-3-642-10452-7_6",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_6",
+        "url": "https://dblp.org/rec/conf/sbmf/ButterfieldC09"
+      },
+      "url": "URL#4105009"
+    },
+    {
+      "@score": "2",
+      "@id": "4105010",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "c/VenanzioCapretta",
+              "text": "Venanzio Capretta"
+            },
+            {
+              "@pid": "u/TarmoUustalu",
+              "text": "Tarmo Uustalu"
+            },
+            {
+              "@pid": "04/4212",
+              "text": "Varmo Vene"
+            }
+          ]
+        },
+        "title": "Corecursive Algebras - A Study of General Structured Corecursion.",
+        "venue": "SBMF",
+        "pages": "84-100",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/CaprettaUV09",
+        "doi": "10.1007/978-3-642-10452-7_7",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_7",
+        "url": "https://dblp.org/rec/conf/sbmf/CaprettaUV09"
+      },
+      "url": "URL#4105010"
+    },
+    {
+      "@score": "2",
+      "@id": "4105011",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "50/7512",
+              "text": "Adriana Damasceno"
+            },
+            {
+              "@pid": "59/4731",
+              "text": "Adalberto Farias"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            }
+          ]
+        },
+        "title": "A Mechanized Strategy for Safe Abstraction of CSP Specifications.",
+        "venue": "SBMF",
+        "pages": "118-133",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/DamascenoFM09",
+        "doi": "10.1007/978-3-642-10452-7_9",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_9",
+        "url": "https://dblp.org/rec/conf/sbmf/DamascenoFM09"
+      },
+      "url": "URL#4105011"
+    },
+    {
+      "@score": "2",
+      "@id": "4105012",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "46/5187",
+              "text": "Kriangsak Damchoom"
+            },
+            {
+              "@pid": "b/MichaelJButler",
+              "text": "Michael J. Butler"
+            }
+          ]
+        },
+        "title": "Applying Event and Machine Decomposition to a Flash-Based Filestore in Event-B.",
+        "venue": "SBMF",
+        "pages": "134-152",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/DamchoomB09",
+        "doi": "10.1007/978-3-642-10452-7_10",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_10",
+        "url": "https://dblp.org/rec/conf/sbmf/DamchoomB09"
+      },
+      "url": "URL#4105012"
+    },
+    {
+      "@score": "2",
+      "@id": "4105013",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "25/1547",
+              "text": "David D\u00e9harbe"
+            },
+            {
+              "@pid": "23/7128",
+              "text": "Stephenson Galv\u00e3o"
+            },
+            {
+              "@pid": "17/3197",
+              "text": "Anamaria Martins Moreira"
+            }
+          ]
+        },
+        "title": "Formalizing FreeRTOS - First Steps.",
+        "venue": "SBMF",
+        "pages": "101-117",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/DeharbeGM09",
+        "doi": "10.1007/978-3-642-10452-7_8",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_8",
+        "url": "https://dblp.org/rec/conf/sbmf/DeharbeGM09"
+      },
+      "url": "URL#4105013"
+    },
+    {
+      "@score": "2",
+      "@id": "4105014",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "15/7512",
+              "text": "Miguel Alexandre Ferreira"
+            },
+            {
+              "@pid": "o/JoseNunoOliveira",
+              "text": "Jos\u00e9 Nuno Oliveira"
+            }
+          ]
+        },
+        "title": "An Integrated Formal Methods Tool-Chain and Its Application to Verifying a File System Model.",
+        "venue": "SBMF",
+        "pages": "153-169",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FerreiraO09",
+        "doi": "10.1007/978-3-642-10452-7_11",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_11",
+        "url": "https://dblp.org/rec/conf/sbmf/FerreiraO09"
+      },
+      "url": "URL#4105014"
+    },
+    {
+      "@score": "2",
+      "@id": "4105015",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "91/2518",
+              "text": "Ricardo Bedin Fran\u00e7a"
+            },
+            {
+              "@pid": "24/3796",
+              "text": "Leandro Buss Becker"
+            },
+            {
+              "@pid": "97/1837",
+              "text": "Jean-Paul Bodeveix"
+            },
+            {
+              "@pid": "37/5635",
+              "text": "Jean-Marie Farines"
+            },
+            {
+              "@pid": "60/599",
+              "text": "Mamoun Filali"
+            }
+          ]
+        },
+        "title": "Towards Safe Design of Synchronous Bus Protocols in Event-B.",
+        "venue": "SBMF",
+        "pages": "170-185",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FrancaBBFF09",
+        "doi": "10.1007/978-3-642-10452-7_12",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_12",
+        "url": "https://dblp.org/rec/conf/sbmf/FrancaBBFF09"
+      },
+      "url": "URL#4105015"
+    },
+    {
+      "@score": "2",
+      "@id": "4105016",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "21/7417",
+              "text": "Elisabete Freire"
+            },
+            {
+              "@pid": "52/4774",
+              "text": "Lu\u00eds Monteiro"
+            }
+          ]
+        },
+        "title": "Defining Behaviours by Quasi-finality.",
+        "venue": "SBMF",
+        "pages": "290-305",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/FreireM09",
+        "doi": "10.1007/978-3-642-10452-7_20",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_20",
+        "url": "https://dblp.org/rec/conf/sbmf/FreireM09"
+      },
+      "url": "URL#4105016"
+    },
+    {
+      "@score": "2",
+      "@id": "4105017",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "f/LeoFreitas",
+            "text": "Leo Freitas"
+          }
+        },
+        "title": "Mechanising Data-Types for Kernel Design in Z.",
+        "venue": "SBMF",
+        "pages": "186-203",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Freitas09",
+        "doi": "10.1007/978-3-642-10452-7_13",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_13",
+        "url": "https://dblp.org/rec/conf/sbmf/Freitas09"
+      },
+      "url": "URL#4105017"
+    },
+    {
+      "@score": "2",
+      "@id": "4105018",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "10/3240",
+              "text": "Rohit Gheyi"
+            },
+            {
+              "@pid": "91/4481",
+              "text": "Tiago Massoni"
+            },
+            {
+              "@pid": "b/PauloBorba",
+              "text": "Paulo Borba"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            }
+          ]
+        },
+        "title": "A Complete Set of Object Modeling Laws for Alloy.",
+        "venue": "SBMF",
+        "pages": "204-219",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/GheyiMBS09",
+        "doi": "10.1007/978-3-642-10452-7_14",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_14",
+        "url": "https://dblp.org/rec/conf/sbmf/GheyiMBS09"
+      },
+      "url": "URL#4105018"
+    },
+    {
+      "@score": "2",
+      "@id": "4105019",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "33/737",
+            "text": "Sergio Giro"
+          }
+        },
+        "title": "Undecidability Results for Distributed Probabilistic Systems.",
+        "venue": "SBMF",
+        "pages": "220-235",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Giro09",
+        "doi": "10.1007/978-3-642-10452-7_15",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_15",
+        "url": "https://dblp.org/rec/conf/sbmf/Giro09"
+      },
+      "url": "URL#4105019"
+    },
+    {
+      "@score": "2",
+      "@id": "4105020",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "11/7128",
+              "text": "Val\u00e9rio Medeiros J\u00fanior"
+            },
+            {
+              "@pid": "25/1547",
+              "text": "David D\u00e9harbe"
+            }
+          ]
+        },
+        "title": "Formal Modelling of a Microcontroller Instruction Set in B.",
+        "venue": "SBMF",
+        "pages": "282-289",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/JuniorD09",
+        "doi": "10.1007/978-3-642-10452-7_19",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_19",
+        "url": "https://dblp.org/rec/conf/sbmf/JuniorD09"
+      },
+      "url": "URL#4105020"
+    },
+    {
+      "@score": "2",
+      "@id": "4105021",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "48/7512",
+              "text": "Renata Kaufman"
+            },
+            {
+              "@pid": "s/AugustoSampaio",
+              "text": "Augusto Sampaio"
+            },
+            {
+              "@pid": "m/AlexandreMota",
+              "text": "Alexandre Mota 0001"
+            }
+          ]
+        },
+        "title": "Formalisation and Analysis of Objects as CSP Processes.",
+        "venue": "SBMF",
+        "pages": "236-250",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/KaufmanSM09",
+        "doi": "10.1007/978-3-642-10452-7_16",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_16",
+        "url": "https://dblp.org/rec/conf/sbmf/KaufmanSM09"
+      },
+      "url": "URL#4105021"
+    },
+    {
+      "@score": "2",
+      "@id": "4105022",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "11/6551",
+              "text": "Moonzoo Kim"
+            },
+            {
+              "@pid": "76/5961",
+              "text": "Yunho Kim"
+            }
+          ]
+        },
+        "title": "Concolic Testing of the Multi-sector Read Operation for Flash Memory File System.",
+        "venue": "SBMF",
+        "pages": "251-265",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/KimK09",
+        "doi": "10.1007/978-3-642-10452-7_17",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_17",
+        "url": "https://dblp.org/rec/conf/sbmf/KimK09"
+      },
+      "url": "URL#4105022"
+    },
+    {
+      "@score": "2",
+      "@id": "4105023",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "81/7450",
+              "text": "Moritz Kleine"
+            },
+            {
+              "@pid": "47/5227",
+              "text": "Steffen Helke"
+            }
+          ]
+        },
+        "title": "Low-Level Code Verification Based on CSP Models.",
+        "venue": "SBMF",
+        "pages": "266-281",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/KleineH09",
+        "doi": "10.1007/978-3-642-10452-7_18",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_18",
+        "url": "https://dblp.org/rec/conf/sbmf/KleineH09"
+      },
+      "url": "URL#4105023"
+    },
+    {
+      "@score": "2",
+      "@id": "4105024",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "d/LeonardoMdeMoura",
+              "text": "Leonardo Mendon\u00e7a de Moura"
+            },
+            {
+              "@pid": "51/912",
+              "text": "Nikolaj Bj\u00f8rner"
+            }
+          ]
+        },
+        "title": "Satisfiability Modulo Theories - An Appetizer.",
+        "venue": "SBMF",
+        "pages": "23-36",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MouraB09",
+        "doi": "10.1007/978-3-642-10452-7_3",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_3",
+        "url": "https://dblp.org/rec/conf/sbmf/MouraB09"
+      },
+      "url": "URL#4105024"
+    },
+    {
+      "@score": "2",
+      "@id": "4105025",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "84/4044",
+              "text": "Jan Tobias M\u00fchlberg"
+            },
+            {
+              "@pid": "84/38",
+              "text": "Gerald L\u00fcttgen"
+            }
+          ]
+        },
+        "title": "Verifying Compiled File System Code.",
+        "venue": "SBMF",
+        "pages": "306-320",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/MuhlbergL09",
+        "doi": "10.1007/978-3-642-10452-7_21",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_21",
+        "url": "https://dblp.org/rec/conf/sbmf/MuhlbergL09"
+      },
+      "url": "URL#4105025"
+    },
+    {
+      "@score": "2",
+      "@id": "4105026",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "21/1391",
+            "text": "Sebasti\u00e1n Uchitel"
+          }
+        },
+        "title": "Partial Behaviour Modelling - Foundations for Incremental and Iterative Model-Based Software Engineering.",
+        "venue": "SBMF",
+        "pages": "17-22",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Uchitel09",
+        "doi": "10.1007/978-3-642-10452-7_2",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_2",
+        "url": "https://dblp.org/rec/conf/sbmf/Uchitel09"
+      },
+      "url": "URL#4105026"
+    },
+    {
+      "@score": "2",
+      "@id": "4105027",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "21/1450",
+              "text": "Juliana Kaizer Vizzotto"
+            },
+            {
+              "@pid": "58/281",
+              "text": "Giovani Rubert Librelotto"
+            },
+            {
+              "@pid": "65/6934",
+              "text": "Amr Sabry"
+            }
+          ]
+        },
+        "title": "Reasoning about General Quantum Programs over Mixed States.",
+        "venue": "SBMF",
+        "pages": "321-335",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/VizzottoLS09",
+        "doi": "10.1007/978-3-642-10452-7_22",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_22",
+        "url": "https://dblp.org/rec/conf/sbmf/VizzottoLS09"
+      },
+      "url": "URL#4105027"
+    },
+    {
+      "@score": "2",
+      "@id": "4105028",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "x/HongweiXi",
+            "text": "Hongwei Xi"
+          }
+        },
+        "title": "A Simple and General Theoretical Account for Abstract Types.",
+        "venue": "SBMF",
+        "pages": "336-349",
+        "year": "2009",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbmf/Xi09",
+        "doi": "10.1007/978-3-642-10452-7_23",
+        "ee": "https://doi.org/10.1007/978-3-642-10452-7_23",
+        "url": "https://dblp.org/rec/conf/sbmf/Xi09"
+      },
+      "url": "URL#4105028"
+    }
+  ]
+}

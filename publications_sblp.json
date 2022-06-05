@@ -1,0 +1,3750 @@
+{
+  "publications": [
+    {
+      "@score": "2",
+      "@id": "374259",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/5665",
+              "text": "Gabriela Araujo Britto"
+            },
+            {
+              "@pid": "62/8372",
+              "text": "Leopoldo Teixeira"
+            },
+            {
+              "@pid": "10/3240",
+              "text": "Rohit Gheyi"
+            }
+          ]
+        },
+        "title": "TSDolly - A program generator for TypeScript.",
+        "venue": "SBLP",
+        "pages": "66-74",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/BrittoTG21",
+        "doi": "10.1145/3475061.3475079",
+        "ee": "https://doi.org/10.1145/3475061.3475079",
+        "url": "https://dblp.org/rec/conf/sblp/BrittoTG21"
+      },
+      "url": "URL#374259"
+    },
+    {
+      "@score": "2",
+      "@id": "374260",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5942",
+              "text": "Diogo J. Cardoso"
+            },
+            {
+              "@pid": "24/37",
+              "text": "Luciana Foss"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            }
+          ]
+        },
+        "title": "A Graph Transformation System formalism for correctness of Transactional Memory algorithms.",
+        "venue": "SBLP",
+        "pages": "49-57",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CardosoFB21",
+        "doi": "10.1145/3475061.3475080",
+        "ee": "https://doi.org/10.1145/3475061.3475080",
+        "url": "https://dblp.org/rec/conf/sblp/CardosoFB21"
+      },
+      "url": "URL#374260"
+    },
+    {
+      "@score": "2",
+      "@id": "374261",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/5515",
+              "text": "Tha\u00eds Dam\u00e1sio"
+            },
+            {
+              "@pid": "304/6041",
+              "text": "Vin\u00edcius Pacheco"
+            },
+            {
+              "@pid": "304/5661",
+              "text": "Fabr\u00edcio Goes"
+            },
+            {
+              "@pid": "49/3721",
+              "text": "Fernando Pereira"
+            },
+            {
+              "@pid": "229/9168",
+              "text": "Rodrigo Rocha"
+            }
+          ]
+        },
+        "title": "Inlining for Code Size Reduction.",
+        "venue": "SBLP",
+        "pages": "17-24",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/DamasioPGPR21",
+        "doi": "10.1145/3475061.3475081",
+        "ee": "https://doi.org/10.1145/3475061.3475081",
+        "url": "https://dblp.org/rec/conf/sblp/DamasioPGPR21"
+      },
+      "url": "URL#374261"
+    },
+    {
+      "@score": "2",
+      "@id": "374262",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "92/9764",
+              "text": "Jos\u00e9 Duarte"
+            },
+            {
+              "@pid": "13/6347",
+              "text": "Ant\u00f3nio Ravara"
+            }
+          ]
+        },
+        "title": "Retrofitting Typestates into Rust.",
+        "venue": "SBLP",
+        "pages": "83-91",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/DuarteR21",
+        "doi": "10.1145/3475061.3475082",
+        "ee": "https://doi.org/10.1145/3475061.3475082",
+        "url": "https://dblp.org/rec/conf/sblp/DuarteR21"
+      },
+      "url": "URL#374262"
+    },
+    {
+      "@score": "2",
+      "@id": "374263",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "304/6158",
+            "text": "Anderson Faustino"
+          }
+        },
+        "title": "Graphs based on IR as Representation of Code - Types and Insights.",
+        "venue": "SBLP",
+        "pages": "75-82",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Faustino21",
+        "doi": "10.1145/3475061.3475063",
+        "ee": "https://doi.org/10.1145/3475061.3475063",
+        "url": "https://dblp.org/rec/conf/sblp/Faustino21"
+      },
+      "url": "URL#374263"
+    },
+    {
+      "@score": "2",
+      "@id": "374264",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "61/5341",
+              "text": "Francisco Freitas"
+            },
+            {
+              "@pid": "38/1810",
+              "text": "Andr\u00e9 Ferreira"
+            },
+            {
+              "@pid": "44/1499",
+              "text": "J\u00e1come Cunha"
+            }
+          ]
+        },
+        "title": "Refactoring Java Monoliths into Executable Microservice-Based Applications.",
+        "venue": "SBLP",
+        "pages": "100-107",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FreitasFC21",
+        "doi": "10.1145/3475061.3475086",
+        "ee": "https://doi.org/10.1145/3475061.3475086",
+        "url": "https://dblp.org/rec/conf/sblp/FreitasFC21"
+      },
+      "url": "URL#374264"
+    },
+    {
+      "@score": "2",
+      "@id": "374265",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5983",
+              "text": "Hugo Musso Gualandi"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "A Surprisingly Simple Lua Compiler.",
+        "venue": "SBLP",
+        "pages": "1-8",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/GualandiI21",
+        "doi": "10.1145/3475061.3475077",
+        "ee": "https://doi.org/10.1145/3475061.3475077",
+        "url": "https://dblp.org/rec/conf/sblp/GualandiI21"
+      },
+      "url": "URL#374265"
+    },
+    {
+      "@score": "2",
+      "@id": "374266",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "209/7035",
+              "text": "Andre D. Jardim"
+            },
+            {
+              "@pid": "304/6152",
+              "text": "Kevin Oliveira"
+            },
+            {
+              "@pid": "228/5942",
+              "text": "Diogo J. Cardoso"
+            },
+            {
+              "@pid": "209/6950",
+              "text": "Daniel Di Domenico"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            },
+            {
+              "@pid": "c/GGHCavalheiro",
+              "text": "Gerson G. H. Cavalheiro"
+            }
+          ]
+        },
+        "title": "An extension for Transactional Memory in OpenMP.",
+        "venue": "SBLP",
+        "pages": "58-65",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/JardimOCDBC21",
+        "doi": "10.1145/3475061.3475089",
+        "ee": "https://doi.org/10.1145/3475061.3475089",
+        "url": "https://dblp.org/rec/conf/sblp/JardimOCDBC21"
+      },
+      "url": "URL#374266"
+    },
+    {
+      "@score": "2",
+      "@id": "374267",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/5928",
+              "text": "Vin\u00edcius Juli\u00e3o"
+            },
+            {
+              "@pid": "304/5914",
+              "text": "Alexander Holmquist"
+            },
+            {
+              "@pid": "304/5682",
+              "text": "Fl\u00e1vio L\u00facio"
+            },
+            {
+              "@pid": "304/6326",
+              "text": "Celso Sim\u00f5es"
+            },
+            {
+              "@pid": "49/3721",
+              "text": "Fernando Pereira"
+            }
+          ]
+        },
+        "title": "Hapi - A Domain-Specific Language for the Declaration of Access Policies.",
+        "venue": "SBLP",
+        "pages": "9-16",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/JuliaoHLSP21",
+        "doi": "10.1145/3475061.3475084",
+        "ee": "https://doi.org/10.1145/3475061.3475084",
+        "url": "https://dblp.org/rec/conf/sblp/JuliaoHLSP21"
+      },
+      "url": "URL#374267"
+    },
+    {
+      "@score": "2",
+      "@id": "374268",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "166/1992",
+              "text": "Nilton Luiz Queiroz Junior"
+            },
+            {
+              "@pid": "87/6562",
+              "text": "Anderson Faustino da Silva"
+            }
+          ]
+        },
+        "title": "A Graph-based Model for Building Optimization Sequences - A Study Case on Code Size Reduction.",
+        "venue": "SBLP",
+        "pages": "92-99",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/JuniorS21",
+        "doi": "10.1145/3475061.3475083",
+        "ee": "https://doi.org/10.1145/3475061.3475083",
+        "url": "https://dblp.org/rec/conf/sblp/JuniorS21"
+      },
+      "url": "URL#374268"
+    },
+    {
+      "@score": "2",
+      "@id": "374269",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/5677",
+              "text": "Leonardo Kaplan"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "Evaluating Optimizations for a High-Level Language.",
+        "venue": "SBLP",
+        "pages": "25-32",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/KaplanI21",
+        "doi": "10.1145/3475061.3475088",
+        "ee": "https://doi.org/10.1145/3475061.3475088",
+        "url": "https://dblp.org/rec/conf/sblp/KaplanI21"
+      },
+      "url": "URL#374269"
+    },
+    {
+      "@score": "2",
+      "@id": "374270",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/5641",
+              "text": "Luiz Felipe Kraus"
+            },
+            {
+              "@pid": "304/5541",
+              "text": "Bruno Schafaschek"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            }
+          ]
+        },
+        "title": "Synthesis of Random Real-World Java Programs from Preexisting Libraries.",
+        "venue": "SBLP",
+        "pages": "108-115",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/KrausSRF21",
+        "doi": "10.1145/3475061.3475087",
+        "ee": "https://doi.org/10.1145/3475061.3475087",
+        "url": "https://dblp.org/rec/conf/sblp/KrausSRF21"
+      },
+      "url": "URL#374270"
+    },
+    {
+      "@score": "2",
+      "@id": "374271",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "220/7415",
+              "text": "Junior Loff"
+            },
+            {
+              "@pid": "215/8800",
+              "text": "Renato B. Hoffmann"
+            },
+            {
+              "@pid": "135/0603",
+              "text": "Dalvan Griebler"
+            },
+            {
+              "@pid": "f/LuizGustavoFernandes",
+              "text": "Luiz Gustavo Fernandes"
+            }
+          ]
+        },
+        "title": "High-Level Stream and Data Parallelism in C++ for Multi-Cores.",
+        "venue": "SBLP",
+        "pages": "41-48",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/LoffHGF21",
+        "doi": "10.1145/3475061.3475078",
+        "ee": "https://doi.org/10.1145/3475061.3475078",
+        "url": "https://dblp.org/rec/conf/sblp/LoffHGF21"
+      },
+      "url": "URL#374271"
+    },
+    {
+      "@score": "2",
+      "@id": "374272",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "87/6562",
+              "text": "Anderson Faustino da Silva"
+            },
+            {
+              "@pid": "55/608",
+              "text": "Edson Borin"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            },
+            {
+              "@pid": "244/1350",
+              "text": "Ot\u00e1vio Oliveira Napoli"
+            },
+            {
+              "@pid": "177/3157",
+              "text": "Vanderson Martins do Ros\u00e1rio"
+            }
+          ]
+        },
+        "title": "New Optimization Sequences for Code-Size Reduction for the LLVM Compilation Infrastructure.",
+        "venue": "SBLP",
+        "pages": "33-40",
+        "year": "2021",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SilvaBPNR21",
+        "doi": "10.1145/3475061.3475085",
+        "ee": "https://doi.org/10.1145/3475061.3475085",
+        "url": "https://dblp.org/rec/conf/sblp/SilvaBPNR21"
+      },
+      "url": "URL#374272"
+    },
+    {
+      "@score": "2",
+      "@id": "798471",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "290/7241",
+              "text": "Mauricio Cassola"
+            },
+            {
+              "@pid": "290/7888",
+              "text": "Agust\u00edn Talagorria"
+            },
+            {
+              "@pid": "25/2955",
+              "text": "Alberto Pardo"
+            },
+            {
+              "@pid": "34/5491",
+              "text": "Marcos Viera"
+            }
+          ]
+        },
+        "title": "A Gradual Type System for Elixir.",
+        "venue": "SBLP",
+        "pages": "17-24",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CassolaTPV20",
+        "doi": "10.1145/3427081.3427084",
+        "ee": "https://doi.org/10.1145/3427081.3427084",
+        "url": "https://dblp.org/rec/conf/sblp/CassolaTPV20"
+      },
+      "url": "URL#798471"
+    },
+    {
+      "@score": "2",
+      "@id": "798472",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            }
+          ]
+        },
+        "title": "An Intrinsically-Typed Solution for the List-Machine Benchmark.",
+        "venue": "SBLP",
+        "pages": "1-8",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FeitosaR20",
+        "doi": "10.1145/3427081.3427082",
+        "ee": "https://doi.org/10.1145/3427081.3427082",
+        "url": "https://dblp.org/rec/conf/sblp/FeitosaR20"
+      },
+      "url": "URL#798472"
+    },
+    {
+      "@score": "2",
+      "@id": "798473",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "215/8800",
+              "text": "Renato B. Hoffmann"
+            },
+            {
+              "@pid": "135/0603",
+              "text": "Dalvan Griebler"
+            },
+            {
+              "@pid": "35/3852",
+              "text": "Marco Danelutto"
+            },
+            {
+              "@pid": "f/LuizGustavoFernandes",
+              "text": "Luiz Gustavo Fernandes"
+            }
+          ]
+        },
+        "title": "Stream Parallelism Annotations for Multi-Core Frameworks.",
+        "venue": "SBLP",
+        "pages": "48-55",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/HoffmannGDF20",
+        "doi": "10.1145/3427081.3427088",
+        "ee": "https://doi.org/10.1145/3427081.3427088",
+        "url": "https://dblp.org/rec/conf/sblp/HoffmannGDF20"
+      },
+      "url": "URL#798473"
+    },
+    {
+      "@score": "2",
+      "@id": "798474",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "222/3547",
+              "text": "Ciro M. Medeiros"
+            },
+            {
+              "@pid": "72/5025",
+              "text": "Martin A. Musicante"
+            },
+            {
+              "@pid": "72/214",
+              "text": "Umberto Souza da Costa"
+            }
+          ]
+        },
+        "title": "An Algorithm for Context-Free Path Queries over Graph Databases.",
+        "venue": "SBLP",
+        "pages": "40-47",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MedeirosMC20",
+        "doi": "10.1145/3427081.3427087",
+        "ee": "https://doi.org/10.1145/3427081.3427087",
+        "url": "https://dblp.org/rec/conf/sblp/MedeirosMC20"
+      },
+      "url": "URL#798474"
+    },
+    {
+      "@score": "2",
+      "@id": "798475",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/6207",
+              "text": "Santiago Arranz Olmos"
+            },
+            {
+              "@pid": "304/6099",
+              "text": "Mart\u00edn Fern\u00e1ndez"
+            },
+            {
+              "@pid": "304/5380",
+              "text": "Mat\u00edas Steinberg"
+            },
+            {
+              "@pid": "225/0213",
+              "text": "Alejandro Gadea"
+            },
+            {
+              "@pid": "223/4665",
+              "text": "Emmanuel Gunther"
+            },
+            {
+              "@pid": "01/7183",
+              "text": "Miguel Pagano"
+            }
+          ]
+        },
+        "title": "A formalisation of LEGv8 in Agda.",
+        "venue": "SBLP",
+        "pages": "33-39",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/OlmosFSGGP20",
+        "doi": "10.1145/3427081.3427086",
+        "ee": "https://doi.org/10.1145/3427081.3427086",
+        "url": "https://dblp.org/rec/conf/sblp/OlmosFSGGP20"
+      },
+      "url": "URL#798475"
+    },
+    {
+      "@score": "2",
+      "@id": "798476",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/5974",
+              "text": "Felipe Sasdelli"
+            },
+            {
+              "@pid": "269/7762",
+              "text": "Maycon Amaro"
+            },
+            {
+              "@pid": "239/8548",
+              "text": "Elton M. Cardoso"
+            },
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            }
+          ]
+        },
+        "title": "Syntax vs Semantics - Comparing Consistency Proofs for Minimal Propositional Logics.",
+        "venue": "SBLP",
+        "pages": "9-16",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SasdelliACFR20",
+        "doi": "10.1145/3427081.3427083",
+        "ee": "https://doi.org/10.1145/3427081.3427083",
+        "url": "https://dblp.org/rec/conf/sblp/SasdelliACFR20"
+      },
+      "url": "URL#798476"
+    },
+    {
+      "@score": "2",
+      "@id": "798477",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "226/4094",
+              "text": "Rafael Castro G. Silva"
+            },
+            {
+              "@pid": "154/5102",
+              "text": "Cristiano D. Vasconcellos"
+            },
+            {
+              "@pid": "226/4233",
+              "text": "Karina Girardi Roggia"
+            }
+          ]
+        },
+        "title": "Monadic W in Coq.",
+        "venue": "SBLP",
+        "pages": "25-32",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SilvaVR20",
+        "doi": "10.1145/3427081.3427085",
+        "ee": "https://doi.org/10.1145/3427081.3427085",
+        "url": "https://dblp.org/rec/conf/sblp/SilvaVR20"
+      },
+      "url": "URL#798477"
+    },
+    {
+      "@score": "2",
+      "@id": "798478",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "206/1533",
+              "text": "Bruno Sofiato"
+            },
+            {
+              "@pid": "32/1562",
+              "text": "F\u00e1bio Levy Siqueira"
+            },
+            {
+              "@pid": "69/3417",
+              "text": "Ricardo Luis de Azevedo da Rocha"
+            }
+          ]
+        },
+        "title": "Towards an order-aware object comparison.",
+        "venue": "SBLP",
+        "pages": "64-71",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SofiatoSR20",
+        "doi": "10.1145/3427081.3427090",
+        "ee": "https://doi.org/10.1145/3427081.3427090",
+        "url": "https://dblp.org/rec/conf/sblp/SofiatoSR20"
+      },
+      "url": "URL#798478"
+    },
+    {
+      "@score": "2",
+      "@id": "798479",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "304/6143",
+              "text": "Andr\u00e9 Felipe Zanella"
+            },
+            {
+              "@pid": "87/6562",
+              "text": "Anderson Faustino da Silva"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "YACOS - a Complete Infrastructure to the Design and Exploration of Code Optimization Sequences.",
+        "venue": "SBLP",
+        "pages": "56-63",
+        "year": "2020",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/ZanellaSP20",
+        "doi": "10.1145/3427081.3427089",
+        "ee": "https://doi.org/10.1145/3427081.3427089",
+        "url": "https://dblp.org/rec/conf/sblp/ZanellaSP20"
+      },
+      "url": "URL#798479"
+    },
+    {
+      "@score": "2",
+      "@id": "1219495",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "167/9897",
+              "text": "Ricardo Teixeira"
+            },
+            {
+              "@pid": "07/2481",
+              "text": "George Lima"
+            }
+          ]
+        },
+        "title": "Improved task packing for shared resources in multiprocessor real-time systems scheduled by RUN under SBLP.",
+        "venue": "SBESC",
+        "pages": "1-8",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sbesc/TeixeiraL19",
+        "doi": "10.1109/SBESC49506.2019.9046074",
+        "ee": "https://doi.org/10.1109/SBESC49506.2019.9046074",
+        "url": "https://dblp.org/rec/conf/sbesc/TeixeiraL19"
+      },
+      "url": "URL#1219495"
+    },
+    {
+      "@score": "2",
+      "@id": "1219518",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5942",
+              "text": "Diogo J. Cardoso"
+            },
+            {
+              "@pid": "24/37",
+              "text": "Luciana Foss"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            }
+          ]
+        },
+        "title": "A Graph Transformation System formalism for Software Transactional Memory Opacity.",
+        "venue": "SBLP",
+        "pages": "3-10",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CardosoFB19",
+        "doi": "10.1145/3355378.3355387",
+        "ee": "https://doi.org/10.1145/3355378.3355387",
+        "url": "https://dblp.org/rec/conf/sblp/CardosoFB19"
+      },
+      "url": "URL#1219518"
+    },
+    {
+      "@score": "2",
+      "@id": "1219519",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            },
+            {
+              "@pid": "96/8524",
+              "text": "Alejandro Serrano Mena"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            }
+          ]
+        },
+        "title": "An Inherently-Typed Formalization for Featherweight Java.",
+        "venue": "SBLP",
+        "pages": "11-18",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FeitosaMRB19",
+        "doi": "10.1145/3355378.3355385",
+        "ee": "https://doi.org/10.1145/3355378.3355385",
+        "url": "https://dblp.org/rec/conf/sblp/FeitosaMRB19"
+      },
+      "url": "URL#1219519"
+    },
+    {
+      "@score": "2",
+      "@id": "1219520",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "207/6551",
+              "text": "Breno Campos Ferreira Guimar\u00e3es"
+            },
+            {
+              "@pid": "250/3377",
+              "text": "Jos\u00e9 Wesley de S. Magalh\u00e3es"
+            },
+            {
+              "@pid": "87/6562",
+              "text": "Anderson Faustino da Silva"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando M. Q. Pereira"
+            }
+          ]
+        },
+        "title": "Synthesis of Benchmarks for the C Programming Language by Mining Software Repositories.",
+        "venue": "SBLP",
+        "pages": "62-69",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/GuimaraesMSP19",
+        "doi": "10.1145/3355378.3355380",
+        "ee": "https://doi.org/10.1145/3355378.3355380",
+        "url": "https://dblp.org/rec/conf/sblp/GuimaraesMSP19"
+      },
+      "url": "URL#1219520"
+    },
+    {
+      "@score": "2",
+      "@id": "1219521",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "250/3388",
+              "text": "Rafael Ravedutti L. Machado"
+            },
+            {
+              "@pid": "98/1959",
+              "text": "Andr\u00e9 Murbach Maidl"
+            },
+            {
+              "@pid": "94/5519",
+              "text": "Daniel Weingaertner"
+            }
+          ]
+        },
+        "title": "Profiling Halide DSL with CPU Performance Events for Schedule Optimization.",
+        "venue": "SBLP",
+        "pages": "38-45",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MachadoMW19",
+        "doi": "10.1145/3355378.3355381",
+        "ee": "https://doi.org/10.1145/3355378.3355381",
+        "url": "https://dblp.org/rec/conf/sblp/MachadoMW19"
+      },
+      "url": "URL#1219521"
+    },
+    {
+      "@score": "2",
+      "@id": "1219522",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "250/3391",
+              "text": "Ricardo Pieper"
+            },
+            {
+              "@pid": "135/0603",
+              "text": "Dalvan Griebler"
+            },
+            {
+              "@pid": "f/LuizGustavoFernandes",
+              "text": "Luiz Gustavo Fernandes"
+            }
+          ]
+        },
+        "title": "Structured Stream Parallelism for Rust.",
+        "venue": "SBLP",
+        "pages": "54-61",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/PieperGF19",
+        "doi": "10.1145/3355378.3355384",
+        "ee": "https://doi.org/10.1145/3355378.3355384",
+        "url": "https://dblp.org/rec/conf/sblp/PieperGF19"
+      },
+      "url": "URL#1219522"
+    },
+    {
+      "@score": "2",
+      "@id": "1219523",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "211/5910",
+              "text": "Leonardo Pi\u00f1eyro"
+            },
+            {
+              "@pid": "25/2955",
+              "text": "Alberto Pardo"
+            },
+            {
+              "@pid": "34/5491",
+              "text": "Marcos Viera"
+            }
+          ]
+        },
+        "title": "Structure verification of deep neural networks at compilation time using dependent types.",
+        "venue": "SBLP",
+        "pages": "46-53",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/PineyroPV19",
+        "doi": "10.1145/3355378.3355379",
+        "ee": "https://doi.org/10.1145/3355378.3355379",
+        "url": "https://dblp.org/rec/conf/sblp/PineyroPV19"
+      },
+      "url": "URL#1219523"
+    },
+    {
+      "@score": "2",
+      "@id": "1219524",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "119/2191",
+              "text": "Leonardo Vieira dos Santos Reis"
+            },
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            },
+            {
+              "@pid": "239/8548",
+              "text": "Elton M. Cardoso"
+            }
+          ]
+        },
+        "title": "Towards Typed Semantics for Parsing Expression Grammars.",
+        "venue": "SBLP",
+        "pages": "70-77",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RibeiroRFC19",
+        "doi": "10.1145/3355378.3355388",
+        "ee": "https://doi.org/10.1145/3355378.3355388",
+        "url": "https://dblp.org/rec/conf/sblp/RibeiroRFC19"
+      },
+      "url": "URL#1219524"
+    },
+    {
+      "@score": "2",
+      "@id": "1219525",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "51/10161",
+              "text": "Francisco Ribeiro"
+            },
+            {
+              "@pid": "97/3668",
+              "text": "Jo\u00e3o Saraiva"
+            },
+            {
+              "@pid": "25/2955",
+              "text": "Alberto Pardo"
+            }
+          ]
+        },
+        "title": "Java Stream Fusion - Adapting FP mechanisms for an OO setting.",
+        "venue": "SBLP",
+        "pages": "30-37",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RibeiroSP19",
+        "doi": "10.1145/3355378.3355386",
+        "ee": "https://doi.org/10.1145/3355378.3355386",
+        "url": "https://dblp.org/rec/conf/sblp/RibeiroSP19"
+      },
+      "url": "URL#1219525"
+    },
+    {
+      "@score": "2",
+      "@id": "1219526",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "96/3094",
+              "text": "Andrei Rimsa"
+            },
+            {
+              "@pid": "a/JoseNelsonAmaral",
+              "text": "Jos\u00e9 Nelson Amaral"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "Efficient and Precise Dynamic Construction of Control Flow Graphs.",
+        "venue": "SBLP",
+        "pages": "19-26",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RimsaAP19",
+        "doi": "10.1145/3355378.3355383",
+        "ee": "https://doi.org/10.1145/3355378.3355383",
+        "url": "https://dblp.org/rec/conf/sblp/RimsaAP19"
+      },
+      "url": "URL#1219526"
+    },
+    {
+      "@score": "2",
+      "@id": "1219527",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "86/3684",
+              "text": "Carlos Vieira"
+            },
+            {
+              "@pid": "64/4850",
+              "text": "S\u00e9rgio Queiroz de Medeiros"
+            }
+          ]
+        },
+        "title": "IML - An Image Manipulation Language.",
+        "venue": "SBLP",
+        "pages": "27-29",
+        "year": "2019",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/VieiraM19",
+        "doi": "10.1145/3355378.3355382",
+        "ee": "https://doi.org/10.1145/3355378.3355382",
+        "url": "https://dblp.org/rec/conf/sblp/VieiraM19"
+      },
+      "url": "URL#1219527"
+    },
+    {
+      "@score": "2",
+      "@id": "1598587",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5942",
+              "text": "Diogo J. Cardoso"
+            },
+            {
+              "@pid": "21/1450",
+              "text": "Juliana Kaizer Vizzotto"
+            },
+            {
+              "@pid": "93/1270",
+              "text": "Eduardo Kessler Piveta"
+            }
+          ]
+        },
+        "title": "AsyncRFJ - an asynchronous approach to reactive object-oriented programming.",
+        "venue": "SBLP",
+        "pages": "35-42",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CardosoVP18",
+        "doi": "10.1145/3264637.3264642",
+        "ee": "https://doi.org/10.1145/3264637.3264642",
+        "url": "https://dblp.org/rec/conf/sblp/CardosoVP18"
+      },
+      "url": "URL#1598587"
+    },
+    {
+      "@score": "2",
+      "@id": "1598588",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5920",
+              "text": "Thales Ant\u00f4nio Delfino"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            }
+          ]
+        },
+        "title": "Towards certified virtual machine-based regular expression parsing.",
+        "venue": "SBLP",
+        "pages": "67-74",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/DelfinoR18",
+        "doi": "10.1145/3264637.3264646",
+        "ee": "https://doi.org/10.1145/3264637.3264646",
+        "url": "https://dblp.org/rec/conf/sblp/DelfinoR18"
+      },
+      "url": "URL#1598588"
+    },
+    {
+      "@score": "2",
+      "@id": "1598589",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            }
+          ]
+        },
+        "title": "Property-based testing for lambda expressions semantics in featherweight Java.",
+        "venue": "SBLP",
+        "pages": "43-50",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FeitosaRB18",
+        "doi": "10.1145/3264637.3264643",
+        "ee": "https://doi.org/10.1145/3264637.3264643",
+        "url": "https://dblp.org/rec/conf/sblp/FeitosaRB18"
+      },
+      "url": "URL#1598589"
+    },
+    {
+      "@score": "2",
+      "@id": "1598590",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "75/9488",
+              "text": "Ismael Figueroa"
+            },
+            {
+              "@pid": "221/1937",
+              "text": "Bruno Garc\u00eda"
+            },
+            {
+              "@pid": "78/7936",
+              "text": "Paul Leger"
+            }
+          ]
+        },
+        "title": "Towards progressive program verification in Dafny.",
+        "venue": "SBLP",
+        "pages": "90-97",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FigueroaGL18",
+        "doi": "10.1145/3264637.3264649",
+        "ee": "https://doi.org/10.1145/3264637.3264649",
+        "url": "https://dblp.org/rec/conf/sblp/FigueroaGL18"
+      },
+      "url": "URL#1598590"
+    },
+    {
+      "@score": "2",
+      "@id": "1598591",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5983",
+              "text": "Hugo Musso Gualandi"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "Pallene - a statically typed companion language for lua.",
+        "venue": "SBLP",
+        "pages": "19-26",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/GualandiI18",
+        "doi": "10.1145/3264637.3264640",
+        "ee": "https://doi.org/10.1145/3264637.3264640",
+        "url": "https://dblp.org/rec/conf/sblp/GualandiI18"
+      },
+      "url": "URL#1598591"
+    },
+    {
+      "@score": "2",
+      "@id": "1598592",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "183/7379",
+              "text": "Elder Rodrigues Jr."
+            },
+            {
+              "@pid": "121/2573",
+              "text": "Rafael Serapilha Durelli"
+            },
+            {
+              "@pid": "134/0913",
+              "text": "Raphael Winckler de Bettio"
+            },
+            {
+              "@pid": "30/2196",
+              "text": "Leonardo Montecchi"
+            },
+            {
+              "@pid": "23/5199",
+              "text": "Ricardo Terra"
+            }
+          ]
+        },
+        "title": "Refactorings for replacing dynamic instructions with static ones - the case of ruby.",
+        "venue": "SBLP",
+        "pages": "59-66",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/JrDBMT18",
+        "doi": "10.1145/3264637.3264645",
+        "ee": "https://doi.org/10.1145/3264637.3264645",
+        "url": "https://dblp.org/rec/conf/sblp/JrDBMT18"
+      },
+      "url": "URL#1598592"
+    },
+    {
+      "@score": "2",
+      "@id": "1598593",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5912",
+              "text": "Guilherme V. Leobas"
+            },
+            {
+              "@pid": "207/6551",
+              "text": "Breno Campos Ferreira Guimar\u00e3es"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "More than meets the eye - invisible instructions.",
+        "venue": "SBLP",
+        "pages": "27-34",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/LeobasGP18",
+        "doi": "10.1145/3264637.3264641",
+        "ee": "https://doi.org/10.1145/3264637.3264641",
+        "url": "https://dblp.org/rec/conf/sblp/LeobasGP18"
+      },
+      "url": "URL#1598593"
+    },
+    {
+      "@score": "2",
+      "@id": "1598594",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "64/4850",
+              "text": "S\u00e9rgio Queiroz de Medeiros"
+            },
+            {
+              "@pid": "80/5193",
+              "text": "Fabio Mascarenhas"
+            }
+          ]
+        },
+        "title": "Towards automatic error recovery in parsing expression grammars.",
+        "venue": "SBLP",
+        "pages": "3-10",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MedeirosM18",
+        "doi": "10.1145/3264637.3264638",
+        "ee": "https://doi.org/10.1145/3264637.3264638",
+        "url": "https://dblp.org/rec/conf/sblp/MedeirosM18"
+      },
+      "url": "URL#1598594"
+    },
+    {
+      "@score": "2",
+      "@id": "1598595",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "180/7268",
+              "text": "Gilberto Melfe"
+            },
+            {
+              "@pid": "144/6172",
+              "text": "Alcides Fonseca"
+            },
+            {
+              "@pid": "94/5770",
+              "text": "Jo\u00e3o Paulo Fernandes"
+            }
+          ]
+        },
+        "title": "Evaluation of the impact on energy consumption of lazy versus strict evaluation of Haskell data-structures.",
+        "venue": "SBLP",
+        "pages": "83-89",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MelfeFF18",
+        "doi": "10.1145/3264637.3264648",
+        "ee": "https://doi.org/10.1145/3264637.3264648",
+        "url": "https://dblp.org/rec/conf/sblp/MelfeFF18"
+      },
+      "url": "URL#1598595"
+    },
+    {
+      "@score": "2",
+      "@id": "1598596",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5922",
+              "text": "Gabriela Moreira"
+            },
+            {
+              "@pid": "154/5102",
+              "text": "Cristiano D. Vasconcellos"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            }
+          ]
+        },
+        "title": "Type inference for GADTs, outsidein and anti-unification.",
+        "venue": "SBLP",
+        "pages": "51-58",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MoreiraVR18",
+        "doi": "10.1145/3264637.3264644",
+        "ee": "https://doi.org/10.1145/3264637.3264644",
+        "url": "https://dblp.org/rec/conf/sblp/MoreiraVR18"
+      },
+      "url": "URL#1598596"
+    },
+    {
+      "@score": "2",
+      "@id": "1598597",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "166/4205",
+              "text": "Pedro Ramos"
+            },
+            {
+              "@pid": "192/7443",
+              "text": "Gleison Souza Diniz Mendonca"
+            },
+            {
+              "@pid": "228/5912",
+              "text": "Guilherme V. Leobas"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "Taskminer - automatic identification of tasks.",
+        "venue": "SBLP",
+        "pages": "11-18",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RamosMLP18",
+        "doi": "10.1145/3264637.3264639",
+        "ee": "https://doi.org/10.1145/3264637.3264639",
+        "url": "https://dblp.org/rec/conf/sblp/RamosMLP18"
+      },
+      "url": "URL#1598597"
+    },
+    {
+      "@score": "2",
+      "@id": "1598598",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5900",
+              "text": "Renan Santos"
+            },
+            {
+              "@pid": "95/2066",
+              "text": "Noemi de La Rocque Rodriguez"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "Revisiting monitors.",
+        "venue": "SBLP",
+        "pages": "75-82",
+        "year": "2018",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SantosRI18",
+        "doi": "10.1145/3264637.3264647",
+        "ee": "https://doi.org/10.1145/3264637.3264647",
+        "url": "https://dblp.org/rec/conf/sblp/SantosRI18"
+      },
+      "url": "URL#1598598"
+    },
+    {
+      "@score": "2",
+      "@id": "1945365",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "91/4569-1",
+              "text": "Marco Couto 0001"
+            },
+            {
+              "@pid": "32/6005",
+              "text": "Rui Pereira"
+            },
+            {
+              "@pid": "51/10161",
+              "text": "Francisco Ribeiro"
+            },
+            {
+              "@pid": "207/2335",
+              "text": "Rui Rua"
+            },
+            {
+              "@pid": "97/3668",
+              "text": "Jo\u00e3o Saraiva"
+            }
+          ]
+        },
+        "title": "Towards a Green Ranking for Programming Languages.",
+        "venue": "SBLP",
+        "pages": "7:1-7:8",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/0001PRRS17",
+        "doi": "10.1145/3125374.3125382",
+        "ee": "https://doi.org/10.1145/3125374.3125382",
+        "url": "https://dblp.org/rec/conf/sblp/0001PRRS17"
+      },
+      "url": "URL#1945365"
+    },
+    {
+      "@score": "2",
+      "@id": "1945366",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5856",
+              "text": "Jo\u00e3o F. N. Carvalho"
+            },
+            {
+              "@pid": "200/9213",
+              "text": "Bruno L. Sousa"
+            },
+            {
+              "@pid": "228/5905",
+              "text": "Marcus R. Ara\u00fajo"
+            },
+            {
+              "@pid": "91/739",
+              "text": "Mariza A. S. Bigonha"
+            }
+          ]
+        },
+        "title": "The Register Allocation and Instruction Scheduling Challenge.",
+        "venue": "SBLP",
+        "pages": "3:1-3:9",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CarvalhoSAB17",
+        "doi": "10.1145/3125374.3125380",
+        "ee": "https://doi.org/10.1145/3125374.3125380",
+        "url": "https://dblp.org/rec/conf/sblp/CarvalhoSAB17"
+      },
+      "url": "URL#1945366"
+    },
+    {
+      "@score": "2",
+      "@id": "1945367",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "75/9488",
+            "text": "Ismael Figueroa"
+          }
+        },
+        "title": "A preliminary assessment of how monads are used in Haskell.",
+        "venue": "SBLP",
+        "pages": "8:1-8:7",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Figueroa17",
+        "doi": "10.1145/3125374.3125385",
+        "ee": "https://doi.org/10.1145/3125374.3125385",
+        "url": "https://dblp.org/rec/conf/sblp/Figueroa17"
+      },
+      "url": "URL#1945367"
+    },
+    {
+      "@score": "2",
+      "@id": "1945368",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "225/0213",
+              "text": "Alejandro Gadea"
+            },
+            {
+              "@pid": "223/4665",
+              "text": "Emmanuel Gunther"
+            },
+            {
+              "@pid": "01/7183",
+              "text": "Miguel Pagano"
+            }
+          ]
+        },
+        "title": "The importance of being Extrinsic - Coherence and adequacy for a call-by-value language.",
+        "venue": "SBLP",
+        "pages": "6:1-6:8",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/GadeaGP17",
+        "doi": "10.1145/3125374.3125378",
+        "ee": "https://doi.org/10.1145/3125374.3125378",
+        "url": "https://dblp.org/rec/conf/sblp/GadeaGP17"
+      },
+      "url": "URL#1945368"
+    },
+    {
+      "@score": "2",
+      "@id": "1945369",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "27/5017",
+              "text": "Henrique Reb\u00ealo"
+            },
+            {
+              "@pid": "66/2755",
+              "text": "Gary T. Leavens"
+            }
+          ]
+        },
+        "title": "Aspect-Oriented Programming Reloaded.",
+        "venue": "SBLP",
+        "pages": "10:1-10:8",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RebeloL17",
+        "doi": "10.1145/3125374.3125383",
+        "ee": "https://doi.org/10.1145/3125374.3125383",
+        "url": "https://dblp.org/rec/conf/sblp/RebeloL17"
+      },
+      "url": "URL#1945369"
+    },
+    {
+      "@score": "2",
+      "@id": "1945370",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            }
+          ]
+        },
+        "title": "Certified Bit-Coded Regular Expression Parsing.",
+        "venue": "SBLP",
+        "pages": "4:1-4:8",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RibeiroB17",
+        "doi": "10.1145/3125374.3125381",
+        "ee": "https://doi.org/10.1145/3125374.3125381",
+        "url": "https://dblp.org/rec/conf/sblp/RibeiroB17"
+      },
+      "url": "URL#1945370"
+    },
+    {
+      "@score": "2",
+      "@id": "1945371",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5945",
+              "text": "Junio Cezar R. da Silva"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "Demand-driven less-than analysis.",
+        "venue": "SBLP",
+        "pages": "2:1-2:8",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SilvaP17",
+        "doi": "10.1145/3125374.3125379",
+        "ee": "https://doi.org/10.1145/3125374.3125379",
+        "url": "https://dblp.org/rec/conf/sblp/SilvaP17"
+      },
+      "url": "URL#1945371"
+    },
+    {
+      "@score": "2",
+      "@id": "1945372",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5867",
+              "text": "Paulo Torrens"
+            },
+            {
+              "@pid": "154/5102",
+              "text": "Cristiano D. Vasconcellos"
+            },
+            {
+              "@pid": "228/5883",
+              "text": "Junia Gon\u00e7alves"
+            }
+          ]
+        },
+        "title": "A hybrid intermediate language between SSA and CPS.",
+        "venue": "SBLP",
+        "pages": "1:1-1:3",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/TorrensVG17",
+        "doi": "10.1145/3125374.3125377",
+        "ee": "https://doi.org/10.1145/3125374.3125377",
+        "url": "https://dblp.org/rec/conf/sblp/TorrensVG17"
+      },
+      "url": "URL#1945372"
+    },
+    {
+      "@score": "2",
+      "@id": "1945373",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "207/7839",
+              "text": "Fellipe Augusto Ugliara"
+            },
+            {
+              "@pid": "33/238",
+              "text": "Gustavo Maciel Dias Vieira"
+            },
+            {
+              "@pid": "51/419",
+              "text": "Jos\u00e9 de Oliveira Guimar\u00e3es"
+            }
+          ]
+        },
+        "title": "Transparent Replication Using Metaprogramming in Cyan.",
+        "venue": "SBLP",
+        "pages": "9:1-9:8",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/UgliaraVG17",
+        "doi": "10.1145/3125374.3125375",
+        "ee": "https://doi.org/10.1145/3125374.3125375",
+        "url": "https://dblp.org/rec/conf/sblp/UgliaraVG17"
+      },
+      "url": "URL#1945373"
+    },
+    {
+      "@score": "2",
+      "@id": "1945374",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5918",
+              "text": "Daniel Leite Viana"
+            },
+            {
+              "@pid": "s/AndreSantos",
+              "text": "Andre Lu\u00eds de Medeiros Santos"
+            }
+          ]
+        },
+        "title": "A Domain-Specific Language for the Specification of Gesture-based Applications.",
+        "venue": "SBLP",
+        "pages": "11:1-11:7",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/VianaS17",
+        "doi": "10.1145/3125374.3125376",
+        "ee": "https://doi.org/10.1145/3125374.3125376",
+        "url": "https://dblp.org/rec/conf/sblp/VianaS17"
+      },
+      "url": "URL#1945374"
+    },
+    {
+      "@score": "2",
+      "@id": "1945375",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "228/5964",
+              "text": "Gonzalo Waszczuk"
+            },
+            {
+              "@pid": "25/2955",
+              "text": "Alberto Pardo"
+            },
+            {
+              "@pid": "34/5491",
+              "text": "Marcos Viera"
+            }
+          ]
+        },
+        "title": "Extensible records in Idris.",
+        "venue": "SBLP",
+        "pages": "5:1-5:8",
+        "year": "2017",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/WaszczukPV17",
+        "doi": "10.1145/3125374.3125384",
+        "ee": "https://doi.org/10.1145/3125374.3125384",
+        "url": "https://dblp.org/rec/conf/sblp/WaszczukPV17"
+      },
+      "url": "URL#1945375"
+    },
+    {
+      "@score": "2",
+      "@id": "2262395",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "185/7961",
+            "text": "Julia Belyakova"
+          }
+        },
+        "title": "Language Support for Generic Programming in Object-Oriented Languages - Peculiarities, Drawbacks, Ways of Improvement.",
+        "venue": "SBLP",
+        "pages": "1-15",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Belyakova16",
+        "doi": "10.1007/978-3-319-45279-1_1",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_1",
+        "url": "https://dblp.org/rec/conf/sblp/Belyakova16"
+      },
+      "url": "URL#2262395"
+    },
+    {
+      "@score": "2",
+      "@id": "2262396",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "185/7951",
+              "text": "Tarsila Bessa"
+            },
+            {
+              "@pid": "185/7955",
+              "text": "Pedro Quint\u00e3o"
+            },
+            {
+              "@pid": "42/4902-8",
+              "text": "Michael Frank 0008"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "JetsonLeap - A Framework to Measure Energy-Aware Code Optimizations in Embedded and Heterogeneous Systems.",
+        "venue": "SBLP",
+        "pages": "16-30",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/BessaQFP16",
+        "doi": "10.1007/978-3-319-45279-1_2",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_2",
+        "url": "https://dblp.org/rec/conf/sblp/BessaQFP16"
+      },
+      "url": "URL#2262396"
+    },
+    {
+      "@score": "2",
+      "@id": "2262397",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "165/3753",
+              "text": "Rodrigo Medeiros Duarte"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            },
+            {
+              "@pid": "06/5321",
+              "text": "Maur\u00edcio L. Pilla"
+            },
+            {
+              "@pid": "c/GGHCavalheiro",
+              "text": "Gerson G. H. Cavalheiro"
+            },
+            {
+              "@pid": "61/2221",
+              "text": "Renata Hax Sander Reiser"
+            }
+          ]
+        },
+        "title": "Concurrent Hash Tables for Haskell.",
+        "venue": "SBLP",
+        "pages": "110-124",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/DuarteBPCR16",
+        "doi": "10.1007/978-3-319-45279-1_8",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_8",
+        "url": "https://dblp.org/rec/conf/sblp/DuarteBPCR16"
+      },
+      "url": "URL#2262397"
+    },
+    {
+      "@score": "2",
+      "@id": "2262398",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "226/4565",
+              "text": "Samuel da Silva Feitosa"
+            },
+            {
+              "@pid": "21/1450",
+              "text": "Juliana Kaizer Vizzotto"
+            },
+            {
+              "@pid": "93/1270",
+              "text": "Eduardo Kessler Piveta"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            }
+          ]
+        },
+        "title": "A Monadic Semantics for Quantum Computing in Featherweight Java.",
+        "venue": "SBLP",
+        "pages": "31-45",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FeitosaVPB16",
+        "doi": "10.1007/978-3-319-45279-1_3",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_3",
+        "url": "https://dblp.org/rec/conf/sblp/FeitosaVPB16"
+      },
+      "url": "URL#2262398"
+    },
+    {
+      "@score": "2",
+      "@id": "2262399",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "94/5770",
+              "text": "Jo\u00e3o Paulo Fernandes"
+            },
+            {
+              "@pid": "59/2784-1",
+              "text": "Pedro Martins 0001"
+            },
+            {
+              "@pid": "25/2955",
+              "text": "Alberto Pardo"
+            },
+            {
+              "@pid": "97/3668",
+              "text": "Jo\u00e3o Saraiva"
+            },
+            {
+              "@pid": "34/5491",
+              "text": "Marcos Viera"
+            }
+          ]
+        },
+        "title": "Memoized Zipper-Based Attribute Grammars.",
+        "venue": "SBLP",
+        "pages": "46-61",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Fernandes0PSV16",
+        "doi": "10.1007/978-3-319-45279-1_4",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_4",
+        "url": "https://dblp.org/rec/conf/sblp/Fernandes0PSV16"
+      },
+      "url": "URL#2262399"
+    },
+    {
+      "@score": "2",
+      "@id": "2262400",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "138/7311",
+              "text": "Denis Firsov"
+            },
+            {
+              "@pid": "73/8356",
+              "text": "Wolfgang Jeltsch"
+            }
+          ]
+        },
+        "title": "Purely Functional Incremental Computing.",
+        "venue": "SBLP",
+        "pages": "62-77",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FirsovJ16",
+        "doi": "10.1007/978-3-319-45279-1_5",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_5",
+        "url": "https://dblp.org/rec/conf/sblp/FirsovJ16"
+      },
+      "url": "URL#2262400"
+    },
+    {
+      "@score": "2",
+      "@id": "2262401",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "87/10612",
+              "text": "Tingting Hu"
+            },
+            {
+              "@pid": "01/5332",
+              "text": "Haiyang Liu"
+            },
+            {
+              "@pid": "20/4152",
+              "text": "Ke Zhang"
+            },
+            {
+              "@pid": "52/958",
+              "text": "Zongyan Qiu"
+            }
+          ]
+        },
+        "title": "Automatic Annotating and Checking of Dynamic Ownership.",
+        "venue": "SBLP",
+        "pages": "78-94",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/HuLZQ16",
+        "doi": "10.1007/978-3-319-45279-1_6",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_6",
+        "url": "https://dblp.org/rec/conf/sblp/HuLZQ16"
+      },
+      "url": "URL#2262401"
+    },
+    {
+      "@score": "2",
+      "@id": "2262402",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "174/3138-2",
+              "text": "Raul Lopes 0002"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "27/4510",
+              "text": "Carlos Camar\u00e3o"
+            }
+          ]
+        },
+        "title": "Certified Derivative-Based Parsing of Regular Expressions.",
+        "venue": "SBLP",
+        "pages": "95-109",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/LopesRC16",
+        "doi": "10.1007/978-3-319-45279-1_7",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_7",
+        "url": "https://dblp.org/rec/conf/sblp/LopesRC16"
+      },
+      "url": "URL#2262402"
+    },
+    {
+      "@score": "2",
+      "@id": "2262403",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            },
+            {
+              "@pid": "27/4510",
+              "text": "Carlos Camar\u00e3o"
+            },
+            {
+              "@pid": "79/1464",
+              "text": "Luc\u00edlia Figueiredo"
+            },
+            {
+              "@pid": "154/5102",
+              "text": "Cristiano D. Vasconcellos"
+            }
+          ]
+        },
+        "title": "Optional Type Classes for Haskell.",
+        "venue": "SBLP",
+        "pages": "125-139",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RibeiroCFV16",
+        "doi": "10.1007/978-3-319-45279-1_9",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_9",
+        "url": "https://dblp.org/rec/conf/sblp/RibeiroCFV16"
+      },
+      "url": "URL#2262403"
+    },
+    {
+      "@score": "2",
+      "@id": "2262404",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "156/4621",
+              "text": "Rodrigo C. O. Rocha"
+            },
+            {
+              "@pid": "49/3151",
+              "text": "Lu\u00eds Fabr\u00edcio Wanderley G\u00f3es"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "An Algebraic Framework for Parallelizing Recurrence in Functional Programming.",
+        "venue": "SBLP",
+        "pages": "140-155",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RochaGP16",
+        "doi": "10.1007/978-3-319-45279-1_10",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_10",
+        "url": "https://dblp.org/rec/conf/sblp/RochaGP16"
+      },
+      "url": "URL#2262404"
+    },
+    {
+      "@score": "2",
+      "@id": "2262405",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "23/3006",
+              "text": "Jefferson de Carvalho Silva"
+            },
+            {
+              "@pid": "32/1402",
+              "text": "Francisco Heron de Carvalho Junior"
+            }
+          ]
+        },
+        "title": "A Platform of Scientific Workflows for Orchestration of Parallel Components in a Cloud of High Performance Computing Applications.",
+        "venue": "SBLP",
+        "pages": "156-170",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SilvaJ16",
+        "doi": "10.1007/978-3-319-45279-1_11",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_11",
+        "url": "https://dblp.org/rec/conf/sblp/SilvaJ16"
+      },
+      "url": "URL#2262405"
+    },
+    {
+      "@score": "2",
+      "@id": "2262406",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "20/4152",
+              "text": "Ke Zhang"
+            },
+            {
+              "@pid": "52/958",
+              "text": "Zongyan Qiu"
+            }
+          ]
+        },
+        "title": "Comparison Between Model Fields and Abstract Predicates.",
+        "venue": "SBLP",
+        "pages": "171-186",
+        "year": "2016",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/ZhangQ16",
+        "doi": "10.1007/978-3-319-45279-1_12",
+        "ee": "https://doi.org/10.1007/978-3-319-45279-1_12",
+        "url": "https://dblp.org/rec/conf/sblp/ZhangQ16"
+      },
+      "url": "URL#2262406"
+    },
+    {
+      "@score": "2",
+      "@id": "2567600",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "169/2291",
+              "text": "Rafael Bandeira"
+            },
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            },
+            {
+              "@pid": "06/5321",
+              "text": "Maur\u00edcio L. Pilla"
+            },
+            {
+              "@pid": "21/1450",
+              "text": "Juliana Kaizer Vizzotto"
+            },
+            {
+              "@pid": "06/10915",
+              "text": "Marcelo Machado"
+            }
+          ]
+        },
+        "title": "Composable Memory Transactions for Java Using a Monadic Intermediate Language.",
+        "venue": "SBLP",
+        "pages": "128-142",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/BandeiraBPVM15",
+        "doi": "10.1007/978-3-319-24012-1_10",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_10",
+        "url": "https://dblp.org/rec/conf/sblp/BandeiraBPVM15"
+      },
+      "url": "URL#2567600"
+    },
+    {
+      "@score": "2",
+      "@id": "2567601",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "92/6787",
+              "text": "Daniel Calegari"
+            },
+            {
+              "@pid": "34/5491",
+              "text": "Marcos Viera"
+            }
+          ]
+        },
+        "title": "Model-Driven Engineering Based on Attribute Grammars.",
+        "venue": "SBLP",
+        "pages": "112-127",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CalegariV15",
+        "doi": "10.1007/978-3-319-24012-1_9",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_9",
+        "url": "https://dblp.org/rec/conf/sblp/CalegariV15"
+      },
+      "url": "URL#2567601"
+    },
+    {
+      "@score": "2",
+      "@id": "2567602",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "169/2296",
+              "text": "Francisco Demonti\u00ea"
+            },
+            {
+              "@pid": "228/5945",
+              "text": "Junio Cezar R. da Silva"
+            },
+            {
+              "@pid": "91/739",
+              "text": "Mariza Andrade da Silva Bigonha"
+            },
+            {
+              "@pid": "169/2293",
+              "text": "Frederico Campos"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "Automatic Inference of Loop Complexity Through Polynomial Interpolation.",
+        "venue": "SBLP",
+        "pages": "1-15",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/DemontieCBCP15",
+        "doi": "10.1007/978-3-319-24012-1_1",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_1",
+        "url": "https://dblp.org/rec/conf/sblp/DemontieCBCP15"
+      },
+      "url": "URL#2567602"
+    },
+    {
+      "@score": "2",
+      "@id": "2567603",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2214",
+              "text": "Bruno Morais Ferreira"
+            },
+            {
+              "@pid": "40/4529",
+              "text": "Britaldo Silveira Soares-Filho"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "The Dinamica Virtual Machine for Geosciences.",
+        "venue": "SBLP",
+        "pages": "44-58",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FerreiraSP15",
+        "doi": "10.1007/978-3-319-24012-1_4",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_4",
+        "url": "https://dblp.org/rec/conf/sblp/FerreiraSP15"
+      },
+      "url": "URL#2567603"
+    },
+    {
+      "@score": "2",
+      "@id": "2567604",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "169/2297",
+              "text": "Adelaine Gelain"
+            },
+            {
+              "@pid": "154/5102",
+              "text": "Cristiano D. Vasconcellos"
+            },
+            {
+              "@pid": "27/4510",
+              "text": "Carlos Camar\u00e3o"
+            },
+            {
+              "@pid": "204/6610",
+              "text": "Rodrigo Geraldo Ribeiro"
+            }
+          ]
+        },
+        "title": "Type Inference for GADTs and Anti-unification.",
+        "venue": "SBLP",
+        "pages": "16-30",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/GelainVCR15",
+        "doi": "10.1007/978-3-319-24012-1_2",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_2",
+        "url": "https://dblp.org/rec/conf/sblp/GelainVCR15"
+      },
+      "url": "URL#2567604"
+    },
+    {
+      "@score": "2",
+      "@id": "2567605",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "01/5332",
+              "text": "Haiyang Liu"
+            },
+            {
+              "@pid": "52/958",
+              "text": "Zongyan Qiu"
+            }
+          ]
+        },
+        "title": "Go Model and Object Oriented Programming.",
+        "venue": "SBLP",
+        "pages": "59-74",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/LiuQ15",
+        "doi": "10.1007/978-3-319-24012-1_5",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_5",
+        "url": "https://dblp.org/rec/conf/sblp/LiuQ15"
+      },
+      "url": "URL#2567605"
+    },
+    {
+      "@score": "2",
+      "@id": "2567606",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "169/2298",
+              "text": "Rafael Lobo"
+            },
+            {
+              "@pid": "f/FCFilho",
+              "text": "Fernando Castor"
+            }
+          ]
+        },
+        "title": "Deadlocks as Runtime Exceptions.",
+        "venue": "SBLP",
+        "pages": "96-111",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/LoboC15",
+        "doi": "10.1007/978-3-319-24012-1_8",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_8",
+        "url": "https://dblp.org/rec/conf/sblp/LoboC15"
+      },
+      "url": "URL#2567606"
+    },
+    {
+      "@score": "2",
+      "@id": "2567607",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "169/2294",
+              "text": "F\u00e9lix Ribeiro"
+            },
+            {
+              "@pid": "64/4649",
+              "text": "Hisham Muhammad"
+            },
+            {
+              "@pid": "98/1959",
+              "text": "Andr\u00e9 Murbach Maidl"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "Preserving Lexical Scoping When Dynamically Embedding Languages.",
+        "venue": "SBLP",
+        "pages": "31-43",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/RibeiroMMI15",
+        "doi": "10.1007/978-3-319-24012-1_3",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_3",
+        "url": "https://dblp.org/rec/conf/sblp/RibeiroMMI15"
+      },
+      "url": "URL#2567607"
+    },
+    {
+      "@score": "2",
+      "@id": "2567608",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "00/1691",
+            "text": "Leonardo Rodr\u00edguez"
+          }
+        },
+        "title": "An Intrinsic Denotational Semantics for a Lazy Functional Language.",
+        "venue": "SBLP",
+        "pages": "75-80",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Rodriguez15",
+        "doi": "10.1007/978-3-319-24012-1_6",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_6",
+        "url": "https://dblp.org/rec/conf/sblp/Rodriguez15"
+      },
+      "url": "URL#2567608"
+    },
+    {
+      "@score": "2",
+      "@id": "2567609",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "156/1245",
+              "text": "Felipe L. Silva"
+            },
+            {
+              "@pid": "169/2299",
+              "text": "Marcelo F. Luna"
+            },
+            {
+              "@pid": "47/7638",
+              "text": "Wesley Attrot"
+            }
+          ]
+        },
+        "title": "Color Flipping.",
+        "venue": "SBLP",
+        "pages": "81-95",
+        "year": "2015",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SilvaLA15",
+        "doi": "10.1007/978-3-319-24012-1_7",
+        "ee": "https://doi.org/10.1007/978-3-319-24012-1_7",
+        "url": "https://dblp.org/rec/conf/sblp/SilvaLA15"
+      },
+      "url": "URL#2567609"
+    },
+    {
+      "@score": "2",
+      "@id": "2857029",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2231",
+              "text": "P\u00e9ricles Alves"
+            },
+            {
+              "@pid": "03/335",
+              "text": "Eduardo Figueiredo 0001"
+            },
+            {
+              "@pid": "48/5007",
+              "text": "Fabiano Cutigi Ferrari"
+            }
+          ]
+        },
+        "title": "Avoiding Code Pitfalls in Aspect-Oriented Programming.",
+        "venue": "SBLP",
+        "pages": "31-46",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/AlvesFF14",
+        "doi": "10.1007/978-3-319-11863-5_3",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_3",
+        "url": "https://dblp.org/rec/conf/sblp/AlvesFF14"
+      },
+      "url": "URL#2857029"
+    },
+    {
+      "@score": "2",
+      "@id": "2857030",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "150/6985",
+              "text": "Gabriel Krisman Bertazi"
+            },
+            {
+              "@pid": "87/6562",
+              "text": "Anderson Faustino da Silva"
+            },
+            {
+              "@pid": "55/608",
+              "text": "Edson Borin"
+            }
+          ]
+        },
+        "title": "A Hybrid Framework to Accelerate Adaptive Compilation Systems.",
+        "venue": "SBLP",
+        "pages": "139-144",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/BertaziSB14",
+        "doi": "10.1007/978-3-319-11863-5_10",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_10",
+        "url": "https://dblp.org/rec/conf/sblp/BertaziSB14"
+      },
+      "url": "URL#2857030"
+    },
+    {
+      "@score": "2",
+      "@id": "2857031",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "21/3472",
+              "text": "Andr\u00e9 Rauber Du Bois"
+            },
+            {
+              "@pid": "06/5321",
+              "text": "Maur\u00edcio Lima Pilla"
+            },
+            {
+              "@pid": "165/3753",
+              "text": "Rodrigo Medeiros Duarte"
+            }
+          ]
+        },
+        "title": "Transactional Boosting for Haskell.",
+        "venue": "SBLP",
+        "pages": "145-159",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/BoisPD14",
+        "doi": "10.1007/978-3-319-11863-5_11",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_11",
+        "url": "https://dblp.org/rec/conf/sblp/BoisPD14"
+      },
+      "url": "URL#2857031"
+    },
+    {
+      "@score": "2",
+      "@id": "2857032",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "150/7292",
+              "text": "Ernesto Copello"
+            },
+            {
+              "@pid": "25/4638",
+              "text": "Alvaro Tasistro"
+            },
+            {
+              "@pid": "150/7340",
+              "text": "Bruno Bianchi"
+            }
+          ]
+        },
+        "title": "Case of (Quite) Painless Dependently Typed Programming - Fully Certified Merge Sort in Agda.",
+        "venue": "SBLP",
+        "pages": "62-76",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CopelloTB14",
+        "doi": "10.1007/978-3-319-11863-5_5",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_5",
+        "url": "https://dblp.org/rec/conf/sblp/CopelloTB14"
+      },
+      "url": "URL#2857032"
+    },
+    {
+      "@score": "2",
+      "@id": "2857033",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "91/4569-1",
+              "text": "Marco Couto 0001"
+            },
+            {
+              "@pid": "136/0629",
+              "text": "Tiago Car\u00e7\u00e3o"
+            },
+            {
+              "@pid": "44/1499",
+              "text": "J\u00e1come Cunha"
+            },
+            {
+              "@pid": "94/5770",
+              "text": "Jo\u00e3o Paulo Fernandes"
+            },
+            {
+              "@pid": "97/3668",
+              "text": "Jo\u00e3o Saraiva"
+            }
+          ]
+        },
+        "title": "Detecting Anomalous Energy Consumption in Android Applications.",
+        "venue": "SBLP",
+        "pages": "77-91",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CoutoCCFS14",
+        "doi": "10.1007/978-3-319-11863-5_6",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_6",
+        "url": "https://dblp.org/rec/conf/sblp/CoutoCCFS14"
+      },
+      "url": "URL#2857033"
+    },
+    {
+      "@score": "2",
+      "@id": "2857034",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "75/9488",
+              "text": "Ismael Figueroa"
+            },
+            {
+              "@pid": "56/3285",
+              "text": "Nicolas Tabareau"
+            },
+            {
+              "@pid": "t/EricTanter",
+              "text": "\u00c9ric Tanter"
+            }
+          ]
+        },
+        "title": "Effect Capabilities for Haskell.",
+        "venue": "SBLP",
+        "pages": "92-108",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FigueroaTT14",
+        "doi": "10.1007/978-3-319-11863-5_7",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_7",
+        "url": "https://dblp.org/rec/conf/sblp/FigueroaTT14"
+      },
+      "url": "URL#2857034"
+    },
+    {
+      "@score": "2",
+      "@id": "2857035",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "70/7849",
+              "text": "Cecilia Manzino"
+            },
+            {
+              "@pid": "25/2955",
+              "text": "Alberto Pardo"
+            }
+          ]
+        },
+        "title": "A Security Types Preserving Compiler in Haskell.",
+        "venue": "SBLP",
+        "pages": "16-30",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/ManzinoP14",
+        "doi": "10.1007/978-3-319-11863-5_2",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_2",
+        "url": "https://dblp.org/rec/conf/sblp/ManzinoP14"
+      },
+      "url": "URL#2857035"
+    },
+    {
+      "@score": "2",
+      "@id": "2857036",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "150/7043",
+              "text": "Simon Moll"
+            },
+            {
+              "@pid": "127/9558",
+              "text": "Henrique Nazar\u00e9"
+            },
+            {
+              "@pid": "150/7274",
+              "text": "Gustavo Vieira Machado"
+            },
+            {
+              "@pid": "119/2251",
+              "text": "Raphael Ernani Rodrigues"
+            }
+          ]
+        },
+        "title": "Bounds Check Hoisting for AddressSanitizer.",
+        "venue": "SBLP",
+        "pages": "47-61",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MollNMR14",
+        "doi": "10.1007/978-3-319-11863-5_4",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_4",
+        "url": "https://dblp.org/rec/conf/sblp/MollNMR14"
+      },
+      "url": "URL#2857036"
+    },
+    {
+      "@score": "2",
+      "@id": "2857037",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "150/7241",
+              "text": "Anderson Boettge Pinheiro"
+            },
+            {
+              "@pid": "32/1402",
+              "text": "Francisco Heron de Carvalho Junior"
+            },
+            {
+              "@pid": "150/7036",
+              "text": "Neemias Gabriel Pena Batista Arruda"
+            },
+            {
+              "@pid": "07/9766",
+              "text": "Tiago Carneiro 0001"
+            }
+          ]
+        },
+        "title": "Fusion - Abstractions for Multicore/Manycore Heterogenous Parallel Programming Using GPUs.",
+        "venue": "SBLP",
+        "pages": "109-123",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/PinheiroJAC14",
+        "doi": "10.1007/978-3-319-11863-5_8",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_8",
+        "url": "https://dblp.org/rec/conf/sblp/PinheiroJAC14"
+      },
+      "url": "URL#2857037"
+    },
+    {
+      "@score": "2",
+      "@id": "2857038",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2191",
+              "text": "Leonardo Vieira dos Santos Reis"
+            },
+            {
+              "@pid": "26/6772",
+              "text": "Vladimir Oliveira Di Iorio"
+            },
+            {
+              "@pid": "67/5401",
+              "text": "Roberto da Silva Bigonha"
+            }
+          ]
+        },
+        "title": "A Mixed Approach for Building Extensible Parsers.",
+        "venue": "SBLP",
+        "pages": "1-15",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/ReisIB14",
+        "doi": "10.1007/978-3-319-11863-5_1",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_1",
+        "url": "https://dblp.org/rec/conf/sblp/ReisIB14"
+      },
+      "url": "URL#2857038"
+    },
+    {
+      "@score": "2",
+      "@id": "2857039",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "119/2251",
+            "text": "Raphael Ernani Rodrigues"
+          }
+        },
+        "title": "Real-World Loops Are Easy to Predict.",
+        "venue": "SBLP",
+        "pages": "124-138",
+        "year": "2014",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Rodrigues14",
+        "doi": "10.1007/978-3-319-11863-5_9",
+        "ee": "https://doi.org/10.1007/978-3-319-11863-5_9",
+        "url": "https://dblp.org/rec/conf/sblp/Rodrigues14"
+      },
+      "url": "URL#2857039"
+    },
+    {
+      "@score": "2",
+      "@id": "3139009",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "135/0603",
+              "text": "Dalvan Griebler"
+            },
+            {
+              "@pid": "f/LuizGustavoFernandes",
+              "text": "Luiz Gustavo Fernandes"
+            }
+          ]
+        },
+        "title": "Towards a Domain-Specific Language for Patterns-Oriented Parallel Programming.",
+        "venue": "SBLP",
+        "pages": "105-119",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/GrieblerF13",
+        "doi": "10.1007/978-3-642-40922-6_8",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_8",
+        "url": "https://dblp.org/rec/conf/sblp/GrieblerF13"
+      },
+      "url": "URL#3139009"
+    },
+    {
+      "@score": "2",
+      "@id": "3139010",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "32/1402",
+              "text": "Francisco Heron de Carvalho Junior"
+            },
+            {
+              "@pid": "124/7188",
+              "text": "Cenez Ara\u00fajo Rezende"
+            },
+            {
+              "@pid": "23/3006",
+              "text": "Jefferson de Carvalho Silva"
+            },
+            {
+              "@pid": "135/0627",
+              "text": "Wagner Guimar\u00e3es Al-Alam"
+            }
+          ]
+        },
+        "title": "Contextual Abstraction in a Type System for Component-Based High Performance Computing Platforms.",
+        "venue": "SBLP",
+        "pages": "90-104",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/JuniorRSA13",
+        "doi": "10.1007/978-3-642-40922-6_7",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_7",
+        "url": "https://dblp.org/rec/conf/sblp/JuniorRSA13"
+      },
+      "url": "URL#3139010"
+    },
+    {
+      "@score": "2",
+      "@id": "3139011",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "32/1402",
+              "text": "Francisco Heron de Carvalho Junior"
+            },
+            {
+              "@pid": "124/7188",
+              "text": "Cenez Ara\u00fajo Rezende"
+            },
+            {
+              "@pid": "23/3006",
+              "text": "Jefferson de Carvalho Silva"
+            },
+            {
+              "@pid": "135/0619",
+              "text": "Francisco Jos\u00e9 Lins Magalh\u00e3es"
+            },
+            {
+              "@pid": "135/0593",
+              "text": "Renato Caminha Jua\u00e7aba-Neto"
+            }
+          ]
+        },
+        "title": "On the Performance of Multidimensional Array Representations in Programming Languages Based on Virtual Execution Machines.",
+        "venue": "SBLP",
+        "pages": "31-45",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/JuniorRSMJ13",
+        "doi": "10.1007/978-3-642-40922-6_3",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_3",
+        "url": "https://dblp.org/rec/conf/sblp/JuniorRSMJ13"
+      },
+      "url": "URL#3139011"
+    },
+    {
+      "@score": "2",
+      "@id": "3139012",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "76/4576",
+              "text": "Alexandre Madeira"
+            },
+            {
+              "@pid": "12/6107",
+              "text": "Manuel A. Martins 0001"
+            },
+            {
+              "@pid": "40/3466",
+              "text": "Lu\u00eds Soares Barbosa"
+            }
+          ]
+        },
+        "title": "Boilerplates for Reconfigurable Systems - A Language and Its Semantics.",
+        "venue": "SBLP",
+        "pages": "75-89",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MadeiraMB13",
+        "doi": "10.1007/978-3-642-40922-6_6",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_6",
+        "url": "https://dblp.org/rec/conf/sblp/MadeiraMB13"
+      },
+      "url": "URL#3139012"
+    },
+    {
+      "@score": "2",
+      "@id": "3139013",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "73/8724",
+              "text": "Ken Madlener"
+            },
+            {
+              "@pid": "s/SjaakSmetsers",
+              "text": "Sjaak Smetsers"
+            },
+            {
+              "@pid": "83/2290",
+              "text": "Marko C. J. D. van Eekelen"
+            }
+          ]
+        },
+        "title": "Modular Bialgebraic Semantics and Algebraic Laws.",
+        "venue": "SBLP",
+        "pages": "46-60",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MadlenerSE13",
+        "doi": "10.1007/978-3-642-40922-6_4",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_4",
+        "url": "https://dblp.org/rec/conf/sblp/MadlenerSE13"
+      },
+      "url": "URL#3139013"
+    },
+    {
+      "@score": "2",
+      "@id": "3139014",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "98/1959",
+              "text": "Andr\u00e9 Murbach Maidl"
+            },
+            {
+              "@pid": "80/5193",
+              "text": "Fabio Mascarenhas"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "Exception Handling for Error Reporting in Parsing Expression Grammars.",
+        "venue": "SBLP",
+        "pages": "1-15",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MaidlMI13",
+        "doi": "10.1007/978-3-642-40922-6_1",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_1",
+        "url": "https://dblp.org/rec/conf/sblp/MaidlMI13"
+      },
+      "url": "URL#3139014"
+    },
+    {
+      "@score": "2",
+      "@id": "3139015",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "59/2784-1",
+              "text": "Pedro Martins 0001"
+            },
+            {
+              "@pid": "94/5770",
+              "text": "Jo\u00e3o Paulo Fernandes"
+            },
+            {
+              "@pid": "97/3668",
+              "text": "Jo\u00e3o Saraiva"
+            }
+          ]
+        },
+        "title": "Zipper-Based Attribute Grammars and Their Extensions.",
+        "venue": "SBLP",
+        "pages": "135-149",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MartinsFS13",
+        "doi": "10.1007/978-3-642-40922-6_10",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_10",
+        "url": "https://dblp.org/rec/conf/sblp/MartinsFS13"
+      },
+      "url": "URL#3139015"
+    },
+    {
+      "@score": "2",
+      "@id": "3139016",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "64/4649",
+              "text": "Hisham Muhammad"
+            },
+            {
+              "@pid": "80/5193",
+              "text": "Fabio Mascarenhas"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "LuaRocks - A Declarative and Extensible Package Management System for Lua.",
+        "venue": "SBLP",
+        "pages": "16-30",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MuhammadMI13",
+        "doi": "10.1007/978-3-642-40922-6_2",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_2",
+        "url": "https://dblp.org/rec/conf/sblp/MuhammadMI13"
+      },
+      "url": "URL#3139016"
+    },
+    {
+      "@score": "2",
+      "@id": "3139017",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "25/2955",
+              "text": "Alberto Pardo"
+            },
+            {
+              "@pid": "94/5770",
+              "text": "Jo\u00e3o Paulo Fernandes"
+            },
+            {
+              "@pid": "97/3668",
+              "text": "Jo\u00e3o Saraiva"
+            }
+          ]
+        },
+        "title": "Multiple Intermediate Structure Deforestation by Shortcut Fusion.",
+        "venue": "SBLP",
+        "pages": "120-134",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/PardoFS13",
+        "doi": "10.1007/978-3-642-40922-6_9",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_9",
+        "url": "https://dblp.org/rec/conf/sblp/PardoFS13"
+      },
+      "url": "URL#3139017"
+    },
+    {
+      "@score": "2",
+      "@id": "3139018",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "21/1450",
+              "text": "Juliana Kaizer Vizzotto"
+            },
+            {
+              "@pid": "135/0631",
+              "text": "Bruno Crestani Calegaro"
+            },
+            {
+              "@pid": "93/1270",
+              "text": "Eduardo Kessler Piveta"
+            }
+          ]
+        },
+        "title": "A Double Effect \u03bb-calculus for Quantum Computation.",
+        "venue": "SBLP",
+        "pages": "61-74",
+        "year": "2013",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/VizzottoCP13",
+        "doi": "10.1007/978-3-642-40922-6_5",
+        "ee": "https://doi.org/10.1007/978-3-642-40922-6_5",
+        "url": "https://dblp.org/rec/conf/sblp/VizzottoCP13"
+      },
+      "url": "URL#3139018"
+    },
+    {
+      "@score": "2",
+      "@id": "3402383",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "a/BKAichernig",
+            "text": "Bernhard K. Aichernig"
+          }
+        },
+        "title": "The Science of Killing Bugs in a Black Box - (Keynote Talk).",
+        "venue": "SBLP",
+        "pages": "6-11",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Aichernig12",
+        "doi": "10.1007/978-3-642-33182-4_2",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_2",
+        "url": "https://dblp.org/rec/conf/sblp/Aichernig12"
+      },
+      "url": "URL#3402383"
+    },
+    {
+      "@score": "2",
+      "@id": "3402384",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2231",
+              "text": "P\u00e9ricles Rafael Oliveira Alves"
+            },
+            {
+              "@pid": "119/2219",
+              "text": "Igor Rafael de Assis Costa"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            },
+            {
+              "@pid": "03/335",
+              "text": "Eduardo Magno Lages Figueiredo"
+            }
+          ]
+        },
+        "title": "Parameter Based Constant Propagation.",
+        "venue": "SBLP",
+        "pages": "57-71",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/AlvesCPF12",
+        "doi": "10.1007/978-3-642-33182-4_6",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_6",
+        "url": "https://dblp.org/rec/conf/sblp/AlvesCPF12"
+      },
+      "url": "URL#3402384"
+    },
+    {
+      "@score": "2",
+      "@id": "3402385",
+      "info": {
+        "authors": {
+          "author": {
+            "@pid": "40/3466",
+            "text": "Lu\u00eds Soares Barbosa"
+          }
+        },
+        "title": "Software Components as Invariant-Typed Arrows - (Keynote Talk).",
+        "venue": "SBLP",
+        "pages": "1-5",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/Barbosa12",
+        "doi": "10.1007/978-3-642-33182-4_1",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_1",
+        "url": "https://dblp.org/rec/conf/sblp/Barbosa12"
+      },
+      "url": "URL#3402385"
+    },
+    {
+      "@score": "2",
+      "@id": "3402386",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2240",
+              "text": "Maximilien de Bayser"
+            },
+            {
+              "@pid": "165/3587",
+              "text": "Renato F. G. Cerqueira"
+            }
+          ]
+        },
+        "title": "A System for Runtime Type Introspection in C++.",
+        "venue": "SBLP",
+        "pages": "102-116",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/BayserC12",
+        "doi": "10.1007/978-3-642-33182-4_9",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_9",
+        "url": "https://dblp.org/rec/conf/sblp/BayserC12"
+      },
+      "url": "URL#3402386"
+    },
+    {
+      "@score": "2",
+      "@id": "3402387",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2210",
+              "text": "Victor Hugo Sperle Campos"
+            },
+            {
+              "@pid": "119/2251",
+              "text": "Raphael Ernani Rodrigues"
+            },
+            {
+              "@pid": "119/2219",
+              "text": "Igor Rafael de Assis Costa"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            }
+          ]
+        },
+        "title": "Speed and Precision in Range Analysis.",
+        "venue": "SBLP",
+        "pages": "42-56",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CamposRCP12",
+        "doi": "10.1007/978-3-642-33182-4_5",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_5",
+        "url": "https://dblp.org/rec/conf/sblp/CamposRCP12"
+      },
+      "url": "URL#3402387"
+    },
+    {
+      "@score": "2",
+      "@id": "3402388",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "44/1499",
+              "text": "J\u00e1come Cunha"
+            },
+            {
+              "@pid": "97/3668",
+              "text": "Jo\u00e3o Saraiva"
+            },
+            {
+              "@pid": "40/5235",
+              "text": "Joost Visser 0001"
+            }
+          ]
+        },
+        "title": "Model-Based Programming Environments for Spreadsheets.",
+        "venue": "SBLP",
+        "pages": "117-133",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/CunhaSV12",
+        "doi": "10.1007/978-3-642-33182-4_10",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_10",
+        "url": "https://dblp.org/rec/conf/sblp/CunhaSV12"
+      },
+      "url": "URL#3402388"
+    },
+    {
+      "@score": "2",
+      "@id": "3402389",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2214",
+              "text": "Bruno Morais Ferreira"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            },
+            {
+              "@pid": "98/3059",
+              "text": "Hermann Rodrigues"
+            },
+            {
+              "@pid": "40/4529",
+              "text": "Britaldo Silveira Soares-Filho"
+            }
+          ]
+        },
+        "title": "Optimizing a Geomodeling Domain Specific Language.",
+        "venue": "SBLP",
+        "pages": "87-101",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/FerreiraPRS12",
+        "doi": "10.1007/978-3-642-33182-4_8",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_8",
+        "url": "https://dblp.org/rec/conf/sblp/FerreiraPRS12"
+      },
+      "url": "URL#3402389"
+    },
+    {
+      "@score": "2",
+      "@id": "3402390",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2261",
+              "text": "Felipe Nunes Gaia"
+            },
+            {
+              "@pid": "74/9489",
+              "text": "Gabriel Coutinho Sousa Ferreira"
+            },
+            {
+              "@pid": "03/335",
+              "text": "Eduardo Figueiredo 0001"
+            },
+            {
+              "@pid": "97/4668",
+              "text": "Marcelo de Almeida Maia"
+            }
+          ]
+        },
+        "title": "A Quantitative Assessment of Aspectual Feature Modules for Evolving Software Product Lines.",
+        "venue": "SBLP",
+        "pages": "134-149",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/GaiaFFM12",
+        "doi": "10.1007/978-3-642-33182-4_11",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_11",
+        "url": "https://dblp.org/rec/conf/sblp/GaiaFFM12"
+      },
+      "url": "URL#3402390"
+    },
+    {
+      "@score": "2",
+      "@id": "3402391",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "64/4850",
+              "text": "S\u00e9rgio Medeiros"
+            },
+            {
+              "@pid": "80/5193",
+              "text": "Fabio Mascarenhas"
+            },
+            {
+              "@pid": "90/4557",
+              "text": "Roberto Ierusalimschy"
+            }
+          ]
+        },
+        "title": "Left Recursion in Parsing Expression Grammars.",
+        "venue": "SBLP",
+        "pages": "27-41",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/MedeirosMI12",
+        "doi": "10.1007/978-3-642-33182-4_4",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_4",
+        "url": "https://dblp.org/rec/conf/sblp/MedeirosMI12"
+      },
+      "url": "URL#3402391"
+    },
+    {
+      "@score": "2",
+      "@id": "3402392",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "119/2191",
+              "text": "Leonardo Vieira dos Santos Reis"
+            },
+            {
+              "@pid": "67/5401",
+              "text": "Roberto da Silva Bigonha"
+            },
+            {
+              "@pid": "26/6772",
+              "text": "Vladimir Oliveira Di Iorio"
+            },
+            {
+              "@pid": "119/2226",
+              "text": "Lu\u00eds Eduardo de Souza Amorim"
+            }
+          ]
+        },
+        "title": "Adaptable Parsing Expression Grammars.",
+        "venue": "SBLP",
+        "pages": "72-86",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/ReisBIA12",
+        "doi": "10.1007/978-3-642-33182-4_7",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_7",
+        "url": "https://dblp.org/rec/conf/sblp/ReisBIA12"
+      },
+      "url": "URL#3402392"
+    },
+    {
+      "@score": "2",
+      "@id": "3402393",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "04/10523",
+              "text": "Diogo Nunes Sampaio"
+            },
+            {
+              "@pid": "119/2204",
+              "text": "Elie Gedeon"
+            },
+            {
+              "@pid": "p/FMQPereira",
+              "text": "Fernando Magno Quint\u00e3o Pereira"
+            },
+            {
+              "@pid": "37/3711",
+              "text": "Sylvain Collange"
+            }
+          ]
+        },
+        "title": "Spill Code Placement for SIMD Machines.",
+        "venue": "SBLP",
+        "pages": "12-26",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/SampaioGPC12",
+        "doi": "10.1007/978-3-642-33182-4_3",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_3",
+        "url": "https://dblp.org/rec/conf/sblp/SampaioGPC12"
+      },
+      "url": "URL#3402393"
+    },
+    {
+      "@score": "2",
+      "@id": "3402394",
+      "info": {
+        "authors": {
+          "author": [
+            {
+              "@pid": "34/5491",
+              "text": "Marcos Viera"
+            },
+            {
+              "@pid": "s/SDSwierstra",
+              "text": "S. Doaitse Swierstra"
+            }
+          ]
+        },
+        "title": "Attribute Grammar Macros.",
+        "venue": "SBLP",
+        "pages": "150-164",
+        "year": "2012",
+        "type": "Conference and Workshop Papers",
+        "access": "closed",
+        "key": "conf/sblp/VieraS12",
+        "doi": "10.1007/978-3-642-33182-4_12",
+        "ee": "https://doi.org/10.1007/978-3-642-33182-4_12",
+        "url": "https://dblp.org/rec/conf/sblp/VieraS12"
+      },
+      "url": "URL#3402394"
+    }
+  ]
+}
